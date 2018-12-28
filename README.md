@@ -4,7 +4,7 @@
 
 This is a very simple library to calculate sales tax rates for Washington State, in the United States. It doesn't do anything else.
 
-Useful if your only nexus is in Washington state (like me). I take no responsibility for your use of this library (see license). API is unofficially modeled after TaxJar (no affiliation, this is what I was replacing).
+Useful if your only nexus is in Washington state. I take no responsibility for your use of this library (see license). API is unofficially modeled after TaxJar (no affiliation, this is what I was replacing).
 
 **Tax Rates valid for Jan 01 2019 to Mar 31 2019.**
 
@@ -37,6 +37,8 @@ If you choose not to use the Mapquest API or it returns an error, and the city r
 Require: `const { taxForOrder } = require('washington-state-sales-tax');`
 
 The function `taxForOrder` takes two arguments, a parameters object, which should have two keys: `amount` and `zip`. The second argument is a callback function, with one argument, a resulting output object.
+
+You can see how it works in **test.js**
 
 ```
 taxForOrder({
@@ -155,3 +157,8 @@ taxForOrder({
   "amount_to_collect": 10.1
 }
 ```
+
+## Tests
+
+You can run some basic tests from the command line via `npm test`. This is also a great way to see how it works & kick the tires a bit. Make sure you understand what this library does before you use it, as there may be financial or legal consequences for collecting taxes incorrectly.
+
