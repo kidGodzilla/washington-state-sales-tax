@@ -160,5 +160,5 @@ taxForOrder({
 
 ## Tests
 
-You can run some basic tests from the command line via `npm test`. This is also a great way to see how it works & kick the tires a bit. Make sure you understand what this library does before you use it, as there may be financial or legal consequences for collecting taxes incorrectly.
+You can run some basic tests from the command line via `npm test`. This is also a great way to see how it works & kick the tires a bit, by editing `test.js`. Make sure you understand what this library does before you use it, as there may be financial or legal consequences for collecting taxes incorrectly.
 
