@@ -15,6 +15,7 @@
  */
 
 module.exports = {
+    "expires": "2019-04-01T07:00:00.000Z",
     "Aberdeen": {
         "county":"Grays Harbor",
         "locationCode": 1401,

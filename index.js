@@ -34,6 +34,44 @@ function taxForOrder (params, cb) {
     // Join in augmented location information
     if (loc) obj = Object.assign(obj, loc);
 
+    // Check expiration
+    function checkExpiry () {
+        // Check expiry
+        if (taxrates && taxrates.expires && + new Date() > + new Date(taxrates.expires)) {
+            taxrates.expired = true;
+            console.log('Tax rate table in npm library washington-state-sales-tax has expired');
+        } else
+            obj.expired = false;
+    }
+
+    // Callback to be executed after final tax rate is determined
+    function afterSettled () {
+        // Append jurisdictions object to output object
+        var jurisdictions = { country: "US", state: "WA" };
+
+        if (obj.county) jurisdictions.county = obj.county.toUpperCase();
+        if (obj.city) jurisdictions.city = obj.city.toUpperCase();
+        obj.jurisdictions = jurisdictions;
+
+        // If we have a taxable amount
+        if (amount) {
+            if (obj.totalTaxRate) { // If we have a tax rate
+                obj.rate = obj.totalTaxRate;
+                obj.inferred = false;
+
+            } else { // Fallback behavior: charge the 10.1% (maximum) rate for unspecified WA orders. You will need to refund this later.
+                obj.inferredRate = 0.101;
+                obj.inferred = true;
+                obj.rate = 0.101;
+            }
+
+            obj.amount_to_collect = parseFloat((amount * obj.rate).toFixed(2));
+        }
+
+        if (cb && typeof cb === 'function') cb(obj);
+        return;
+    }
+
     // Assume our sales tax nexus is only Washington State.
     // Calculate sales tax for WA, US orders and no others.
     if (obj.country === 'US' && obj.state === 'WA') {
@@ -42,33 +80,9 @@ function taxForOrder (params, cb) {
         obj.freight_taxable = true;
         obj.has_nexus = true;
 
-        // Callback to be executed after final tax rate is determined
-        function afterSettled () {
-            // Append jurisdictions object to output object
-            var jurisdictions = { country: "US", state: "WA" };
-
-            if (obj.county) jurisdictions.county = obj.county.toUpperCase();
-            if (obj.city) jurisdictions.city = obj.city.toUpperCase();
-            obj.jurisdictions = jurisdictions;
-
-            // If we have a taxable amount
-            if (amount) {
-                if (obj.totalTaxRate) { // If we have a tax rate
-                    obj.rate = obj.totalTaxRate;
-                    obj.inferred = false;
-
-                } else { // Fallback behavior: charge the 10.1% (maximum) rate for unspecified WA orders. You will need to refund this later.
-                    obj.inferredRate = 0.101;
-                    obj.inferred = true;
-                    obj.rate = 0.101;
-                }
-
-                obj.amount_to_collect = parseFloat((amount * obj.rate).toFixed(2));
-            }
-
-            if (cb && typeof cb === 'function') cb(obj);
-            return;
-        }
+        // Add tax rate table expiry date to output
+        if (taxrates && taxrates.expires) obj.expires = taxrates.expires;
+        checkExpiry();
 
         if (taxrates && taxrates[obj.city]) { // Exact city match
             obj = Object.assign(obj, taxrates[obj.city]);
@@ -107,6 +121,9 @@ function taxForOrder (params, cb) {
             afterSettled();
 
     } else {
+
+        checkExpiry();
+
         obj.freight_taxable = true;
         obj.amount_to_collect = 0;
         obj.taxable_amount = 0;
