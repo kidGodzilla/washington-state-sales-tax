@@ -6,6 +6,6 @@ This is a very simple library to calculate sales tax rates for Washington State,
 
 Useful if your only nexus is in Washington state.
 
-** Tax Rates valid for Jan 01 2019 to Mar 31 2019. **
+*Tax Rates valid for Jan 01 2019 to Mar 31 2019.*
 
 
