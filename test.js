@@ -1,7 +1,6 @@
 /**
- * Simple tests
+ * Simple set of tests in the command line
  */
-
 const { taxForOrder } = require('./index.js');
 
 const mapquestKey = ''; // Add your mapquest API key to test with Mapquest
