@@ -1,6 +1,10 @@
 /**
  * WA sales tax rates Jan 1 2019 - Mar 31 2019
  *
+ * These rates must be updated each quarter. Pull Requests appreciated :)
+ *
+ * INSTRUCTIONS FOR UPDATING:
+ *
  * 1. Download updates from: https://dor.wa.gov/get-form-or-publication/publications-subject/local-sales-use-tax-rates-excel-format
  * 2. Convert to CSV (Excel, Numbers, libreOffice, others)
  * 3. Convert CSV to JSON: http://www.convertcsv.com/csv-to-json.htm
