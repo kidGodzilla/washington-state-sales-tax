@@ -1,0 +1,31 @@
+{
+  "name": "washington-state-sales-tax",
+  "version": "0.2.1",
+  "description": "This is a very simple library to calculate sales tax rates for Washington State, in the United States. It doesn't do anything else.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidGodzilla/washington-state-sales-tax.git"
+  },
+  "keywords": [
+    "wa",
+    "washington",
+    "sales",
+    "tax",
+    "us",
+    "usa"
+  ],
+  "author": "James Futhey <futhey@gmail.com> (http://jamesfuthey.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kidGodzilla/washington-state-sales-tax/issues"
+  },
+  "homepage": "https://github.com/kidGodzilla/washington-state-sales-tax#readme",
+  "dependencies": {
+    "superagent": "^4.1.0",
+    "zipcodes": "^8.0.0"
+  }
+}

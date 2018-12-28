@@ -1,0 +1,125 @@
+/**
+ * Washington State Sales Tax Calculator
+ */
+const taxrates = require('./taxrates.js');
+const request = require('superagent');
+const zipcodes = require('zipcodes');
+
+function taxForOrder (params, cb) {
+    let { zip, amount, mapquestKey } = params;
+
+    if (!zip) {
+        if (cb && typeof cb === 'function') cb(false);
+        return;
+    }
+
+    // Get full location information (city, state) for the provided ZIP code
+    let loc = zipcodes.lookup(zip);
+
+    if (!loc) {
+        if (cb && typeof cb === 'function') cb('could not lookup zip');
+        return;
+    }
+
+    // Ensure our input amount is a two-decimal float
+    if (amount) amount = parseFloat(amount);
+
+    const isInt = amount % 1 === 0;
+
+    if (amount && !isInt) amount = parseFloat(amount.toFixed(2));
+
+    // Scaffold the beginnings of our output object
+    let obj = { amount: amount, shipping: 0, order_total_amount: amount };
+
+    // Join in augmented location information
+    if (loc) obj = Object.assign(obj, loc);
+
+    // Assume our sales tax nexus is only Washington State.
+    // Calculate sales tax for WA, US orders and no others.
+    if (obj.country === 'US' && obj.state === 'WA') {
+        obj.tax_source = "destination";
+        obj.taxable_amount = amount;
+        obj.freight_taxable = true;
+        obj.has_nexus = true;
+
+        // Callback to be executed after final tax rate is determined
+        function afterSettled () {
+            // Append jurisdictions object to output object
+            var jurisdictions = { country: "US", state: "WA" };
+
+            if (obj.county) jurisdictions.county = obj.county.toUpperCase();
+            if (obj.city) jurisdictions.city = obj.city.toUpperCase();
+            obj.jurisdictions = jurisdictions;
+
+            // If we have a taxable amount
+            if (amount) {
+                if (obj.totalTaxRate) { // If we have a tax rate
+                    obj.rate = obj.totalTaxRate;
+                    obj.inferred = false;
+
+                } else { // Fallback behavior: charge the 10.1% (maximum) rate for unspecified WA orders. You will need to refund this later.
+                    obj.inferredRate = 0.101;
+                    obj.inferred = true;
+                    obj.rate = 0.101;
+                }
+
+                obj.amount_to_collect = parseFloat((amount * obj.rate).toFixed(2));
+            }
+
+            if (cb && typeof cb === 'function') cb(obj);
+            return;
+        }
+
+        if (taxrates && taxrates[obj.city]) { // Exact city match
+            obj = Object.assign(obj, taxrates[obj.city]);
+            obj.taxLocaleString = obj.city;
+            afterSettled();
+        } else if (mapquestKey) { // Lookup county if mapquestKey provided
+            var county, countyString;
+
+            var url = `http://open.mapquestapi.com/geocoding/v1/address?key=${ mapquestKey }&location=${ obj.city },${ obj.state }}`;
+
+            request.get(url).set('Content-Type', 'application/json').end((err, ress) => {
+                if (ress && ress.body) {
+
+                    try {
+                        if (ress.body.results[0].locations[0].adminArea4Type === 'County') county = ress.body.results[0].locations[0].adminArea4;
+                        if (county) countyString = county + ' Unincorp. Areas';
+
+                        if (taxrates[countyString]) {
+                            obj = Object.assign(obj, taxrates[countyString]);
+                            obj.taxLocaleString = countyString;
+
+                        } else if (taxrates[county]) {
+                            obj = Object.assign(obj, taxrates[county]);
+                            obj.taxLocaleString = county;
+                        }
+
+                    } catch(e){}
+
+                    if (county) obj.county = county;
+
+                    afterSettled();
+
+                } else afterSettled();
+            })
+        } else
+            afterSettled();
+
+    } else {
+        obj.freight_taxable = true;
+        obj.amount_to_collect = 0;
+        obj.taxable_amount = 0;
+        obj.has_nexus = false;
+        obj.rate = 0;
+
+        if (cb && typeof cb === 'function') cb(obj);
+        return;
+    }
+}
+
+
+module.exports = {
+    taxRates: taxrates,
+    taxForOrder: taxForOrder
+};
