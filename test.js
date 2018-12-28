@@ -4,7 +4,7 @@
 
 const { taxForOrder } = require('./index.js');
 
-const mapquestKey = 'CL6ix0GqApM64k5G6ctGFt1f2xVSyelU'; // Add your mapquest API key to test with Mapquest
+const mapquestKey = ''; // Add your mapquest API key to test with Mapquest
 
 function clear (n) {
     if (!n) n = 25;
