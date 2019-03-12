@@ -6,7 +6,7 @@ This is a very simple library to calculate sales tax rates for Washington State,
 
 Useful if your only nexus is in Washington state. I take no responsibility for your use of this library (see license). API is unofficially modeled after TaxJar (no affiliation, this is what I was replacing).
 
-**Tax Rates valid for Jan 01 2019 to Mar 31 2019.**
+**Tax Rates valid for Jan 01 2019 to Jun 30 2019.**
 
 ## How it works
 

@@ -1,10 +1,33 @@
 /**
  * Washington State Sales Tax Calculator
+ *
+ * Valid only for Washington State.
+ * This library contains no official endorsements or guarantees of accuracy.
+ * See README and LICENSE for more details.
  */
-const taxrates = require('./taxrates.js');
+const allRates = require('./taxrates.js');
 const request = require('superagent');
 const zipcodes = require('zipcodes');
+let timestamp = + new Date();
+let taxrates = null;
+const debug = 0;
 
+//if (debug) timestamp = + new Date('2019-09-02T07:00:00.000Z');
+
+// Find correct rate by expires
+allRates.forEach((rate, i) => {
+    if (rate.expires && (+ new Date(rate.expires)) > timestamp && !taxrates) {
+        if (debug) console.log('Using tax rate table #', i, '- Expires', rate.expires);
+        taxrates = rate;
+    }
+});
+
+// Fallback to latest table if all tables have expired
+if (!taxrates) taxrates = allRates[allRates.length - 1];
+
+/**
+ * Calculate tax for a given order
+ */
 function taxForOrder (params, cb) {
     let { zip, amount, mapquestKey } = params;
 
@@ -36,9 +59,8 @@ function taxForOrder (params, cb) {
 
     // Check expiration
     function checkExpiry () {
-        // Check expiry
-        if (taxrates && taxrates.expires && + new Date() > + new Date(taxrates.expires)) {
-            taxrates.expired = true;
+        if (taxrates && taxrates.expires && timestamp > + new Date(taxrates.expires)) {
+            obj.expired = true;
             console.log('Tax rate table in npm library washington-state-sales-tax has expired');
         } else
             obj.expired = false;
