@@ -1,7 +1,7 @@
 /**
  * Simple set of tests in the command line
  */
-const { taxForOrder } = require('./index.js');
+const { taxForOrder, taxRates } = require('./index.js');
 
 const mapquestKey = ''; // Add your mapquest API key to test with Mapquest
 
@@ -15,6 +15,9 @@ function logJSON (obj) {
 }
 
 clear();
+
+console.log('Selected Rate Table Expires:', taxRates.expires);
+clear(1);
 
 // Outlook, WA 98938 - Yakima County Unincorp. Areas - Inferred tax rate
 taxForOrder({
