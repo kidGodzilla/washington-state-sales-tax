@@ -160,5 +160,6 @@ function taxForOrder (params, cb) {
 
 module.exports = {
     taxRates: taxrates,
+    allRates: allRates,
     taxForOrder: taxForOrder
 };

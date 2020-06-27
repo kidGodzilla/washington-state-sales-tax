@@ -1,7 +1,9 @@
 /**
  * Simple set of tests in the command line
  */
-const { taxForOrder, taxRates } = require('./index.js');
+const { taxForOrder, taxRates, allRates } = require('./index.js');
+
+// taxRates = allRates[allRates.length - 1]; // Used to test the latest (future) rate table
 
 const mapquestKey = ''; // Add your mapquest API key to test with Mapquest
 
