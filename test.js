@@ -1,7 +1,7 @@
 /**
  * Simple set of tests in the command line
  */
-const { taxForOrder, taxRates, allRates } = require('./index.js');
+let { taxForOrder, taxRates, allRates } = require('./index.js');
 
 // taxRates = allRates[allRates.length - 1]; // Used to test the latest (future) rate table
 
