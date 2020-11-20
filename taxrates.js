@@ -1,5 +1,5 @@
 /**
- * WA sales tax rates Jan 1 2019 - Mar 31 2019
+ * WA sales tax rates Jan 1 2019 - Jan 1 2021
  *
  * These rates must be updated each quarter. Pull Requests appreciated :)
  *
