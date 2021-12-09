@@ -6,7 +6,7 @@ This is a very simple library to calculate sales tax rates for Washington State,
 
 Useful if your only nexus is in Washington state. I take no responsibility for your use of this library (see license). API is unofficially modeled after TaxJar (no affiliation, this is what I was replacing). Nice product which also prepares your filing for you (for a fee), and handles more complex tax scenarios.
 
-**Tax Rates valid for Jan 01 2020 to Jan 01 2022.**
+**Tax Rates valid for Jan 01 2021 to Mar 31 2022.**
 
 ## How it works
 
@@ -25,7 +25,7 @@ This now requires registration via https://developer.mapquest.com/documentation/
 
 
 ### Inferred tax rate
-If you choose not to use the Mapquest API or it returns an error, and the city rate is not explicity provided in the dataset above, a rate of 10.1% is charged, and the result will include the key/value `inferred = true`. It is up to you how you wish to implement this and you take responsibility for how you handle this fallback case (for example, you may refund this manually or set up a system to alert your customer in case this occurs).
+If you choose not to use the Mapquest API or it returns an error, and the city rate is not explicity provided in the dataset above, a rate of 10.25% is charged, and the result will include the key/value `inferred = true`. It is up to you how you wish to implement this and you take responsibility for how you handle this fallback case (for example, you may refund this manually or set up a system to alert your customer in case this occurs).
 
 
 ## Installation
