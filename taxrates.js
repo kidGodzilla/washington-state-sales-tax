@@ -18,10280 +18,6 @@
 
 module.exports = [
     {
-        "expires": "2021-01-01T07:00:00.000Z",
-        "Aberdeen": {
-            "county": "Grays Harbor",
-            "locationCode": 1401,
-            "localTaxRate": 0.0258,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.0908
-        },
-        "Adams County Unincorp. Areas": {
-            "county": "Adams",
-            "locationCode": 100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Airway Heights": {
-            "county": "Spokane",
-            "locationCode": 3201,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Albion": {
-            "county": "Whitman",
-            "locationCode": 3801,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Algona": {
-            "county": "King",
-            "locationCode": 1701,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Almira": {
-            "county": "Lincoln",
-            "locationCode": 2201,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Anacortes": {
-            "county": "Skagit",
-            "locationCode": 2901,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Arlington": {
-            "county": "Snohomish",
-            "locationCode": 3101,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Asotin": {
-            "county": "Asotin",
-            "locationCode": 201,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Asotin County Unincorp. Areas": {
-            "county": "Asotin",
-            "locationCode": 200,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Auburn in King County": {
-            "county": "King",
-            "locationCode": 1702,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Auburn in King County Non-RTA": {
-            "county": "King",
-            "locationCode": 4002,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Auburn in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2724,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Bainbridge Island": {
-            "county": "Kitsap",
-            "locationCode": 1804,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Battle Ground": {
-            "county": "Clark",
-            "locationCode": 601,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Beaux Arts Village": {
-            "county": "King",
-            "locationCode": 1703,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Bellevue": {
-            "county": "King",
-            "locationCode": 1704,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Bellevue Non-RTA": {
-            "county": "King",
-            "locationCode": 4004,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Bellingham": {
-            "county": "Whatcom",
-            "locationCode": 3701,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Benton City": {
-            "county": "Benton",
-            "locationCode": 301,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Benton County Unincorp. Areas": {
-            "county": "Benton",
-            "locationCode": 300,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Benton Co. Unincorp. PTBA": {
-            "county": "Benton",
-            "locationCode": 333,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Bingen": {
-            "county": "Klickitat",
-            "locationCode": 2001,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Black Diamond": {
-            "county": "King",
-            "locationCode": 1705,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Blaine": {
-            "county": "Whatcom",
-            "locationCode": 3702,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Bonney Lake": {
-            "county": "Pierce",
-            "locationCode": 2701,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Bonney Lake Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4101,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Bothell in King County": {
-            "county": "King",
-            "locationCode": 1706,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Bothell in Snohomish County": {
-            "county": "Snohomish",
-            "locationCode": 3120,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Bremerton": {
-            "county": "Kitsap",
-            "locationCode": 1801,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Brewster": {
-            "county": "Okanogan",
-            "locationCode": 2401,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Bridgeport": {
-            "county": "Douglas",
-            "locationCode": 901,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Brier": {
-            "county": "Snohomish",
-            "locationCode": 3102,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Buckley": {
-            "county": "Pierce",
-            "locationCode": 2702,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Bucoda": {
-            "county": "Thurston",
-            "locationCode": 3401,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Burien": {
-            "county": "King",
-            "locationCode": 1734,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Burlington": {
-            "county": "Skagit",
-            "locationCode": 2902,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Camas": {
-            "county": "Clark",
-            "locationCode": 602,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Carbonado": {
-            "county": "Pierce",
-            "locationCode": 2703,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Carnation": {
-            "county": "King",
-            "locationCode": 1707,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Cashmere": {
-            "county": "Chelan",
-            "locationCode": 401,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Castle Rock": {
-            "county": "Cowlitz",
-            "locationCode": 801,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Cathlamet": {
-            "county": "Wahkiakum",
-            "locationCode": 3501,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Centralia": {
-            "county": "Lewis",
-            "locationCode": 2101,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Chehalis": {
-            "county": "Lewis",
-            "locationCode": 2102,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Chelan": {
-            "county": "Chelan",
-            "locationCode": 402,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Chelan County Unincorp. Areas": {
-            "county": "Chelan",
-            "locationCode": 400,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Cheney": {
-            "county": "Spokane",
-            "locationCode": 3202,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chewelah": {
-            "county": "Stevens",
-            "locationCode": 3301,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Clallam County Unincorp. Areas": {
-            "county": "Clallam",
-            "locationCode": 500,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Clark County Unincorp. Areas": {
-            "county": "Clark",
-            "locationCode": 600,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Clark County Unincorp. PTBA": {
-            "county": "Clark",
-            "locationCode": 666,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Clarkston": {
-            "county": "Asotin",
-            "locationCode": 202,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Cle Elum": {
-            "county": "Kittitas",
-            "locationCode": 1901,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Clyde Hill": {
-            "county": "King",
-            "locationCode": 1708,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Colfax": {
-            "county": "Whitman",
-            "locationCode": 3802,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "College Place": {
-            "county": "Walla Walla",
-            "locationCode": 3601,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Colton": {
-            "county": "Whitman",
-            "locationCode": 3803,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Columbia County Unincorp. Areas": {
-            "county": "Columbia",
-            "locationCode": 700,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Colville": {
-            "county": "Stevens",
-            "locationCode": 3302,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Conconully": {
-            "county": "Okanogan",
-            "locationCode": 2402,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Concrete": {
-            "county": "Skagit",
-            "locationCode": 2903,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Connell": {
-            "county": "Franklin",
-            "locationCode": 1101,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Cosmopolis": {
-            "county": "Grays Harbor",
-            "locationCode": 1402,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Coulee City": {
-            "county": "Grant",
-            "locationCode": 1301,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Coulee Dam": {
-            "county": "Okanogan",
-            "locationCode": 2403,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Coupeville": {
-            "county": "Island",
-            "locationCode": 1501,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Covington": {
-            "county": "King",
-            "locationCode": 1712,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Cowlitz County Unincorp. Areas": {
-            "county": "Cowlitz",
-            "locationCode": 800,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Creston": {
-            "county": "Lincoln",
-            "locationCode": 2202,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Cusick": {
-            "county": "Pend Oreille",
-            "locationCode": 2601,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Darrington": {
-            "county": "Snohomish",
-            "locationCode": 3103,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Davenport": {
-            "county": "Lincoln",
-            "locationCode": 2203,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Dayton": {
-            "county": "Columbia",
-            "locationCode": 701,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Deer Park": {
-            "county": "Spokane",
-            "locationCode": 3203,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Des Moines": {
-            "county": "King",
-            "locationCode": 1709,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Douglas County Unincorp. Areas": {
-            "county": "Douglas",
-            "locationCode": 900,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Douglas County Unincorp. PTBA": {
-            "county": "Douglas",
-            "locationCode": 909,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "DuPont": {
-            "county": "Pierce",
-            "locationCode": 2704,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Duvall": {
-            "county": "King",
-            "locationCode": 1710,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "East Wenatchee": {
-            "county": "Douglas",
-            "locationCode": 902,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Eatonville": {
-            "county": "Pierce",
-            "locationCode": 2705,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Edgewood": {
-            "county": "Pierce",
-            "locationCode": 2720,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Edmonds": {
-            "county": "Snohomish",
-            "locationCode": 3104,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Electric City": {
-            "county": "Grant",
-            "locationCode": 1302,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Ellensburg": {
-            "county": "Kittitas",
-            "locationCode": 1902,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Elma": {
-            "county": "Grays Harbor",
-            "locationCode": 1403,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Elmer City": {
-            "county": "Okanogan",
-            "locationCode": 2404,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Endicott": {
-            "county": "Whitman",
-            "locationCode": 3804,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Entiat": {
-            "county": "Chelan",
-            "locationCode": 403,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Enumclaw": {
-            "county": "King",
-            "locationCode": 1711,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Ephrata": {
-            "county": "Grant",
-            "locationCode": 1303,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Everett": {
-            "county": "Snohomish",
-            "locationCode": 3105,
-            "localTaxRate": 0.033,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.098
-        },
-        "Everett Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4205,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Everson": {
-            "county": "Whatcom",
-            "locationCode": 3703,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Fairfield": {
-            "county": "Spokane",
-            "locationCode": 3204,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Farmington": {
-            "county": "Whitman",
-            "locationCode": 3805,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Federal Way": {
-            "county": "King",
-            "locationCode": 1732,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Ferndale": {
-            "county": "Whatcom",
-            "locationCode": 3704,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Ferry County Unincorp. Areas": {
-            "county": "Ferry",
-            "locationCode": 1000,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Fife": {
-            "county": "Pierce",
-            "locationCode": 2706,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Fircrest": {
-            "county": "Pierce",
-            "locationCode": 2707,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Forks": {
-            "county": "Clallam",
-            "locationCode": 501,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Franklin County Unincorp. Areas": {
-            "county": "Franklin",
-            "locationCode": 1100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Franklin County Unincorp. PTBA": {
-            "county": "Franklin",
-            "locationCode": 1111,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Friday Harbor": {
-            "county": "San Juan",
-            "locationCode": 2801,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Garfield": {
-            "county": "Whitman",
-            "locationCode": 3806,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Garfield County Unincorp. Areas": {
-            "county": "Garfield",
-            "locationCode": 1200,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "George": {
-            "county": "Grant",
-            "locationCode": 1304,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Gig Harbor": {
-            "county": "Pierce",
-            "locationCode": 2708,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Gig Harbor HBZ": {
-            "county": "Pierce",
-            "locationCode": 2788,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Gold Bar": {
-            "county": "Snohomish",
-            "locationCode": 3106,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Goldendale": {
-            "county": "Klickitat",
-            "locationCode": 2002,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Grand Coulee": {
-            "county": "Grant",
-            "locationCode": 1305,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Grandview": {
-            "county": "Yakima",
-            "locationCode": 3901,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Granger": {
-            "county": "Yakima",
-            "locationCode": 3902,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Granite Falls": {
-            "county": "Snohomish",
-            "locationCode": 3107,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Grant County Unincorp. Areas": {
-            "county": "Grant",
-            "locationCode": 1300,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Grays Harbor County Unincorp. Areas": {
-            "county": "Grays Harbor",
-            "locationCode": 1400,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Hamilton": {
-            "county": "Skagit",
-            "locationCode": 2904,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Harrah": {
-            "county": "Yakima",
-            "locationCode": 3903,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Harrington": {
-            "county": "Lincoln",
-            "locationCode": 2204,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Hartline": {
-            "county": "Grant",
-            "locationCode": 1306,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Hatton": {
-            "county": "Adams",
-            "locationCode": 101,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Hoquiam": {
-            "county": "Grays Harbor",
-            "locationCode": 1404,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Hunts Point": {
-            "county": "King",
-            "locationCode": 1713,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Ilwaco": {
-            "county": "Pacific",
-            "locationCode": 2501,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Index": {
-            "county": "Snohomish",
-            "locationCode": 3108,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Ione": {
-            "county": "Pend Oreille",
-            "locationCode": 2602,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Island County Unincorp. Areas": {
-            "county": "Island",
-            "locationCode": 1500,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Issaquah": {
-            "county": "King",
-            "locationCode": 1714,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Issaquah Non-RTA": {
-            "county": "King",
-            "locationCode": 4014,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Jefferson County Unincorp. Areas": {
-            "county": "Jefferson",
-            "locationCode": 1600,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Kahlotus": {
-            "county": "Franklin",
-            "locationCode": 1102,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Kalama": {
-            "county": "Cowlitz",
-            "locationCode": 802,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Kelso": {
-            "county": "Cowlitz",
-            "locationCode": 803,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Kenmore": {
-            "county": "King",
-            "locationCode": 1738,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Kennewick": {
-            "county": "Benton",
-            "locationCode": 302,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Kent": {
-            "county": "King",
-            "locationCode": 1715,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Kent Non-RTA": {
-            "county": "King",
-            "locationCode": 4015,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Kettle Falls": {
-            "county": "Stevens",
-            "locationCode": 3303,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "King County Unincorp. Areas": {
-            "county": "King",
-            "locationCode": 1700,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "King County Unincorp. Non-RTA": {
-            "county": "King",
-            "locationCode": 4000,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Kirkland": {
-            "county": "King",
-            "locationCode": 1716,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Kitsap County Unincorp. Areas": {
-            "county": "Kitsap",
-            "locationCode": 1800,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Kittitas City": {
-            "county": "Kittitas",
-            "locationCode": 1903,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Kittitas County Unincorp. Areas": {
-            "county": "Kittitas",
-            "locationCode": 1900,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Klickitat County Unincorp. Areas": {
-            "county": "Klickitat",
-            "locationCode": 2000,
-            "localTaxRate": 0.005,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.07
-        },
-        "Krupp": {
-            "county": "Grant",
-            "locationCode": 1307,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "La Center": {
-            "county": "Clark",
-            "locationCode": 603,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "La Conner": {
-            "county": "Skagit",
-            "locationCode": 2905,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "LaCrosse": {
-            "county": "Whitman",
-            "locationCode": 3807,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Lacey": {
-            "county": "Thurston",
-            "locationCode": 3402,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Lake Forest Park": {
-            "county": "King",
-            "locationCode": 1717,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Lake Stevens": {
-            "county": "Snohomish",
-            "locationCode": 3109,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Lakewood": {
-            "county": "Pierce",
-            "locationCode": 2721,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Lamont": {
-            "county": "Whitman",
-            "locationCode": 3808,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Langley": {
-            "county": "Island",
-            "locationCode": 1502,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Latah": {
-            "county": "Spokane",
-            "locationCode": 3205,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Leavenworth": {
-            "county": "Chelan",
-            "locationCode": 404,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Lewis County Unincorp. Areas": {
-            "county": "Lewis",
-            "locationCode": 2100,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Liberty Lake": {
-            "county": "Spokane",
-            "locationCode": 3212,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Lincoln County Unincorp. Areas": {
-            "county": "Lincoln",
-            "locationCode": 2200,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Lind": {
-            "county": "Adams",
-            "locationCode": 102,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Long Beach": {
-            "county": "Pacific",
-            "locationCode": 2502,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Longview": {
-            "county": "Cowlitz",
-            "locationCode": 804,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Lyman": {
-            "county": "Skagit",
-            "locationCode": 2906,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Lynden": {
-            "county": "Whatcom",
-            "locationCode": 3705,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Lynnwood": {
-            "county": "Snohomish",
-            "locationCode": 3110,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Mabton": {
-            "county": "Yakima",
-            "locationCode": 3904,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Malden": {
-            "county": "Whitman",
-            "locationCode": 3809,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Mansfield": {
-            "county": "Douglas",
-            "locationCode": 903,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Maple Valley": {
-            "county": "King",
-            "locationCode": 1720,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Marcus": {
-            "county": "Stevens",
-            "locationCode": 3304,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Marysville": {
-            "county": "Snohomish",
-            "locationCode": 3111,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Mason County Unincorp. Areas": {
-            "county": "Mason",
-            "locationCode": 2300,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Mattawa": {
-            "county": "Grant",
-            "locationCode": 1308,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "McCleary": {
-            "county": "Grays Harbor",
-            "locationCode": 1405,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Medical Lake": {
-            "county": "Spokane",
-            "locationCode": 3206,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Medina": {
-            "county": "King",
-            "locationCode": 1718,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Mercer Island": {
-            "county": "King",
-            "locationCode": 1719,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Mesa": {
-            "county": "Franklin",
-            "locationCode": 1103,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Metaline": {
-            "county": "Pend Oreille",
-            "locationCode": 2603,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Metaline Falls": {
-            "county": "Pend Oreille",
-            "locationCode": 2604,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Mill Creek": {
-            "county": "Snohomish",
-            "locationCode": 3119,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Millwood": {
-            "county": "Spokane",
-            "locationCode": 3207,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Milton in King County": {
-            "county": "King",
-            "locationCode": 1731,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Milton in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2709,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Monroe": {
-            "county": "Snohomish",
-            "locationCode": 3112,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Montesano": {
-            "county": "Grays Harbor",
-            "locationCode": 1406,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Morton": {
-            "county": "Lewis",
-            "locationCode": 2103,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Moses Lake": {
-            "county": "Grant",
-            "locationCode": 1309,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Mossyrock": {
-            "county": "Lewis",
-            "locationCode": 2104,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Mount Vernon": {
-            "county": "Skagit",
-            "locationCode": 2907,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Mountlake Terrace": {
-            "county": "Snohomish",
-            "locationCode": 3113,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Moxee City": {
-            "county": "Yakima",
-            "locationCode": 3905,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Mukilteo": {
-            "county": "Snohomish",
-            "locationCode": 3114,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Naches": {
-            "county": "Yakima",
-            "locationCode": 3906,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Napavine": {
-            "county": "Lewis",
-            "locationCode": 2105,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Nespelem": {
-            "county": "Okanogan",
-            "locationCode": 2405,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Newcastle": {
-            "county": "King",
-            "locationCode": 1736,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Newcastle Non-RTA": {
-            "county": "King",
-            "locationCode": 4036,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Newport": {
-            "county": "Pend Oreille",
-            "locationCode": 2605,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Nooksack": {
-            "county": "Whatcom",
-            "locationCode": 3706,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Normandy Park": {
-            "county": "King",
-            "locationCode": 1721,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "North Bend": {
-            "county": "King",
-            "locationCode": 1722,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "North Bonneville": {
-            "county": "Skamania",
-            "locationCode": 3001,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Northport": {
-            "county": "Stevens",
-            "locationCode": 3305,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Oak Harbor": {
-            "county": "Island",
-            "locationCode": 1503,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Oakesdale": {
-            "county": "Whitman",
-            "locationCode": 3810,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Oakville": {
-            "county": "Grays Harbor",
-            "locationCode": 1407,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Ocean Shores": {
-            "county": "Grays Harbor",
-            "locationCode": 1409,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Odessa": {
-            "county": "Lincoln",
-            "locationCode": 2205,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Okanogan": {
-            "county": "Okanogan",
-            "locationCode": 2406,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Okanogan County Unincorp. Areas": {
-            "county": "Okanogan",
-            "locationCode": 2400,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Okanogan County Unincorp. PTBA": {
-            "county": "Okanogan",
-            "locationCode": 2424,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Olympia": {
-            "county": "Thurston",
-            "locationCode": 3403,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Omak": {
-            "county": "Okanogan",
-            "locationCode": 2407,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Oroville": {
-            "county": "Okanogan",
-            "locationCode": 2408,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Orting": {
-            "county": "Pierce",
-            "locationCode": 2710,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Othello": {
-            "county": "Adams",
-            "locationCode": 103,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Pacific County Unincorp. Areas": {
-            "county": "Pacific",
-            "locationCode": 2500,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Pacific in King County": {
-            "county": "King",
-            "locationCode": 1723,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Pacific in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2723,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Palouse": {
-            "county": "Whitman",
-            "locationCode": 3811,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Pasco": {
-            "county": "Franklin",
-            "locationCode": 1104,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pateros": {
-            "county": "Okanogan",
-            "locationCode": 2409,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Pe Ell": {
-            "county": "Lewis",
-            "locationCode": 2106,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Pend Oreille County Unincorp. Areas": {
-            "county": "Pend Oreille",
-            "locationCode": 2600,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Pierce County Unincorp. Areas": {
-            "county": "Pierce",
-            "locationCode": 2700,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Pierce County Unincorp. Areas Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4100,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Pierce County Unincorp. Areas Non-RTA HBZ": {
-            "county": "Pierce",
-            "locationCode": 2789,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Pierce County Unincorp. PTBA": {
-            "county": "Pierce",
-            "locationCode": 2727,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Pierce County Unincorp. PTBA HBZ": {
-            "county": "Pierce",
-            "locationCode": 2787,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Pierce County Unincorp. PTBA\nNon-RTA": {
-            "county": "Pierce",
-            "locationCode": 4127,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Pomeroy": {
-            "county": "Garfield",
-            "locationCode": 1201,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Port Angeles": {
-            "county": "Clallam",
-            "locationCode": 502,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Port Orchard": {
-            "county": "Kitsap",
-            "locationCode": 1802,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Port Townsend": {
-            "county": "Jefferson",
-            "locationCode": 1601,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Poulsbo": {
-            "county": "Kitsap",
-            "locationCode": 1803,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Prescott": {
-            "county": "Walla Walla",
-            "locationCode": 3602,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Prosser": {
-            "county": "Benton",
-            "locationCode": 303,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pullman": {
-            "county": "Whitman",
-            "locationCode": 3812,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Puyallup": {
-            "county": "Pierce",
-            "locationCode": 2711,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Quincy": {
-            "county": "Grant",
-            "locationCode": 1310,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Rainier": {
-            "county": "Thurston",
-            "locationCode": 3404,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Raymond": {
-            "county": "Pacific",
-            "locationCode": 2503,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Reardan": {
-            "county": "Lincoln",
-            "locationCode": 2206,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Redmond": {
-            "county": "King",
-            "locationCode": 1724,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Redmond Non-RTA": {
-            "county": "King",
-            "locationCode": 4024,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Renton": {
-            "county": "King",
-            "locationCode": 1725,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Renton Non-RTA": {
-            "county": "King",
-            "locationCode": 4025,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Republic": {
-            "county": "Ferry",
-            "locationCode": 1001,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Richland": {
-            "county": "Benton",
-            "locationCode": 304,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Ridgefield": {
-            "county": "Clark",
-            "locationCode": 604,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Ritzville": {
-            "county": "Adams",
-            "locationCode": 104,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Riverside": {
-            "county": "Okanogan",
-            "locationCode": 2410,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Rock Island": {
-            "county": "Douglas",
-            "locationCode": 904,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Rockford": {
-            "county": "Spokane",
-            "locationCode": 3208,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Rosalia": {
-            "county": "Whitman",
-            "locationCode": 3813,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Roslyn": {
-            "county": "Kittitas",
-            "locationCode": 1904,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Roy": {
-            "county": "Pierce",
-            "locationCode": 2712,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Royal City": {
-            "county": "Grant",
-            "locationCode": 1311,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Ruston": {
-            "county": "Pierce",
-            "locationCode": 2713,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Sammamish": {
-            "county": "King",
-            "locationCode": 1739,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Sammamish Non-RTA": {
-            "county": "King",
-            "locationCode": 4039,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "San Juan County Unincorp. Areas": {
-            "county": "San Juan",
-            "locationCode": 2800,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "SeaTac": {
-            "county": "King",
-            "locationCode": 1733,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Seattle": {
-            "county": "King",
-            "locationCode": 1726,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Sedro-Woolley": {
-            "county": "Skagit",
-            "locationCode": 2908,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Selah": {
-            "county": "Yakima",
-            "locationCode": 3907,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Sequim": {
-            "county": "Clallam",
-            "locationCode": 503,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Shelton": {
-            "county": "Mason",
-            "locationCode": 2301,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Shoreline": {
-            "county": "King",
-            "locationCode": 1737,
-            "localTaxRate": 0.037,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.102
-        },
-        "Skagit County Unincorp. Areas": {
-            "county": "Skagit",
-            "locationCode": 2900,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Skagit County Unincorp. PTBA": {
-            "county": "Skagit",
-            "locationCode": 2929,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Skamania County Unincorp. Areas": {
-            "county": "Skamania",
-            "locationCode": 3000,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Skykomish": {
-            "county": "King",
-            "locationCode": 1727,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Snohomish": {
-            "county": "Snohomish",
-            "locationCode": 3115,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Snohomish County Unincorp. Areas": {
-            "county": "Snohomish",
-            "locationCode": 3100,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Snohomish County Unincorp. Areas Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4200,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Snohomish County Unincorp. PTBA": {
-            "county": "Snohomish",
-            "locationCode": 3131,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Snohomish County Unincorp. PTBA Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4231,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Snoqualmie": {
-            "county": "King",
-            "locationCode": 1728,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Soap Lake": {
-            "county": "Grant",
-            "locationCode": 1312,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "South Bend": {
-            "county": "Pacific",
-            "locationCode": 2504,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "South Cle Elum": {
-            "county": "Kittitas",
-            "locationCode": 1905,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "South Prairie": {
-            "county": "Pierce",
-            "locationCode": 2714,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Spangle": {
-            "county": "Spokane",
-            "locationCode": 3209,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Spokane": {
-            "county": "Spokane",
-            "locationCode": 3210,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Spokane County Unincorp. Areas": {
-            "county": "Spokane",
-            "locationCode": 3200,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Spokane County Unincorp. PTBA": {
-            "county": "Spokane",
-            "locationCode": 3232,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Spokane Valley": {
-            "county": "Spokane",
-            "locationCode": 3213,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Sprague": {
-            "county": "Lincoln",
-            "locationCode": 2207,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Springdale": {
-            "county": "Stevens",
-            "locationCode": 3306,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "St. John": {
-            "county": "Whitman",
-            "locationCode": 3814,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Stanwood": {
-            "county": "Snohomish",
-            "locationCode": 3116,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Starbuck": {
-            "county": "Columbia",
-            "locationCode": 702,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Steilacoom": {
-            "county": "Pierce",
-            "locationCode": 2715,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Stevens County Unincorp. Areas": {
-            "county": "Stevens",
-            "locationCode": 3300,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Stevenson": {
-            "county": "Skamania",
-            "locationCode": 3002,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Sultan": {
-            "county": "Snohomish",
-            "locationCode": 3117,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Sumas": {
-            "county": "Whatcom",
-            "locationCode": 3707,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Sumner": {
-            "county": "Pierce",
-            "locationCode": 2716,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Sunnyside": {
-            "county": "Yakima",
-            "locationCode": 3908,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Tacoma": {
-            "county": "Pierce",
-            "locationCode": 2717,
-            "localTaxRate": 0.037,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.102
-        },
-        "Tekoa": {
-            "county": "Whitman",
-            "locationCode": 3815,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Tenino": {
-            "county": "Thurston",
-            "locationCode": 3405,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Thurston County Unincorp. Areas": {
-            "county": "Thurston",
-            "locationCode": 3400,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Thurston County Unincorp. PTBA": {
-            "county": "Thurston",
-            "locationCode": 3434,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Tieton": {
-            "county": "Yakima",
-            "locationCode": 3909,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Toledo": {
-            "county": "Lewis",
-            "locationCode": 2107,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Tonasket": {
-            "county": "Okanogan",
-            "locationCode": 2411,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Toppenish": {
-            "county": "Yakima",
-            "locationCode": 3910,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Tukwila": {
-            "county": "King",
-            "locationCode": 1729,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Tulalip Tribes - Marysville": {
-            "county": "Snohomish",
-            "locationCode": 3121,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Tulalip Tribes - Unincorp. PTBA Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4233,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Tumwater": {
-            "county": "Thurston",
-            "locationCode": 3406,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Twisp": {
-            "county": "Okanogan",
-            "locationCode": 2412,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Union Gap": {
-            "county": "Yakima",
-            "locationCode": 3911,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Uniontown": {
-            "county": "Whitman",
-            "locationCode": 3816,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "University Place": {
-            "county": "Pierce",
-            "locationCode": 2719,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Vader": {
-            "county": "Lewis",
-            "locationCode": 2108,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Vancouver": {
-            "county": "Clark",
-            "locationCode": 605,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Wahkiakum County Unincorp. Areas": {
-            "county": "Wahkiakum",
-            "locationCode": 3500,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Waitsburg": {
-            "county": "Walla Walla",
-            "locationCode": 3603,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Walla Walla": {
-            "county": "Walla Walla",
-            "locationCode": 3604,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Walla Walla County Unincorp. Areas": {
-            "county": "Walla Walla",
-            "locationCode": 3600,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Walla Walla County Unincorp. PTBA": {
-            "county": "Walla Walla",
-            "locationCode": 3636,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Wapato": {
-            "county": "Yakima",
-            "locationCode": 3912,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Warden": {
-            "county": "Grant",
-            "locationCode": 1313,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Washougal": {
-            "county": "Clark",
-            "locationCode": 606,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Washtucna": {
-            "county": "Adams",
-            "locationCode": 105,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Waterville": {
-            "county": "Douglas",
-            "locationCode": 905,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Waverly": {
-            "county": "Spokane",
-            "locationCode": 3211,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Wenatchee": {
-            "county": "Chelan",
-            "locationCode": 405,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "West Richland": {
-            "county": "Benton",
-            "locationCode": 305,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Westport": {
-            "county": "Grays Harbor",
-            "locationCode": 1408,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Whatcom County Unincorp. Areas": {
-            "county": "Whatcom",
-            "locationCode": 3700,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Whatcom County Unincorp. PTBA": {
-            "county": "Whatcom",
-            "locationCode": 3737,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "White Salmon": {
-            "county": "Klickitat",
-            "locationCode": 2003,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Whitman County Unincorp. Areas": {
-            "county": "Whitman",
-            "locationCode": 3800,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Wilbur": {
-            "county": "Lincoln",
-            "locationCode": 2208,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Wilkeson": {
-            "county": "Pierce",
-            "locationCode": 2718,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Wilson Creek": {
-            "county": "Grant",
-            "locationCode": 1315,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Winlock": {
-            "county": "Lewis",
-            "locationCode": 2109,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Winthrop": {
-            "county": "Okanogan",
-            "locationCode": 2413,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Woodinville": {
-            "county": "King",
-            "locationCode": 1735,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Woodinville Non-RTA": {
-            "county": "King",
-            "locationCode": 4035,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Woodland": {
-            "county": "Cowlitz",
-            "locationCode": 805,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Woodway": {
-            "county": "Snohomish",
-            "locationCode": 3118,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Yacolt": {
-            "county": "Clark",
-            "locationCode": 607,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Yakima": {
-            "county": "Yakima",
-            "locationCode": 3913,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Yakima County Unincorp. Areas": {
-            "county": "Yakima",
-            "locationCode": 3900,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Yarrow Point": {
-            "county": "King",
-            "locationCode": 1730,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Yelm": {
-            "county": "Thurston",
-            "locationCode": 3407,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Zillah": {
-            "county": "Yakima",
-            "locationCode": 3914,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        }
-    },
-    {
-        "expires": "2021-03-31T07:00:00.000Z",
-        "Aberdeen ": {
-            "county": "Grays Harbor",
-            "locationCode": 1401,
-            "localTaxRate": 0.0258,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.0908
-        },
-        "Adams County Unincorp. Areas": {
-            "county": "Adams",
-            "locationCode": 100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Airway Heights ": {
-            "county": "Spokane",
-            "locationCode": 3201,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Albion": {
-            "county": "Whitman",
-            "locationCode": 3801,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Algona": {
-            "county": "King",
-            "locationCode": 1701,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Almira": {
-            "county": "Lincoln",
-            "locationCode": 2201,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Anacortes": {
-            "county": "Skagit",
-            "locationCode": 2901,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Arlington ": {
-            "county": "Snohomish",
-            "locationCode": 3101,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Asotin": {
-            "county": "Asotin",
-            "locationCode": 201,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Asotin County Unincorp. Areas": {
-            "county": "Asotin",
-            "locationCode": 200,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Auburn in King County": {
-            "county": "King",
-            "locationCode": 1702,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Auburn in King County Non-RTA": {
-            "county": "King",
-            "locationCode": 4002,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Auburn in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2724,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Bainbridge Island": {
-            "county": "Kitsap",
-            "locationCode": 1804,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Battle Ground": {
-            "county": "Clark",
-            "locationCode": 601,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Beaux Arts Village": {
-            "county": "King",
-            "locationCode": 1703,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bellevue": {
-            "county": "King",
-            "locationCode": 1704,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bellevue Non-RTA": {
-            "county": "King",
-            "locationCode": 4004,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Bellingham ": {
-            "county": "Whatcom",
-            "locationCode": 3701,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Benton City": {
-            "county": "Benton",
-            "locationCode": 301,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Benton County Unincorp. Areas": {
-            "county": "Benton",
-            "locationCode": 300,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Benton Co. Unincorp. PTBA": {
-            "county": "Benton",
-            "locationCode": 333,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Bingen": {
-            "county": "Klickitat",
-            "locationCode": 2001,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Black Diamond": {
-            "county": "King",
-            "locationCode": 1705,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Blaine": {
-            "county": "Whatcom",
-            "locationCode": 3702,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Bonney Lake": {
-            "county": "Pierce",
-            "locationCode": 2701,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Bonney Lake Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4101,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Bothell in King County": {
-            "county": "King",
-            "locationCode": 1706,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bothell in Snohomish County": {
-            "county": "Snohomish",
-            "locationCode": 3120,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Bremerton": {
-            "county": "Kitsap",
-            "locationCode": 1801,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Brewster": {
-            "county": "Okanogan",
-            "locationCode": 2401,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Bridgeport": {
-            "county": "Douglas",
-            "locationCode": 901,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Brier": {
-            "county": "Snohomish",
-            "locationCode": 3102,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Buckley": {
-            "county": "Pierce",
-            "locationCode": 2702,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Bucoda": {
-            "county": "Thurston",
-            "locationCode": 3401,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Burien": {
-            "county": "King",
-            "locationCode": 1734,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Burlington": {
-            "county": "Skagit",
-            "locationCode": 2902,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Camas": {
-            "county": "Clark",
-            "locationCode": 602,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Carbonado": {
-            "county": "Pierce",
-            "locationCode": 2703,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Carnation": {
-            "county": "King",
-            "locationCode": 1707,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Cashmere": {
-            "county": "Chelan",
-            "locationCode": 401,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Castle Rock ": {
-            "county": "Cowlitz",
-            "locationCode": 801,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Cathlamet": {
-            "county": "Wahkiakum",
-            "locationCode": 3501,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Centralia ": {
-            "county": "Lewis",
-            "locationCode": 2101,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Chehalis": {
-            "county": "Lewis",
-            "locationCode": 2102,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Chehalis Tribes - Unincorp. Grays Harbor County": {
-            "county": "Grays Harbor",
-            "locationCode": 1411,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chehalis Tribes - Unincorp. Lewis County": {
-            "county": "Lewis",
-            "locationCode": 2111,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Chehalis Tribes - Oakville": {
-            "county": "Grays Harbor",
-            "locationCode": 1413,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chehalis Tribes - Unincorp. Thurston County": {
-            "county": "Thurston",
-            "locationCode": 3409,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Chehalis Tribes - Tumwater": {
-            "county": "Thurston",
-            "locationCode": 3411,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Chelan": {
-            "county": "Chelan",
-            "locationCode": 402,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Chelan County Unincorp. Areas": {
-            "county": "Chelan",
-            "locationCode": 400,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Cheney": {
-            "county": "Spokane",
-            "locationCode": 3202,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chewelah": {
-            "county": "Stevens",
-            "locationCode": 3301,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Clallam County Unincorp. Areas": {
-            "county": "Clallam",
-            "locationCode": 500,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Clark County Unincorp. Areas": {
-            "county": "Clark",
-            "locationCode": 600,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Clark County Unincorp. PTBA": {
-            "county": "Clark",
-            "locationCode": 666,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Clarkston": {
-            "county": "Asotin",
-            "locationCode": 202,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Cle Elum": {
-            "county": "Kittitas",
-            "locationCode": 1901,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Clyde Hill": {
-            "county": "King",
-            "locationCode": 1708,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Colfax": {
-            "county": "Whitman",
-            "locationCode": 3802,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "College Place": {
-            "county": "Walla Walla",
-            "locationCode": 3601,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Colton": {
-            "county": "Whitman",
-            "locationCode": 3803,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Columbia County Unincorp. Areas": {
-            "county": "Columbia",
-            "locationCode": 700,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Colville": {
-            "county": "Stevens",
-            "locationCode": 3302,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Conconully": {
-            "county": "Okanogan",
-            "locationCode": 2402,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Concrete": {
-            "county": "Skagit",
-            "locationCode": 2903,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Connell": {
-            "county": "Franklin",
-            "locationCode": 1101,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Cosmopolis": {
-            "county": "Grays Harbor",
-            "locationCode": 1402,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Coulee City": {
-            "county": "Grant",
-            "locationCode": 1301,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Coulee Dam": {
-            "county": "Okanogan",
-            "locationCode": 2403,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Coupeville": {
-            "county": "Island",
-            "locationCode": 1501,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Covington": {
-            "county": "King",
-            "locationCode": 1712,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Cowlitz County Unincorp. Areas": {
-            "county": "Cowlitz",
-            "locationCode": 800,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Creston": {
-            "county": "Lincoln",
-            "locationCode": 2202,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Cusick": {
-            "county": "Pend Oreille",
-            "locationCode": 2601,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Darrington": {
-            "county": "Snohomish",
-            "locationCode": 3103,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Davenport": {
-            "county": "Lincoln",
-            "locationCode": 2203,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Dayton": {
-            "county": "Columbia",
-            "locationCode": 701,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Deer Park": {
-            "county": "Spokane",
-            "locationCode": 3203,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Des Moines": {
-            "county": "King",
-            "locationCode": 1709,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Douglas County Unincorp. Areas": {
-            "county": "Douglas",
-            "locationCode": 900,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Douglas County Unincorp. PTBA": {
-            "county": "Douglas",
-            "locationCode": 909,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "DuPont": {
-            "county": "Pierce",
-            "locationCode": 2704,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Duvall": {
-            "county": "King",
-            "locationCode": 1710,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "East Wenatchee": {
-            "county": "Douglas",
-            "locationCode": 902,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Eatonville": {
-            "county": "Pierce",
-            "locationCode": 2705,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Edgewood": {
-            "county": "Pierce",
-            "locationCode": 2720,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Edmonds": {
-            "county": "Snohomish",
-            "locationCode": 3104,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Electric City": {
-            "county": "Grant",
-            "locationCode": 1302,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Ellensburg ": {
-            "county": "Kittitas",
-            "locationCode": 1902,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Elma": {
-            "county": "Grays Harbor",
-            "locationCode": 1403,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Elmer City": {
-            "county": "Okanogan",
-            "locationCode": 2404,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Endicott": {
-            "county": "Whitman",
-            "locationCode": 3804,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Entiat": {
-            "county": "Chelan",
-            "locationCode": 403,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Enumclaw": {
-            "county": "King",
-            "locationCode": 1711,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Ephrata": {
-            "county": "Grant",
-            "locationCode": 1303,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Everett": {
-            "county": "Snohomish",
-            "locationCode": 3105,
-            "localTaxRate": 0.033,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.098
-        },
-        "Everett Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4205,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Everson": {
-            "county": "Whatcom",
-            "locationCode": 3703,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Fairfield": {
-            "county": "Spokane",
-            "locationCode": 3204,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Farmington": {
-            "county": "Whitman",
-            "locationCode": 3805,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Federal Way": {
-            "county": "King",
-            "locationCode": 1732,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Ferndale ": {
-            "county": "Whatcom",
-            "locationCode": 3704,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Ferry County Unincorp. Areas": {
-            "county": "Ferry",
-            "locationCode": 1000,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Fife": {
-            "county": "Pierce",
-            "locationCode": 2706,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Fircrest": {
-            "county": "Pierce",
-            "locationCode": 2707,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Forks": {
-            "county": "Clallam",
-            "locationCode": 501,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Franklin County Unincorp. Areas": {
-            "county": "Franklin",
-            "locationCode": 1100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Franklin County Unincorp. PTBA": {
-            "county": "Franklin",
-            "locationCode": 1111,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Friday Harbor ": {
-            "county": "San Juan",
-            "locationCode": 2801,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Garfield": {
-            "county": "Whitman",
-            "locationCode": 3806,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Garfield County Unincorp. Areas": {
-            "county": "Garfield",
-            "locationCode": 1200,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "George": {
-            "county": "Grant",
-            "locationCode": 1304,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Gig Harbor": {
-            "county": "Pierce",
-            "locationCode": 2708,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Gig Harbor HBZ": {
-            "county": "Pierce",
-            "locationCode": 2788,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Gold Bar": {
-            "county": "Snohomish",
-            "locationCode": 3106,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Goldendale": {
-            "county": "Klickitat",
-            "locationCode": 2002,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Grand Coulee": {
-            "county": "Grant",
-            "locationCode": 1305,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Grandview": {
-            "county": "Yakima",
-            "locationCode": 3901,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Granger": {
-            "county": "Yakima",
-            "locationCode": 3902,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Granite Falls": {
-            "county": "Snohomish",
-            "locationCode": 3107,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Grant County Unincorp. Areas": {
-            "county": "Grant",
-            "locationCode": 1300,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Grays Harbor County Unincorp. Areas": {
-            "county": "Grays Harbor",
-            "locationCode": 1400,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Hamilton": {
-            "county": "Skagit",
-            "locationCode": 2904,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Harrah": {
-            "county": "Yakima",
-            "locationCode": 3903,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Harrington": {
-            "county": "Lincoln",
-            "locationCode": 2204,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Hartline": {
-            "county": "Grant",
-            "locationCode": 1306,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Hatton": {
-            "county": "Adams",
-            "locationCode": 101,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Hoquiam": {
-            "county": "Grays Harbor",
-            "locationCode": 1404,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Hunts Point": {
-            "county": "King",
-            "locationCode": 1713,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Ilwaco": {
-            "county": "Pacific",
-            "locationCode": 2501,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Index": {
-            "county": "Snohomish",
-            "locationCode": 3108,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Ione": {
-            "county": "Pend Oreille",
-            "locationCode": 2602,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Island County Unincorp. Areas": {
-            "county": "Island",
-            "locationCode": 1500,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Issaquah": {
-            "county": "King",
-            "locationCode": 1714,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Issaquah Non-RTA": {
-            "county": "King",
-            "locationCode": 4014,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Jefferson County Unincorp. Areas": {
-            "county": "Jefferson",
-            "locationCode": 1600,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Kahlotus": {
-            "county": "Franklin",
-            "locationCode": 1102,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Kalama": {
-            "county": "Cowlitz",
-            "locationCode": 802,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Kelso": {
-            "county": "Cowlitz",
-            "locationCode": 803,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Kenmore": {
-            "county": "King",
-            "locationCode": 1738,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Kennewick": {
-            "county": "Benton",
-            "locationCode": 302,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Kent": {
-            "county": "King",
-            "locationCode": 1715,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Kent Non-RTA": {
-            "county": "King",
-            "locationCode": 4015,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Kettle Falls": {
-            "county": "Stevens",
-            "locationCode": 3303,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "King County Unincorp. Areas": {
-            "county": "King",
-            "locationCode": 1700,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "King County Unincorp. Non-RTA": {
-            "county": "King",
-            "locationCode": 4000,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Kirkland": {
-            "county": "King",
-            "locationCode": 1716,
-            "localTaxRate": 0.037,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.102
-        },
-        "Kitsap County Unincorp. Areas": {
-            "county": "Kitsap",
-            "locationCode": 1800,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Kittitas City": {
-            "county": "Kittitas",
-            "locationCode": 1903,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Kittitas County Unincorp. Areas": {
-            "county": "Kittitas",
-            "locationCode": 1900,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Klickitat County Unincorp. Areas": {
-            "county": "Klickitat",
-            "locationCode": 2000,
-            "localTaxRate": 0.005,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.07
-        },
-        "Krupp": {
-            "county": "Grant",
-            "locationCode": 1307,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "La Center": {
-            "county": "Clark",
-            "locationCode": 603,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "La Conner": {
-            "county": "Skagit",
-            "locationCode": 2905,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "LaCrosse": {
-            "county": "Whitman",
-            "locationCode": 3807,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Lacey": {
-            "county": "Thurston",
-            "locationCode": 3402,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Lake Forest Park": {
-            "county": "King",
-            "locationCode": 1717,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Lake Stevens": {
-            "county": "Snohomish",
-            "locationCode": 3109,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Lakewood": {
-            "county": "Pierce",
-            "locationCode": 2721,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Lamont": {
-            "county": "Whitman",
-            "locationCode": 3808,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Langley": {
-            "county": "Island",
-            "locationCode": 1502,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Latah": {
-            "county": "Spokane",
-            "locationCode": 3205,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Leavenworth": {
-            "county": "Chelan",
-            "locationCode": 404,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Lewis County Unincorp. Areas": {
-            "county": "Lewis",
-            "locationCode": 2100,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Liberty Lake": {
-            "county": "Spokane",
-            "locationCode": 3212,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Lincoln County Unincorp. Areas": {
-            "county": "Lincoln",
-            "locationCode": 2200,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Lind": {
-            "county": "Adams",
-            "locationCode": 102,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Long Beach": {
-            "county": "Pacific",
-            "locationCode": 2502,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Longview": {
-            "county": "Cowlitz",
-            "locationCode": 804,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Lyman": {
-            "county": "Skagit",
-            "locationCode": 2906,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Lynden ": {
-            "county": "Whatcom",
-            "locationCode": 3705,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Lynnwood": {
-            "county": "Snohomish",
-            "locationCode": 3110,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Mabton": {
-            "county": "Yakima",
-            "locationCode": 3904,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Malden": {
-            "county": "Whitman",
-            "locationCode": 3809,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Mansfield": {
-            "county": "Douglas",
-            "locationCode": 903,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Maple Valley": {
-            "county": "King",
-            "locationCode": 1720,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Marcus": {
-            "county": "Stevens",
-            "locationCode": 3304,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Marysville ": {
-            "county": "Snohomish",
-            "locationCode": 3111,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Mason County Unincorp. Areas": {
-            "county": "Mason",
-            "locationCode": 2300,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Mattawa": {
-            "county": "Grant",
-            "locationCode": 1308,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "McCleary": {
-            "county": "Grays Harbor",
-            "locationCode": 1405,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Medical Lake": {
-            "county": "Spokane",
-            "locationCode": 3206,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Medina": {
-            "county": "King",
-            "locationCode": 1718,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Mercer Island": {
-            "county": "King",
-            "locationCode": 1719,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Mesa": {
-            "county": "Franklin",
-            "locationCode": 1103,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Metaline": {
-            "county": "Pend Oreille",
-            "locationCode": 2603,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Metaline Falls": {
-            "county": "Pend Oreille",
-            "locationCode": 2604,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Mill Creek": {
-            "county": "Snohomish",
-            "locationCode": 3119,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Millwood": {
-            "county": "Spokane",
-            "locationCode": 3207,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Milton in King County": {
-            "county": "King",
-            "locationCode": 1731,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Milton in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2709,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Monroe ": {
-            "county": "Snohomish",
-            "locationCode": 3112,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Montesano": {
-            "county": "Grays Harbor",
-            "locationCode": 1406,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Morton": {
-            "county": "Lewis",
-            "locationCode": 2103,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Moses Lake": {
-            "county": "Grant",
-            "locationCode": 1309,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Mossyrock": {
-            "county": "Lewis",
-            "locationCode": 2104,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Mount Vernon": {
-            "county": "Skagit",
-            "locationCode": 2907,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Mountlake Terrace": {
-            "county": "Snohomish",
-            "locationCode": 3113,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Moxee City": {
-            "county": "Yakima",
-            "locationCode": 3905,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Mukilteo": {
-            "county": "Snohomish",
-            "locationCode": 3114,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Naches": {
-            "county": "Yakima",
-            "locationCode": 3906,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Napavine": {
-            "county": "Lewis",
-            "locationCode": 2105,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Nespelem": {
-            "county": "Okanogan",
-            "locationCode": 2405,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Newcastle": {
-            "county": "King",
-            "locationCode": 1736,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Newcastle Non-RTA": {
-            "county": "King",
-            "locationCode": 4036,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Newport": {
-            "county": "Pend Oreille",
-            "locationCode": 2605,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Nooksack": {
-            "county": "Whatcom",
-            "locationCode": 3706,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Normandy Park": {
-            "county": "King",
-            "locationCode": 1721,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "North Bend": {
-            "county": "King",
-            "locationCode": 1722,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "North Bonneville": {
-            "county": "Skamania",
-            "locationCode": 3001,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Northport": {
-            "county": "Stevens",
-            "locationCode": 3305,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Oak Harbor": {
-            "county": "Island",
-            "locationCode": 1503,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Oakesdale": {
-            "county": "Whitman",
-            "locationCode": 3810,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Oakville": {
-            "county": "Grays Harbor",
-            "locationCode": 1407,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Ocean Shores": {
-            "county": "Grays Harbor",
-            "locationCode": 1409,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Odessa": {
-            "county": "Lincoln",
-            "locationCode": 2205,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Okanogan": {
-            "county": "Okanogan",
-            "locationCode": 2406,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Okanogan County Unincorp. Areas": {
-            "county": "Okanogan",
-            "locationCode": 2400,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Okanogan County Unincorp. PTBA": {
-            "county": "Okanogan",
-            "locationCode": 2424,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Olympia": {
-            "county": "Thurston",
-            "locationCode": 3403,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Omak": {
-            "county": "Okanogan",
-            "locationCode": 2407,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Oroville": {
-            "county": "Okanogan",
-            "locationCode": 2408,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Orting": {
-            "county": "Pierce",
-            "locationCode": 2710,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Othello": {
-            "county": "Adams",
-            "locationCode": 103,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Pacific County Unincorp. Areas": {
-            "county": "Pacific",
-            "locationCode": 2500,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Pacific in King County": {
-            "county": "King",
-            "locationCode": 1723,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Pacific in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2723,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Palouse": {
-            "county": "Whitman",
-            "locationCode": 3811,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Pasco": {
-            "county": "Franklin",
-            "locationCode": 1104,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pateros": {
-            "county": "Okanogan",
-            "locationCode": 2409,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Pe Ell": {
-            "county": "Lewis",
-            "locationCode": 2106,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Pend Oreille County Unincorp. Areas": {
-            "county": "Pend Oreille",
-            "locationCode": 2600,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Pierce County Unincorp. Areas": {
-            "county": "Pierce",
-            "locationCode": 2700,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Pierce County Unincorp. Areas Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4100,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Pierce County Unincorp. Areas Non-RTA HBZ": {
-            "county": "Pierce",
-            "locationCode": 2789,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Pierce County Unincorp. PTBA": {
-            "county": "Pierce",
-            "locationCode": 2727,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Pierce County Unincorp. PTBA HBZ": {
-            "county": "Pierce",
-            "locationCode": 2787,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Pierce County Unincorp. PTBA\nNon-RTA": {
-            "county": "Pierce",
-            "locationCode": 4127,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Pomeroy": {
-            "county": "Garfield",
-            "locationCode": 1201,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Port Angeles": {
-            "county": "Clallam",
-            "locationCode": 502,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Port Orchard": {
-            "county": "Kitsap",
-            "locationCode": 1802,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Port Townsend": {
-            "county": "Jefferson",
-            "locationCode": 1601,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Poulsbo": {
-            "county": "Kitsap",
-            "locationCode": 1803,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Prescott": {
-            "county": "Walla Walla",
-            "locationCode": 3602,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Prosser": {
-            "county": "Benton",
-            "locationCode": 303,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pullman": {
-            "county": "Whitman",
-            "locationCode": 3812,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Puyallup": {
-            "county": "Pierce",
-            "locationCode": 2711,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Quincy": {
-            "county": "Grant",
-            "locationCode": 1310,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Rainier": {
-            "county": "Thurston",
-            "locationCode": 3404,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Raymond": {
-            "county": "Pacific",
-            "locationCode": 2503,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Reardan": {
-            "county": "Lincoln",
-            "locationCode": 2206,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Redmond": {
-            "county": "King",
-            "locationCode": 1724,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Redmond Non-RTA": {
-            "county": "King",
-            "locationCode": 4024,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Renton": {
-            "county": "King",
-            "locationCode": 1725,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Renton Non-RTA": {
-            "county": "King",
-            "locationCode": 4025,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Republic": {
-            "county": "Ferry",
-            "locationCode": 1001,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Richland ": {
-            "county": "Benton",
-            "locationCode": 304,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Ridgefield": {
-            "county": "Clark",
-            "locationCode": 604,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Ritzville ": {
-            "county": "Adams",
-            "locationCode": 104,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Riverside": {
-            "county": "Okanogan",
-            "locationCode": 2410,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Rock Island": {
-            "county": "Douglas",
-            "locationCode": 904,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Rockford": {
-            "county": "Spokane",
-            "locationCode": 3208,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Rosalia": {
-            "county": "Whitman",
-            "locationCode": 3813,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Roslyn": {
-            "county": "Kittitas",
-            "locationCode": 1904,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Roy": {
-            "county": "Pierce",
-            "locationCode": 2712,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Royal City": {
-            "county": "Grant",
-            "locationCode": 1311,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Ruston": {
-            "county": "Pierce",
-            "locationCode": 2713,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Sammamish": {
-            "county": "King",
-            "locationCode": 1739,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Sammamish Non-RTA": {
-            "county": "King",
-            "locationCode": 4039,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "San Juan County Unincorp. Areas": {
-            "county": "San Juan",
-            "locationCode": 2800,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "SeaTac": {
-            "county": "King",
-            "locationCode": 1733,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Seattle ": {
-            "county": "King",
-            "locationCode": 1726,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Sedro-Woolley": {
-            "county": "Skagit",
-            "locationCode": 2908,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Selah": {
-            "county": "Yakima",
-            "locationCode": 3907,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Sequim": {
-            "county": "Clallam",
-            "locationCode": 503,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Shelton ": {
-            "county": "Mason",
-            "locationCode": 2301,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Shoreline": {
-            "county": "King",
-            "locationCode": 1737,
-            "localTaxRate": 0.038,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.103
-        },
-        "Skagit County Unincorp. Areas": {
-            "county": "Skagit",
-            "locationCode": 2900,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Skagit County Unincorp. PTBA": {
-            "county": "Skagit",
-            "locationCode": 2929,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Skamania County Unincorp. Areas": {
-            "county": "Skamania",
-            "locationCode": 3000,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Skykomish": {
-            "county": "King",
-            "locationCode": 1727,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Snohomish ": {
-            "county": "Snohomish",
-            "locationCode": 3115,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Snohomish County Unincorp. Areas": {
-            "county": "Snohomish",
-            "locationCode": 3100,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Snohomish County Unincorp. Areas Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4200,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Snohomish County Unincorp. PTBA": {
-            "county": "Snohomish",
-            "locationCode": 3131,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Snohomish County Unincorp. PTBA Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4231,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Snoqualmie": {
-            "county": "King",
-            "locationCode": 1728,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Soap Lake": {
-            "county": "Grant",
-            "locationCode": 1312,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "South Bend": {
-            "county": "Pacific",
-            "locationCode": 2504,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "South Cle Elum": {
-            "county": "Kittitas",
-            "locationCode": 1905,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "South Prairie": {
-            "county": "Pierce",
-            "locationCode": 2714,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Spangle": {
-            "county": "Spokane",
-            "locationCode": 3209,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Spokane": {
-            "county": "Spokane",
-            "locationCode": 3210,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Spokane County Unincorp. Areas": {
-            "county": "Spokane",
-            "locationCode": 3200,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Spokane County Unincorp. PTBA": {
-            "county": "Spokane",
-            "locationCode": 3232,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Spokane Valley": {
-            "county": "Spokane",
-            "locationCode": 3213,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Sprague": {
-            "county": "Lincoln",
-            "locationCode": 2207,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Springdale": {
-            "county": "Stevens",
-            "locationCode": 3306,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "St. John": {
-            "county": "Whitman",
-            "locationCode": 3814,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Stanwood ": {
-            "county": "Snohomish",
-            "locationCode": 3116,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Starbuck": {
-            "county": "Columbia",
-            "locationCode": 702,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Steilacoom": {
-            "county": "Pierce",
-            "locationCode": 2715,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Stevens County Unincorp. Areas": {
-            "county": "Stevens",
-            "locationCode": 3300,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Stevenson": {
-            "county": "Skamania",
-            "locationCode": 3002,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Sultan": {
-            "county": "Snohomish",
-            "locationCode": 3117,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Sumas": {
-            "county": "Whatcom",
-            "locationCode": 3707,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Sumner": {
-            "county": "Pierce",
-            "locationCode": 2716,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Sunnyside": {
-            "county": "Yakima",
-            "locationCode": 3908,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Tacoma ": {
-            "county": "Pierce",
-            "locationCode": 2717,
-            "localTaxRate": 0.037,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.102
-        },
-        "Tekoa": {
-            "county": "Whitman",
-            "locationCode": 3815,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Tenino": {
-            "county": "Thurston",
-            "locationCode": 3405,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Thurston County Unincorp. Areas": {
-            "county": "Thurston",
-            "locationCode": 3400,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Thurston County Unincorp. PTBA": {
-            "county": "Thurston",
-            "locationCode": 3434,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Tieton": {
-            "county": "Yakima",
-            "locationCode": 3909,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Toledo": {
-            "county": "Lewis",
-            "locationCode": 2107,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Tonasket": {
-            "county": "Okanogan",
-            "locationCode": 2411,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Toppenish": {
-            "county": "Yakima",
-            "locationCode": 3910,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Tukwila": {
-            "county": "King",
-            "locationCode": 1729,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Tulalip Tribes - Marysville": {
-            "county": "Snohomish",
-            "locationCode": 3121,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Tulalip Tribes - Unincorp. PTBA Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4233,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Tumwater": {
-            "county": "Thurston",
-            "locationCode": 3406,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Twisp ": {
-            "county": "Okanogan",
-            "locationCode": 2412,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Union Gap": {
-            "county": "Yakima",
-            "locationCode": 3911,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Uniontown": {
-            "county": "Whitman",
-            "locationCode": 3816,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "University Place": {
-            "county": "Pierce",
-            "locationCode": 2719,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Vader": {
-            "county": "Lewis",
-            "locationCode": 2108,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Vancouver": {
-            "county": "Clark",
-            "locationCode": 605,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Wahkiakum County Unincorp. Areas": {
-            "county": "Wahkiakum",
-            "locationCode": 3500,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Waitsburg ": {
-            "county": "Walla Walla",
-            "locationCode": 3603,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Walla Walla ": {
-            "county": "Walla Walla",
-            "locationCode": 3604,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Walla Walla County Unincorp. Areas": {
-            "county": "Walla Walla",
-            "locationCode": 3600,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Walla Walla County Unincorp. PTBA": {
-            "county": "Walla Walla",
-            "locationCode": 3636,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Wapato": {
-            "county": "Yakima",
-            "locationCode": 3912,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Warden": {
-            "county": "Grant",
-            "locationCode": 1313,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Washougal": {
-            "county": "Clark",
-            "locationCode": 606,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Washtucna": {
-            "county": "Adams",
-            "locationCode": 105,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Waterville": {
-            "county": "Douglas",
-            "locationCode": 905,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Waverly": {
-            "county": "Spokane",
-            "locationCode": 3211,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Wenatchee": {
-            "county": "Chelan",
-            "locationCode": 405,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "West Richland": {
-            "county": "Benton",
-            "locationCode": 305,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Westport": {
-            "county": "Grays Harbor",
-            "locationCode": 1408,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Whatcom County Unincorp. Areas": {
-            "county": "Whatcom",
-            "locationCode": 3700,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Whatcom County Unincorp. PTBA": {
-            "county": "Whatcom",
-            "locationCode": 3737,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "White Salmon": {
-            "county": "Klickitat",
-            "locationCode": 2003,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Whitman County Unincorp. Areas": {
-            "county": "Whitman",
-            "locationCode": 3800,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Wilbur": {
-            "county": "Lincoln",
-            "locationCode": 2208,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Wilkeson": {
-            "county": "Pierce",
-            "locationCode": 2718,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Wilson Creek": {
-            "county": "Grant",
-            "locationCode": 1315,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Winlock": {
-            "county": "Lewis",
-            "locationCode": 2109,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Winthrop": {
-            "county": "Okanogan",
-            "locationCode": 2413,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Woodinville": {
-            "county": "King",
-            "locationCode": 1735,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Woodinville Non-RTA": {
-            "county": "King",
-            "locationCode": 4035,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Woodland": {
-            "county": "Cowlitz",
-            "locationCode": 805,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Woodway": {
-            "county": "Snohomish",
-            "locationCode": 3118,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Yacolt": {
-            "county": "Clark",
-            "locationCode": 607,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Yakima": {
-            "county": "Yakima",
-            "locationCode": 3913,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Yakima County Unincorp. Areas": {
-            "county": "Yakima",
-            "locationCode": 3900,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Yarrow Point": {
-            "county": "King",
-            "locationCode": 1730,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Yelm": {
-            "county": "Thurston",
-            "locationCode": 3407,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Zillah": {
-            "county": "Yakima",
-            "locationCode": 3914,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        }
-    },
-    {
-        "expires": "2021-06-30T07:00:00.000Z",
-        "Aberdeen ": {
-            "county": "Grays Harbor",
-            "locationCode": 1401,
-            "localTaxRate": 0.0258,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.0908
-        },
-        "Adams County Unincorp. Areas": {
-            "county": "Adams",
-            "locationCode": 100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Airway Heights ": {
-            "county": "Spokane",
-            "locationCode": 3201,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Albion": {
-            "county": "Whitman",
-            "locationCode": 3801,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Algona": {
-            "county": "King",
-            "locationCode": 1701,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Almira": {
-            "county": "Lincoln",
-            "locationCode": 2201,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Anacortes": {
-            "county": "Skagit",
-            "locationCode": 2901,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Arlington ": {
-            "county": "Snohomish",
-            "locationCode": 3101,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Asotin": {
-            "county": "Asotin",
-            "locationCode": 201,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Asotin County Unincorp. Areas": {
-            "county": "Asotin",
-            "locationCode": 200,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Auburn in King County": {
-            "county": "King",
-            "locationCode": 1702,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Auburn in King County Non-RTA": {
-            "county": "King",
-            "locationCode": 4002,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Auburn in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2724,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Bainbridge Island": {
-            "county": "Kitsap",
-            "locationCode": 1804,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Battle Ground": {
-            "county": "Clark",
-            "locationCode": 601,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Beaux Arts Village": {
-            "county": "King",
-            "locationCode": 1703,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bellevue": {
-            "county": "King",
-            "locationCode": 1704,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bellevue Non-RTA": {
-            "county": "King",
-            "locationCode": 4004,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Bellingham ": {
-            "county": "Whatcom",
-            "locationCode": 3701,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Benton City": {
-            "county": "Benton",
-            "locationCode": 301,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Benton County Unincorp. Areas": {
-            "county": "Benton",
-            "locationCode": 300,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Benton Co. Unincorp. PTBA": {
-            "county": "Benton",
-            "locationCode": 333,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Bingen": {
-            "county": "Klickitat",
-            "locationCode": 2001,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Black Diamond": {
-            "county": "King",
-            "locationCode": 1705,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Blaine": {
-            "county": "Whatcom",
-            "locationCode": 3702,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Bonney Lake": {
-            "county": "Pierce",
-            "locationCode": 2701,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Bonney Lake Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4101,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Bothell in King County": {
-            "county": "King",
-            "locationCode": 1706,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bothell in Snohomish County": {
-            "county": "Snohomish",
-            "locationCode": 3120,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Bremerton": {
-            "county": "Kitsap",
-            "locationCode": 1801,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Brewster": {
-            "county": "Okanogan",
-            "locationCode": 2401,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Bridgeport": {
-            "county": "Douglas",
-            "locationCode": 901,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Brier": {
-            "county": "Snohomish",
-            "locationCode": 3102,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Buckley": {
-            "county": "Pierce",
-            "locationCode": 2702,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Bucoda": {
-            "county": "Thurston",
-            "locationCode": 3401,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Burien": {
-            "county": "King",
-            "locationCode": 1734,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Burlington": {
-            "county": "Skagit",
-            "locationCode": 2902,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Camas": {
-            "county": "Clark",
-            "locationCode": 602,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Carbonado": {
-            "county": "Pierce",
-            "locationCode": 2703,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Carnation": {
-            "county": "King",
-            "locationCode": 1707,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Cashmere": {
-            "county": "Chelan",
-            "locationCode": 401,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Castle Rock ": {
-            "county": "Cowlitz",
-            "locationCode": 801,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Cathlamet": {
-            "county": "Wahkiakum",
-            "locationCode": 3501,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Centralia ": {
-            "county": "Lewis",
-            "locationCode": 2101,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Chehalis": {
-            "county": "Lewis",
-            "locationCode": 2102,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Chehalis Tribes - Unincorp. Grays Harbor County": {
-            "county": "Grays Harbor",
-            "locationCode": 1411,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chehalis Tribes - Unincorp. Lewis County": {
-            "county": "Lewis",
-            "locationCode": 2111,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Chehalis Tribes - Oakville": {
-            "county": "Grays Harbor",
-            "locationCode": 1413,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chehalis Tribes - Unincorp. Thurston County": {
-            "county": "Thurston",
-            "locationCode": 3409,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Chehalis Tribes - Tumwater": {
-            "county": "Thurston",
-            "locationCode": 3411,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Chelan": {
-            "county": "Chelan",
-            "locationCode": 402,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Chelan County Unincorp. Areas": {
-            "county": "Chelan",
-            "locationCode": 400,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Cheney": {
-            "county": "Spokane",
-            "locationCode": 3202,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chewelah": {
-            "county": "Stevens",
-            "locationCode": 3301,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Clallam County Unincorp. Areas": {
-            "county": "Clallam",
-            "locationCode": 500,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Clark County Unincorp. Areas": {
-            "county": "Clark",
-            "locationCode": 600,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Clark County Unincorp. PTBA": {
-            "county": "Clark",
-            "locationCode": 666,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Clarkston": {
-            "county": "Asotin",
-            "locationCode": 202,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Cle Elum": {
-            "county": "Kittitas",
-            "locationCode": 1901,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Clyde Hill": {
-            "county": "King",
-            "locationCode": 1708,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Colfax": {
-            "county": "Whitman",
-            "locationCode": 3802,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "College Place": {
-            "county": "Walla Walla",
-            "locationCode": 3601,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Colton": {
-            "county": "Whitman",
-            "locationCode": 3803,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Columbia County Unincorp. Areas": {
-            "county": "Columbia",
-            "locationCode": 700,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Colville": {
-            "county": "Stevens",
-            "locationCode": 3302,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Conconully": {
-            "county": "Okanogan",
-            "locationCode": 2402,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Concrete": {
-            "county": "Skagit",
-            "locationCode": 2903,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Connell": {
-            "county": "Franklin",
-            "locationCode": 1101,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Cosmopolis": {
-            "county": "Grays Harbor",
-            "locationCode": 1402,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Coulee City": {
-            "county": "Grant",
-            "locationCode": 1301,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Coulee Dam": {
-            "county": "Okanogan",
-            "locationCode": 2403,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Coupeville": {
-            "county": "Island",
-            "locationCode": 1501,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Covington": {
-            "county": "King",
-            "locationCode": 1712,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Cowlitz County Unincorp. Areas": {
-            "county": "Cowlitz",
-            "locationCode": 800,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Creston": {
-            "county": "Lincoln",
-            "locationCode": 2202,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Cusick": {
-            "county": "Pend Oreille",
-            "locationCode": 2601,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Darrington": {
-            "county": "Snohomish",
-            "locationCode": 3103,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Davenport": {
-            "county": "Lincoln",
-            "locationCode": 2203,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Dayton": {
-            "county": "Columbia",
-            "locationCode": 701,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Deer Park": {
-            "county": "Spokane",
-            "locationCode": 3203,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Des Moines": {
-            "county": "King",
-            "locationCode": 1709,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Douglas County Unincorp. Areas": {
-            "county": "Douglas",
-            "locationCode": 900,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Douglas County Unincorp. PTBA": {
-            "county": "Douglas",
-            "locationCode": 909,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "DuPont": {
-            "county": "Pierce",
-            "locationCode": 2704,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Duvall": {
-            "county": "King",
-            "locationCode": 1710,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "East Wenatchee": {
-            "county": "Douglas",
-            "locationCode": 902,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Eatonville": {
-            "county": "Pierce",
-            "locationCode": 2705,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Edgewood": {
-            "county": "Pierce",
-            "locationCode": 2720,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Edmonds": {
-            "county": "Snohomish",
-            "locationCode": 3104,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Electric City": {
-            "county": "Grant",
-            "locationCode": 1302,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Ellensburg ": {
-            "county": "Kittitas",
-            "locationCode": 1902,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Elma": {
-            "county": "Grays Harbor",
-            "locationCode": 1403,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Elmer City": {
-            "county": "Okanogan",
-            "locationCode": 2404,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Endicott": {
-            "county": "Whitman",
-            "locationCode": 3804,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Entiat": {
-            "county": "Chelan",
-            "locationCode": 403,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Enumclaw": {
-            "county": "King",
-            "locationCode": 1711,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Ephrata": {
-            "county": "Grant",
-            "locationCode": 1303,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Everett": {
-            "county": "Snohomish",
-            "locationCode": 3105,
-            "localTaxRate": 0.033,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.098
-        },
-        "Everett Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4205,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Everson": {
-            "county": "Whatcom",
-            "locationCode": 3703,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Fairfield": {
-            "county": "Spokane",
-            "locationCode": 3204,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Farmington": {
-            "county": "Whitman",
-            "locationCode": 3805,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Federal Way": {
-            "county": "King",
-            "locationCode": 1732,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Ferndale ": {
-            "county": "Whatcom",
-            "locationCode": 3704,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Ferry County Unincorp. Areas": {
-            "county": "Ferry",
-            "locationCode": 1000,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Fife": {
-            "county": "Pierce",
-            "locationCode": 2706,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Fircrest": {
-            "county": "Pierce",
-            "locationCode": 2707,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Forks": {
-            "county": "Clallam",
-            "locationCode": 501,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Franklin County Unincorp. Areas": {
-            "county": "Franklin",
-            "locationCode": 1100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Franklin County Unincorp. PTBA": {
-            "county": "Franklin",
-            "locationCode": 1111,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Friday Harbor ": {
-            "county": "San Juan",
-            "locationCode": 2801,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Garfield": {
-            "county": "Whitman",
-            "locationCode": 3806,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Garfield County Unincorp. Areas": {
-            "county": "Garfield",
-            "locationCode": 1200,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "George": {
-            "county": "Grant",
-            "locationCode": 1304,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Gig Harbor": {
-            "county": "Pierce",
-            "locationCode": 2708,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Gig Harbor HBZ": {
-            "county": "Pierce",
-            "locationCode": 2788,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Gold Bar": {
-            "county": "Snohomish",
-            "locationCode": 3106,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Goldendale": {
-            "county": "Klickitat",
-            "locationCode": 2002,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Grand Coulee": {
-            "county": "Grant",
-            "locationCode": 1305,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Grandview": {
-            "county": "Yakima",
-            "locationCode": 3901,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Granger": {
-            "county": "Yakima",
-            "locationCode": 3902,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Granite Falls": {
-            "county": "Snohomish",
-            "locationCode": 3107,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Grant County Unincorp. Areas": {
-            "county": "Grant",
-            "locationCode": 1300,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Grays Harbor County Unincorp. Areas": {
-            "county": "Grays Harbor",
-            "locationCode": 1400,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Hamilton": {
-            "county": "Skagit",
-            "locationCode": 2904,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Harrah": {
-            "county": "Yakima",
-            "locationCode": 3903,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Harrington": {
-            "county": "Lincoln",
-            "locationCode": 2204,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Hartline": {
-            "county": "Grant",
-            "locationCode": 1306,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Hatton": {
-            "county": "Adams",
-            "locationCode": 101,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Hoquiam": {
-            "county": "Grays Harbor",
-            "locationCode": 1404,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Hunts Point": {
-            "county": "King",
-            "locationCode": 1713,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Ilwaco": {
-            "county": "Pacific",
-            "locationCode": 2501,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Index": {
-            "county": "Snohomish",
-            "locationCode": 3108,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Ione": {
-            "county": "Pend Oreille",
-            "locationCode": 2602,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Island County Unincorp. Areas": {
-            "county": "Island",
-            "locationCode": 1500,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Issaquah": {
-            "county": "King",
-            "locationCode": 1714,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Issaquah Non-RTA": {
-            "county": "King",
-            "locationCode": 4014,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Jefferson County Unincorp. Areas": {
-            "county": "Jefferson",
-            "locationCode": 1600,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Kahlotus": {
-            "county": "Franklin",
-            "locationCode": 1102,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Kalama": {
-            "county": "Cowlitz",
-            "locationCode": 802,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Kalispel Tribe -  Airway Heights": {
-            "county": "Spokane",
-            "locationCode": 3215,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Kalispel Tribe - Unincorp. Pend Oreille County": {
-            "county": "Pend Oreille",
-            "locationCode": 2607,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Kelso": {
-            "county": "Cowlitz",
-            "locationCode": 803,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Kenmore": {
-            "county": "King",
-            "locationCode": 1738,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Kennewick": {
-            "county": "Benton",
-            "locationCode": 302,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Kent": {
-            "county": "King",
-            "locationCode": 1715,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Kent Non-RTA": {
-            "county": "King",
-            "locationCode": 4015,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Kettle Falls": {
-            "county": "Stevens",
-            "locationCode": 3303,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "King County Unincorp. Areas": {
-            "county": "King",
-            "locationCode": 1700,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "King County Unincorp. Non-RTA": {
-            "county": "King",
-            "locationCode": 4000,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Kirkland": {
-            "county": "King",
-            "locationCode": 1716,
-            "localTaxRate": 0.037,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.102
-        },
-        "Kitsap County Unincorp. Areas": {
-            "county": "Kitsap",
-            "locationCode": 1800,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Kittitas City": {
-            "county": "Kittitas",
-            "locationCode": 1903,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Kittitas County Unincorp. Areas": {
-            "county": "Kittitas",
-            "locationCode": 1900,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Klickitat County Unincorp. Areas": {
-            "county": "Klickitat",
-            "locationCode": 2000,
-            "localTaxRate": 0.005,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.07
-        },
-        "Krupp": {
-            "county": "Grant",
-            "locationCode": 1307,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "La Center": {
-            "county": "Clark",
-            "locationCode": 603,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "La Conner": {
-            "county": "Skagit",
-            "locationCode": 2905,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "LaCrosse": {
-            "county": "Whitman",
-            "locationCode": 3807,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Lacey": {
-            "county": "Thurston",
-            "locationCode": 3402,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Lake Forest Park": {
-            "county": "King",
-            "locationCode": 1717,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Lake Stevens": {
-            "county": "Snohomish",
-            "locationCode": 3109,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Lakewood": {
-            "county": "Pierce",
-            "locationCode": 2721,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Lamont": {
-            "county": "Whitman",
-            "locationCode": 3808,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Langley": {
-            "county": "Island",
-            "locationCode": 1502,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Latah": {
-            "county": "Spokane",
-            "locationCode": 3205,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Leavenworth": {
-            "county": "Chelan",
-            "locationCode": 404,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Lewis County Unincorp. Areas": {
-            "county": "Lewis",
-            "locationCode": 2100,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Liberty Lake": {
-            "county": "Spokane",
-            "locationCode": 3212,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Lincoln County Unincorp. Areas": {
-            "county": "Lincoln",
-            "locationCode": 2200,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Lind": {
-            "county": "Adams",
-            "locationCode": 102,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Long Beach": {
-            "county": "Pacific",
-            "locationCode": 2502,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Longview": {
-            "county": "Cowlitz",
-            "locationCode": 804,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Lyman": {
-            "county": "Skagit",
-            "locationCode": 2906,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Lynden ": {
-            "county": "Whatcom",
-            "locationCode": 3705,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Lynnwood": {
-            "county": "Snohomish",
-            "locationCode": 3110,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Mabton": {
-            "county": "Yakima",
-            "locationCode": 3904,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Malden": {
-            "county": "Whitman",
-            "locationCode": 3809,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Mansfield": {
-            "county": "Douglas",
-            "locationCode": 903,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Maple Valley": {
-            "county": "King",
-            "locationCode": 1720,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Marcus": {
-            "county": "Stevens",
-            "locationCode": 3304,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Marysville ": {
-            "county": "Snohomish",
-            "locationCode": 3111,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Mason County Unincorp. Areas": {
-            "county": "Mason",
-            "locationCode": 2300,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Mattawa": {
-            "county": "Grant",
-            "locationCode": 1308,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "McCleary": {
-            "county": "Grays Harbor",
-            "locationCode": 1405,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Medical Lake": {
-            "county": "Spokane",
-            "locationCode": 3206,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Medina": {
-            "county": "King",
-            "locationCode": 1718,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Mercer Island": {
-            "county": "King",
-            "locationCode": 1719,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Mesa": {
-            "county": "Franklin",
-            "locationCode": 1103,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Metaline": {
-            "county": "Pend Oreille",
-            "locationCode": 2603,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Metaline Falls": {
-            "county": "Pend Oreille",
-            "locationCode": 2604,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Mill Creek": {
-            "county": "Snohomish",
-            "locationCode": 3119,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Millwood": {
-            "county": "Spokane",
-            "locationCode": 3207,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Milton in King County": {
-            "county": "King",
-            "locationCode": 1731,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Milton in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2709,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Monroe ": {
-            "county": "Snohomish",
-            "locationCode": 3112,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Montesano": {
-            "county": "Grays Harbor",
-            "locationCode": 1406,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Morton": {
-            "county": "Lewis",
-            "locationCode": 2103,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Moses Lake": {
-            "county": "Grant",
-            "locationCode": 1309,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Mossyrock": {
-            "county": "Lewis",
-            "locationCode": 2104,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Mount Vernon": {
-            "county": "Skagit",
-            "locationCode": 2907,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Mountlake Terrace": {
-            "county": "Snohomish",
-            "locationCode": 3113,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Moxee City": {
-            "county": "Yakima",
-            "locationCode": 3905,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Mukilteo": {
-            "county": "Snohomish",
-            "locationCode": 3114,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Naches": {
-            "county": "Yakima",
-            "locationCode": 3906,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Napavine": {
-            "county": "Lewis",
-            "locationCode": 2105,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Nespelem": {
-            "county": "Okanogan",
-            "locationCode": 2405,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Newcastle": {
-            "county": "King",
-            "locationCode": 1736,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Newcastle Non-RTA": {
-            "county": "King",
-            "locationCode": 4036,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Newport": {
-            "county": "Pend Oreille",
-            "locationCode": 2605,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Nooksack": {
-            "county": "Whatcom",
-            "locationCode": 3706,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Normandy Park": {
-            "county": "King",
-            "locationCode": 1721,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "North Bend": {
-            "county": "King",
-            "locationCode": 1722,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "North Bonneville": {
-            "county": "Skamania",
-            "locationCode": 3001,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Northport": {
-            "county": "Stevens",
-            "locationCode": 3305,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Oak Harbor": {
-            "county": "Island",
-            "locationCode": 1503,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Oakesdale": {
-            "county": "Whitman",
-            "locationCode": 3810,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Oakville": {
-            "county": "Grays Harbor",
-            "locationCode": 1407,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Ocean Shores": {
-            "county": "Grays Harbor",
-            "locationCode": 1409,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Odessa": {
-            "county": "Lincoln",
-            "locationCode": 2205,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Okanogan": {
-            "county": "Okanogan",
-            "locationCode": 2406,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Okanogan County Unincorp. Areas": {
-            "county": "Okanogan",
-            "locationCode": 2400,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Okanogan County Unincorp. PTBA": {
-            "county": "Okanogan",
-            "locationCode": 2424,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Olympia": {
-            "county": "Thurston",
-            "locationCode": 3403,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Omak": {
-            "county": "Okanogan",
-            "locationCode": 2407,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Oroville": {
-            "county": "Okanogan",
-            "locationCode": 2408,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Orting": {
-            "county": "Pierce",
-            "locationCode": 2710,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Othello": {
-            "county": "Adams",
-            "locationCode": 103,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Pacific County Unincorp. Areas": {
-            "county": "Pacific",
-            "locationCode": 2500,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Pacific in King County": {
-            "county": "King",
-            "locationCode": 1723,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Pacific in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2723,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Palouse": {
-            "county": "Whitman",
-            "locationCode": 3811,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Pasco": {
-            "county": "Franklin",
-            "locationCode": 1104,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pateros": {
-            "county": "Okanogan",
-            "locationCode": 2409,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Pe Ell": {
-            "county": "Lewis",
-            "locationCode": 2106,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Pend Oreille County Unincorp. Areas": {
-            "county": "Pend Oreille",
-            "locationCode": 2600,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Pierce County Unincorp. Areas": {
-            "county": "Pierce",
-            "locationCode": 2700,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Pierce County Unincorp. Areas Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4100,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Pierce County Unincorp. Areas Non-RTA HBZ": {
-            "county": "Pierce",
-            "locationCode": 2789,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Pierce County Unincorp. PTBA": {
-            "county": "Pierce",
-            "locationCode": 2727,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Pierce County Unincorp. PTBA HBZ": {
-            "county": "Pierce",
-            "locationCode": 2787,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Pierce County Unincorp. PTBA\nNon-RTA": {
-            "county": "Pierce",
-            "locationCode": 4127,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Pomeroy": {
-            "county": "Garfield",
-            "locationCode": 1201,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Port Angeles": {
-            "county": "Clallam",
-            "locationCode": 502,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Port Orchard": {
-            "county": "Kitsap",
-            "locationCode": 1802,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Port Townsend": {
-            "county": "Jefferson",
-            "locationCode": 1601,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Poulsbo": {
-            "county": "Kitsap",
-            "locationCode": 1803,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Prescott": {
-            "county": "Walla Walla",
-            "locationCode": 3602,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Prosser": {
-            "county": "Benton",
-            "locationCode": 303,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pullman": {
-            "county": "Whitman",
-            "locationCode": 3812,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Puyallup": {
-            "county": "Pierce",
-            "locationCode": 2711,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Quincy": {
-            "county": "Grant",
-            "locationCode": 1310,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Rainier": {
-            "county": "Thurston",
-            "locationCode": 3404,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Raymond": {
-            "county": "Pacific",
-            "locationCode": 2503,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Reardan": {
-            "county": "Lincoln",
-            "locationCode": 2206,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Redmond": {
-            "county": "King",
-            "locationCode": 1724,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Redmond Non-RTA": {
-            "county": "King",
-            "locationCode": 4024,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Renton": {
-            "county": "King",
-            "locationCode": 1725,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Renton Non-RTA": {
-            "county": "King",
-            "locationCode": 4025,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Republic": {
-            "county": "Ferry",
-            "locationCode": 1001,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Richland ": {
-            "county": "Benton",
-            "locationCode": 304,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Ridgefield": {
-            "county": "Clark",
-            "locationCode": 604,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Ritzville ": {
-            "county": "Adams",
-            "locationCode": 104,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Riverside": {
-            "county": "Okanogan",
-            "locationCode": 2410,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Rock Island": {
-            "county": "Douglas",
-            "locationCode": 904,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Rockford": {
-            "county": "Spokane",
-            "locationCode": 3208,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Rosalia": {
-            "county": "Whitman",
-            "locationCode": 3813,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Roslyn": {
-            "county": "Kittitas",
-            "locationCode": 1904,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Roy": {
-            "county": "Pierce",
-            "locationCode": 2712,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Royal City": {
-            "county": "Grant",
-            "locationCode": 1311,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Ruston": {
-            "county": "Pierce",
-            "locationCode": 2713,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Sammamish": {
-            "county": "King",
-            "locationCode": 1739,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Sammamish Non-RTA": {
-            "county": "King",
-            "locationCode": 4039,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "San Juan County Unincorp. Areas": {
-            "county": "San Juan",
-            "locationCode": 2800,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "SeaTac": {
-            "county": "King",
-            "locationCode": 1733,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Seattle ": {
-            "county": "King",
-            "locationCode": 1726,
-            "localTaxRate": 0.0375,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1025
-        },
-        "Sedro-Woolley": {
-            "county": "Skagit",
-            "locationCode": 2908,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Selah": {
-            "county": "Yakima",
-            "locationCode": 3907,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Sequim": {
-            "county": "Clallam",
-            "locationCode": 503,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Shelton ": {
-            "county": "Mason",
-            "locationCode": 2301,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Shoreline": {
-            "county": "King",
-            "locationCode": 1737,
-            "localTaxRate": 0.038,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.103
-        },
-        "Skagit County Unincorp. Areas": {
-            "county": "Skagit",
-            "locationCode": 2900,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Skagit County Unincorp. PTBA": {
-            "county": "Skagit",
-            "locationCode": 2929,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Skamania County Unincorp. Areas": {
-            "county": "Skamania",
-            "locationCode": 3000,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Skykomish": {
-            "county": "King",
-            "locationCode": 1727,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Snohomish ": {
-            "county": "Snohomish",
-            "locationCode": 3115,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Snohomish County Unincorp. Areas": {
-            "county": "Snohomish",
-            "locationCode": 3100,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Snohomish County Unincorp. Areas Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4200,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Snohomish County Unincorp. PTBA": {
-            "county": "Snohomish",
-            "locationCode": 3131,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Snohomish County Unincorp. PTBA Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4231,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Snoqualmie": {
-            "county": "King",
-            "locationCode": 1728,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Soap Lake": {
-            "county": "Grant",
-            "locationCode": 1312,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "South Bend": {
-            "county": "Pacific",
-            "locationCode": 2504,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "South Cle Elum": {
-            "county": "Kittitas",
-            "locationCode": 1905,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "South Prairie": {
-            "county": "Pierce",
-            "locationCode": 2714,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Spangle": {
-            "county": "Spokane",
-            "locationCode": 3209,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Spokane": {
-            "county": "Spokane",
-            "locationCode": 3210,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Spokane County Unincorp. Areas": {
-            "county": "Spokane",
-            "locationCode": 3200,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Spokane County Unincorp. PTBA": {
-            "county": "Spokane",
-            "locationCode": 3232,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Spokane Valley": {
-            "county": "Spokane",
-            "locationCode": 3213,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Sprague": {
-            "county": "Lincoln",
-            "locationCode": 2207,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Springdale": {
-            "county": "Stevens",
-            "locationCode": 3306,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "St. John": {
-            "county": "Whitman",
-            "locationCode": 3814,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Stanwood ": {
-            "county": "Snohomish",
-            "locationCode": 3116,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Starbuck": {
-            "county": "Columbia",
-            "locationCode": 702,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Steilacoom": {
-            "county": "Pierce",
-            "locationCode": 2715,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Stevens County Unincorp. Areas": {
-            "county": "Stevens",
-            "locationCode": 3300,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Stevenson": {
-            "county": "Skamania",
-            "locationCode": 3002,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Sultan": {
-            "county": "Snohomish",
-            "locationCode": 3117,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Sumas": {
-            "county": "Whatcom",
-            "locationCode": 3707,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Sumner": {
-            "county": "Pierce",
-            "locationCode": 2716,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Sunnyside": {
-            "county": "Yakima",
-            "locationCode": 3908,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Suquamish Tribe - Unincorp. Jefferson County": {
-            "county": "Jefferson",
-            "locationCode": 1603,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Suquamish Tribe - Unincorp. Kitsap County": {
-            "county": "Kitsap",
-            "locationCode": 1805,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Swinomish Tribe - La Conner": {
-            "county": "Skagit",
-            "locationCode": 2911,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Swinomish Tribe - Unincorp. Skagit County": {
-            "county": "Skagit",
-            "locationCode": 2909,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Swinomish Tribe - Unincorp. Skagit County PTBA": {
-            "county": "Skagit",
-            "locationCode": 2931,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Tacoma ": {
-            "county": "Pierce",
-            "locationCode": 2717,
-            "localTaxRate": 0.037,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.102
-        },
-        "Tekoa": {
-            "county": "Whitman",
-            "locationCode": 3815,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Tenino": {
-            "county": "Thurston",
-            "locationCode": 3405,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Thurston County Unincorp. Areas": {
-            "county": "Thurston",
-            "locationCode": 3400,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Thurston County Unincorp. PTBA": {
-            "county": "Thurston",
-            "locationCode": 3434,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Tieton": {
-            "county": "Yakima",
-            "locationCode": 3909,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Toledo": {
-            "county": "Lewis",
-            "locationCode": 2107,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Tonasket": {
-            "county": "Okanogan",
-            "locationCode": 2411,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Toppenish": {
-            "county": "Yakima",
-            "locationCode": 3910,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Tukwila": {
-            "county": "King",
-            "locationCode": 1729,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Tulalip Tribes - Marysville": {
-            "county": "Snohomish",
-            "locationCode": 3121,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Tulalip Tribes - Unincorp. PTBA Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4233,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Tumwater": {
-            "county": "Thurston",
-            "locationCode": 3406,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Twisp ": {
-            "county": "Okanogan",
-            "locationCode": 2412,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Union Gap": {
-            "county": "Yakima",
-            "locationCode": 3911,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Uniontown": {
-            "county": "Whitman",
-            "locationCode": 3816,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "University Place": {
-            "county": "Pierce",
-            "locationCode": 2719,
-            "localTaxRate": 0.034,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.099
-        },
-        "Vader": {
-            "county": "Lewis",
-            "locationCode": 2108,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Vancouver": {
-            "county": "Clark",
-            "locationCode": 605,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Wahkiakum County Unincorp. Areas": {
-            "county": "Wahkiakum",
-            "locationCode": 3500,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Waitsburg ": {
-            "county": "Walla Walla",
-            "locationCode": 3603,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Walla Walla ": {
-            "county": "Walla Walla",
-            "locationCode": 3604,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Walla Walla County Unincorp. Areas": {
-            "county": "Walla Walla",
-            "locationCode": 3600,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Walla Walla County Unincorp. PTBA": {
-            "county": "Walla Walla",
-            "locationCode": 3636,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Wapato": {
-            "county": "Yakima",
-            "locationCode": 3912,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Warden": {
-            "county": "Grant",
-            "locationCode": 1313,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Washougal": {
-            "county": "Clark",
-            "locationCode": 606,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Washtucna": {
-            "county": "Adams",
-            "locationCode": 105,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Waterville": {
-            "county": "Douglas",
-            "locationCode": 905,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Waverly": {
-            "county": "Spokane",
-            "locationCode": 3211,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Wenatchee": {
-            "county": "Chelan",
-            "locationCode": 405,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "West Richland": {
-            "county": "Benton",
-            "locationCode": 305,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Westport": {
-            "county": "Grays Harbor",
-            "locationCode": 1408,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Whatcom County Unincorp. Areas": {
-            "county": "Whatcom",
-            "locationCode": 3700,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Whatcom County Unincorp. PTBA": {
-            "county": "Whatcom",
-            "locationCode": 3737,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "White Salmon": {
-            "county": "Klickitat",
-            "locationCode": 2003,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Whitman County Unincorp. Areas": {
-            "county": "Whitman",
-            "locationCode": 3800,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Wilbur": {
-            "county": "Lincoln",
-            "locationCode": 2208,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Wilkeson": {
-            "county": "Pierce",
-            "locationCode": 2718,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Wilson Creek": {
-            "county": "Grant",
-            "locationCode": 1315,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Winlock": {
-            "county": "Lewis",
-            "locationCode": 2109,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Winthrop": {
-            "county": "Okanogan",
-            "locationCode": 2413,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Woodinville": {
-            "county": "King",
-            "locationCode": 1735,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Woodinville Non-RTA": {
-            "county": "King",
-            "locationCode": 4035,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Woodland": {
-            "county": "Cowlitz",
-            "locationCode": 805,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Woodway": {
-            "county": "Snohomish",
-            "locationCode": 3118,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Yacolt": {
-            "county": "Clark",
-            "locationCode": 607,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Yakima": {
-            "county": "Yakima",
-            "locationCode": 3913,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Yakima County Unincorp. Areas": {
-            "county": "Yakima",
-            "locationCode": 3900,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Yarrow Point": {
-            "county": "King",
-            "locationCode": 1730,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Yelm": {
-            "county": "Thurston",
-            "locationCode": 3407,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Zillah": {
-            "county": "Yakima",
-            "locationCode": 3914,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        }
-    },
-    {
-        "expires": "2021-10-01T07:00:00.000Z",
-        "Aberdeen ": {
-            "county": "Grays Harbor",
-            "locationCode": 1401,
-            "localTaxRate": 0.0258,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.0908
-        },
-        "Adams County Unincorp. Areas": {
-            "county": "Adams",
-            "locationCode": 100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Airway Heights ": {
-            "county": "Spokane",
-            "locationCode": 3201,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Albion": {
-            "county": "Whitman",
-            "locationCode": 3801,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Algona": {
-            "county": "King",
-            "locationCode": 1701,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Almira": {
-            "county": "Lincoln",
-            "locationCode": 2201,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Anacortes": {
-            "county": "Skagit",
-            "locationCode": 2901,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Arlington ": {
-            "county": "Snohomish",
-            "locationCode": 3101,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Asotin": {
-            "county": "Asotin",
-            "locationCode": 201,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Asotin County Unincorp. Areas": {
-            "county": "Asotin",
-            "locationCode": 200,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Auburn in King County": {
-            "county": "King",
-            "locationCode": 1702,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Auburn in King County Non-RTA": {
-            "county": "King",
-            "locationCode": 4002,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Auburn in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2724,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Bainbridge Island": {
-            "county": "Kitsap",
-            "locationCode": 1804,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Battle Ground": {
-            "county": "Clark",
-            "locationCode": 601,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Beaux Arts Village": {
-            "county": "King",
-            "locationCode": 1703,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bellevue": {
-            "county": "King",
-            "locationCode": 1704,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bellevue Non-RTA": {
-            "county": "King",
-            "locationCode": 4004,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Bellingham ": {
-            "county": "Whatcom",
-            "locationCode": 3701,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Benton City": {
-            "county": "Benton",
-            "locationCode": 301,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Benton County Unincorp. Areas": {
-            "county": "Benton",
-            "locationCode": 300,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Benton Co. Unincorp. PTBA": {
-            "county": "Benton",
-            "locationCode": 333,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Bingen": {
-            "county": "Klickitat",
-            "locationCode": 2001,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Black Diamond": {
-            "county": "King",
-            "locationCode": 1705,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Blaine": {
-            "county": "Whatcom",
-            "locationCode": 3702,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Bonney Lake": {
-            "county": "Pierce",
-            "locationCode": 2701,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Bonney Lake Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4101,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Bothell in King County": {
-            "county": "King",
-            "locationCode": 1706,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Bothell in Snohomish County": {
-            "county": "Snohomish",
-            "locationCode": 3120,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Bremerton": {
-            "county": "Kitsap",
-            "locationCode": 1801,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Brewster": {
-            "county": "Okanogan",
-            "locationCode": 2401,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Bridgeport": {
-            "county": "Douglas",
-            "locationCode": 901,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Brier": {
-            "county": "Snohomish",
-            "locationCode": 3102,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Buckley": {
-            "county": "Pierce",
-            "locationCode": 2702,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Bucoda": {
-            "county": "Thurston",
-            "locationCode": 3401,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Burien": {
-            "county": "King",
-            "locationCode": 1734,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Burlington": {
-            "county": "Skagit",
-            "locationCode": 2902,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Camas": {
-            "county": "Clark",
-            "locationCode": 602,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Carbonado": {
-            "county": "Pierce",
-            "locationCode": 2703,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Carnation": {
-            "county": "King",
-            "locationCode": 1707,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Cashmere": {
-            "county": "Chelan",
-            "locationCode": 401,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Castle Rock ": {
-            "county": "Cowlitz",
-            "locationCode": 801,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Cathlamet": {
-            "county": "Wahkiakum",
-            "locationCode": 3501,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Centralia ": {
-            "county": "Lewis",
-            "locationCode": 2101,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Chehalis": {
-            "county": "Lewis",
-            "locationCode": 2102,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Chehalis Tribes - Unincorp. Grays Harbor County": {
-            "county": "Grays Harbor",
-            "locationCode": 1411,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chehalis Tribes - Unincorp. Lewis County": {
-            "county": "Lewis",
-            "locationCode": 2111,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Chehalis Tribes - Oakville": {
-            "county": "Grays Harbor",
-            "locationCode": 1413,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chehalis Tribes - Unincorp. Thurston County": {
-            "county": "Thurston",
-            "locationCode": 3409,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Chehalis Tribes - Tumwater": {
-            "county": "Thurston",
-            "locationCode": 3411,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Chelan": {
-            "county": "Chelan",
-            "locationCode": 402,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Chelan County Unincorp. Areas": {
-            "county": "Chelan",
-            "locationCode": 400,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Cheney": {
-            "county": "Spokane",
-            "locationCode": 3202,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Chewelah": {
-            "county": "Stevens",
-            "locationCode": 3301,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Clallam County Unincorp. Areas": {
-            "county": "Clallam",
-            "locationCode": 500,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Clark County Unincorp. Areas": {
-            "county": "Clark",
-            "locationCode": 600,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Clark County Unincorp. PTBA": {
-            "county": "Clark",
-            "locationCode": 666,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Clarkston": {
-            "county": "Asotin",
-            "locationCode": 202,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Cle Elum": {
-            "county": "Kittitas",
-            "locationCode": 1901,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Clyde Hill": {
-            "county": "King",
-            "locationCode": 1708,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Colfax": {
-            "county": "Whitman",
-            "locationCode": 3802,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "College Place": {
-            "county": "Walla Walla",
-            "locationCode": 3601,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Colton": {
-            "county": "Whitman",
-            "locationCode": 3803,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Columbia County Unincorp. Areas": {
-            "county": "Columbia",
-            "locationCode": 700,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Colville": {
-            "county": "Stevens",
-            "locationCode": 3302,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Conconully": {
-            "county": "Okanogan",
-            "locationCode": 2402,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Concrete": {
-            "county": "Skagit",
-            "locationCode": 2903,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Connell": {
-            "county": "Franklin",
-            "locationCode": 1101,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Cosmopolis": {
-            "county": "Grays Harbor",
-            "locationCode": 1402,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Coulee City": {
-            "county": "Grant",
-            "locationCode": 1301,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Coulee Dam": {
-            "county": "Okanogan",
-            "locationCode": 2403,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Coupeville": {
-            "county": "Island",
-            "locationCode": 1501,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Covington": {
-            "county": "King",
-            "locationCode": 1712,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Cowlitz County Unincorp. Areas": {
-            "county": "Cowlitz",
-            "locationCode": 800,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Creston": {
-            "county": "Lincoln",
-            "locationCode": 2202,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Cusick": {
-            "county": "Pend Oreille",
-            "locationCode": 2601,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Darrington": {
-            "county": "Snohomish",
-            "locationCode": 3103,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Davenport": {
-            "county": "Lincoln",
-            "locationCode": 2203,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Dayton": {
-            "county": "Columbia",
-            "locationCode": 701,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Deer Park": {
-            "county": "Spokane",
-            "locationCode": 3203,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Des Moines": {
-            "county": "King",
-            "locationCode": 1709,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Douglas County Unincorp. Areas": {
-            "county": "Douglas",
-            "locationCode": 900,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Douglas County Unincorp. PTBA": {
-            "county": "Douglas",
-            "locationCode": 909,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "DuPont": {
-            "county": "Pierce",
-            "locationCode": 2704,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Duvall": {
-            "county": "King",
-            "locationCode": 1710,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "East Wenatchee": {
-            "county": "Douglas",
-            "locationCode": 902,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Eatonville": {
-            "county": "Pierce",
-            "locationCode": 2705,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Edgewood": {
-            "county": "Pierce",
-            "locationCode": 2720,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Edmonds": {
-            "county": "Snohomish",
-            "locationCode": 3104,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Electric City": {
-            "county": "Grant",
-            "locationCode": 1302,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Ellensburg ": {
-            "county": "Kittitas",
-            "locationCode": 1902,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Elma": {
-            "county": "Grays Harbor",
-            "locationCode": 1403,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Elmer City": {
-            "county": "Okanogan",
-            "locationCode": 2404,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Endicott": {
-            "county": "Whitman",
-            "locationCode": 3804,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Entiat": {
-            "county": "Chelan",
-            "locationCode": 403,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Enumclaw": {
-            "county": "King",
-            "locationCode": 1711,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Ephrata": {
-            "county": "Grant",
-            "locationCode": 1303,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Everett": {
-            "county": "Snohomish",
-            "locationCode": 3105,
-            "localTaxRate": 0.033,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.098
-        },
-        "Everett Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4205,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Everson": {
-            "county": "Whatcom",
-            "locationCode": 3703,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Fairfield": {
-            "county": "Spokane",
-            "locationCode": 3204,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Farmington": {
-            "county": "Whitman",
-            "locationCode": 3805,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Federal Way": {
-            "county": "King",
-            "locationCode": 1732,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Ferndale ": {
-            "county": "Whatcom",
-            "locationCode": 3704,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Ferry County Unincorp. Areas": {
-            "county": "Ferry",
-            "locationCode": 1000,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Fife": {
-            "county": "Pierce",
-            "locationCode": 2706,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Fircrest": {
-            "county": "Pierce",
-            "locationCode": 2707,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Forks": {
-            "county": "Clallam",
-            "locationCode": 501,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Franklin County Unincorp. Areas": {
-            "county": "Franklin",
-            "locationCode": 1100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Franklin County Unincorp. PTBA": {
-            "county": "Franklin",
-            "locationCode": 1111,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Friday Harbor ": {
-            "county": "San Juan",
-            "locationCode": 2801,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Garfield": {
-            "county": "Whitman",
-            "locationCode": 3806,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Garfield County Unincorp. Areas": {
-            "county": "Garfield",
-            "locationCode": 1200,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "George": {
-            "county": "Grant",
-            "locationCode": 1304,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Gig Harbor": {
-            "county": "Pierce",
-            "locationCode": 2708,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Gig Harbor HBZ": {
-            "county": "Pierce",
-            "locationCode": 2788,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Gold Bar": {
-            "county": "Snohomish",
-            "locationCode": 3106,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Goldendale": {
-            "county": "Klickitat",
-            "locationCode": 2002,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Grand Coulee": {
-            "county": "Grant",
-            "locationCode": 1305,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Grandview": {
-            "county": "Yakima",
-            "locationCode": 3901,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Granger": {
-            "county": "Yakima",
-            "locationCode": 3902,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Granite Falls": {
-            "county": "Snohomish",
-            "locationCode": 3107,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Grant County Unincorp. Areas": {
-            "county": "Grant",
-            "locationCode": 1300,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Grays Harbor County Unincorp. Areas": {
-            "county": "Grays Harbor",
-            "locationCode": 1400,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Hamilton": {
-            "county": "Skagit",
-            "locationCode": 2904,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Harrah": {
-            "county": "Yakima",
-            "locationCode": 3903,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Harrington": {
-            "county": "Lincoln",
-            "locationCode": 2204,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Hartline": {
-            "county": "Grant",
-            "locationCode": 1306,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Hatton": {
-            "county": "Adams",
-            "locationCode": 101,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Hoquiam": {
-            "county": "Grays Harbor",
-            "locationCode": 1404,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Hunts Point": {
-            "county": "King",
-            "locationCode": 1713,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Ilwaco": {
-            "county": "Pacific",
-            "locationCode": 2501,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Index": {
-            "county": "Snohomish",
-            "locationCode": 3108,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Ione": {
-            "county": "Pend Oreille",
-            "locationCode": 2602,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Island County Unincorp. Areas": {
-            "county": "Island",
-            "locationCode": 1500,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Issaquah": {
-            "county": "King",
-            "locationCode": 1714,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Issaquah Non-RTA": {
-            "county": "King",
-            "locationCode": 4014,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Jefferson County Unincorp. Areas": {
-            "county": "Jefferson",
-            "locationCode": 1600,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Kahlotus": {
-            "county": "Franklin",
-            "locationCode": 1102,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Kalama": {
-            "county": "Cowlitz",
-            "locationCode": 802,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Kalispel Tribe -  Airway Heights": {
-            "county": "Spokane",
-            "locationCode": 3215,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Kalispel Tribe - Unincorp. Pend Oreille County": {
-            "county": "Pend Oreille",
-            "locationCode": 2607,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Kelso": {
-            "county": "Cowlitz",
-            "locationCode": 803,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Kenmore": {
-            "county": "King",
-            "locationCode": 1738,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Kennewick": {
-            "county": "Benton",
-            "locationCode": 302,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Kent": {
-            "county": "King",
-            "locationCode": 1715,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Kent Non-RTA": {
-            "county": "King",
-            "locationCode": 4015,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Kettle Falls": {
-            "county": "Stevens",
-            "locationCode": 3303,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "King County Unincorp. Areas": {
-            "county": "King",
-            "locationCode": 1700,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "King County Unincorp. Non-RTA": {
-            "county": "King",
-            "locationCode": 4000,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Kirkland": {
-            "county": "King",
-            "locationCode": 1716,
-            "localTaxRate": 0.037,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.102
-        },
-        "Kitsap County Unincorp. Areas": {
-            "county": "Kitsap",
-            "locationCode": 1800,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Kittitas City": {
-            "county": "Kittitas",
-            "locationCode": 1903,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Kittitas County Unincorp. Areas": {
-            "county": "Kittitas",
-            "locationCode": 1900,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Klickitat County Unincorp. Areas": {
-            "county": "Klickitat",
-            "locationCode": 2000,
-            "localTaxRate": 0.005,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.07
-        },
-        "Krupp": {
-            "county": "Grant",
-            "locationCode": 1307,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "La Center": {
-            "county": "Clark",
-            "locationCode": 603,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "La Conner": {
-            "county": "Skagit",
-            "locationCode": 2905,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "LaCrosse": {
-            "county": "Whitman",
-            "locationCode": 3807,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Lacey": {
-            "county": "Thurston",
-            "locationCode": 3402,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Lake Forest Park": {
-            "county": "King",
-            "locationCode": 1717,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Lake Stevens": {
-            "county": "Snohomish",
-            "locationCode": 3109,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Lakewood": {
-            "county": "Pierce",
-            "locationCode": 2721,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Lamont": {
-            "county": "Whitman",
-            "locationCode": 3808,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Langley": {
-            "county": "Island",
-            "locationCode": 1502,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Latah": {
-            "county": "Spokane",
-            "locationCode": 3205,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Leavenworth": {
-            "county": "Chelan",
-            "locationCode": 404,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Lewis County Unincorp. Areas": {
-            "county": "Lewis",
-            "locationCode": 2100,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Liberty Lake": {
-            "county": "Spokane",
-            "locationCode": 3212,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Lincoln County Unincorp. Areas": {
-            "county": "Lincoln",
-            "locationCode": 2200,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Lind": {
-            "county": "Adams",
-            "locationCode": 102,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Long Beach": {
-            "county": "Pacific",
-            "locationCode": 2502,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Longview": {
-            "county": "Cowlitz",
-            "locationCode": 804,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Lyman": {
-            "county": "Skagit",
-            "locationCode": 2906,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Lynden ": {
-            "county": "Whatcom",
-            "locationCode": 3705,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Lynnwood": {
-            "county": "Snohomish",
-            "locationCode": 3110,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Mabton": {
-            "county": "Yakima",
-            "locationCode": 3904,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Malden": {
-            "county": "Whitman",
-            "locationCode": 3809,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Mansfield": {
-            "county": "Douglas",
-            "locationCode": 903,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Maple Valley": {
-            "county": "King",
-            "locationCode": 1720,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Marcus": {
-            "county": "Stevens",
-            "locationCode": 3304,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Marysville ": {
-            "county": "Snohomish",
-            "locationCode": 3111,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Mason County Unincorp. Areas": {
-            "county": "Mason",
-            "locationCode": 2300,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Mattawa": {
-            "county": "Grant",
-            "locationCode": 1308,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "McCleary": {
-            "county": "Grays Harbor",
-            "locationCode": 1405,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Medical Lake": {
-            "county": "Spokane",
-            "locationCode": 3206,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Medina": {
-            "county": "King",
-            "locationCode": 1718,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Mercer Island": {
-            "county": "King",
-            "locationCode": 1719,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Mesa": {
-            "county": "Franklin",
-            "locationCode": 1103,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Metaline": {
-            "county": "Pend Oreille",
-            "locationCode": 2603,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Metaline Falls": {
-            "county": "Pend Oreille",
-            "locationCode": 2604,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Mill Creek": {
-            "county": "Snohomish",
-            "locationCode": 3119,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Millwood": {
-            "county": "Spokane",
-            "locationCode": 3207,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Milton in King County": {
-            "county": "King",
-            "locationCode": 1731,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Milton in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2709,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Monroe ": {
-            "county": "Snohomish",
-            "locationCode": 3112,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Montesano": {
-            "county": "Grays Harbor",
-            "locationCode": 1406,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Morton": {
-            "county": "Lewis",
-            "locationCode": 2103,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Moses Lake": {
-            "county": "Grant",
-            "locationCode": 1309,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Mossyrock": {
-            "county": "Lewis",
-            "locationCode": 2104,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Mount Vernon": {
-            "county": "Skagit",
-            "locationCode": 2907,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Mountlake Terrace": {
-            "county": "Snohomish",
-            "locationCode": 3113,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Moxee City": {
-            "county": "Yakima",
-            "locationCode": 3905,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Mukilteo": {
-            "county": "Snohomish",
-            "locationCode": 3114,
-            "localTaxRate": 0.04,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.105
-        },
-        "Naches": {
-            "county": "Yakima",
-            "locationCode": 3906,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Napavine": {
-            "county": "Lewis",
-            "locationCode": 2105,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Nespelem": {
-            "county": "Okanogan",
-            "locationCode": 2405,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Newcastle": {
-            "county": "King",
-            "locationCode": 1736,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Newcastle Non-RTA": {
-            "county": "King",
-            "locationCode": 4036,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Newport": {
-            "county": "Pend Oreille",
-            "locationCode": 2605,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Nisqually Tribe - Lacey": {
-            "county": "Thurston",
-            "locationCode": 3419,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Nisqually Tribe - Lakewood": {
-            "county": "Pierce",
-            "locationCode": 2731,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Nisqually Tribe - Unincorp. Pierce County RTA": {
-            "county": "Pierce",
-            "locationCode": 2725,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Nisqually Tribe - Unincorp. Pierce County Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4103,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Nisqually Tribe - Unincorp. Pierce County RTA PTBA": {
-            "county": "Pierce",
-            "locationCode": 2729,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Nisqually Tribe - Unincorp. Thurston County": {
-            "county": "Thurston",
-            "locationCode": 3415,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Nisqually Tribe - Unincorp. Thurston County PTBA": {
-            "county": "Thurston",
-            "locationCode": 3417,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Nooksack": {
-            "county": "Whatcom",
-            "locationCode": 3706,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Normandy Park": {
-            "county": "King",
-            "locationCode": 1721,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "North Bend": {
-            "county": "King",
-            "locationCode": 1722,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "North Bonneville": {
-            "county": "Skamania",
-            "locationCode": 3001,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Northport": {
-            "county": "Stevens",
-            "locationCode": 3305,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Oak Harbor": {
-            "county": "Island",
-            "locationCode": 1503,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Oakesdale": {
-            "county": "Whitman",
-            "locationCode": 3810,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Oakville": {
-            "county": "Grays Harbor",
-            "locationCode": 1407,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Ocean Shores": {
-            "county": "Grays Harbor",
-            "locationCode": 1409,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Odessa": {
-            "county": "Lincoln",
-            "locationCode": 2205,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Okanogan": {
-            "county": "Okanogan",
-            "locationCode": 2406,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Okanogan County Unincorp. Areas": {
-            "county": "Okanogan",
-            "locationCode": 2400,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Okanogan County Unincorp. PTBA": {
-            "county": "Okanogan",
-            "locationCode": 2424,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Olympia": {
-            "county": "Thurston",
-            "locationCode": 3403,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Omak": {
-            "county": "Okanogan",
-            "locationCode": 2407,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Oroville": {
-            "county": "Okanogan",
-            "locationCode": 2408,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Orting": {
-            "county": "Pierce",
-            "locationCode": 2710,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Othello": {
-            "county": "Adams",
-            "locationCode": 103,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Pacific County Unincorp. Areas": {
-            "county": "Pacific",
-            "locationCode": 2500,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Pacific in King County": {
-            "county": "King",
-            "locationCode": 1723,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Pacific in Pierce County": {
-            "county": "Pierce",
-            "locationCode": 2723,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Palouse": {
-            "county": "Whitman",
-            "locationCode": 3811,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Pasco": {
-            "county": "Franklin",
-            "locationCode": 1104,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pateros": {
-            "county": "Okanogan",
-            "locationCode": 2409,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Pe Ell": {
-            "county": "Lewis",
-            "locationCode": 2106,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Pend Oreille County Unincorp. Areas": {
-            "county": "Pend Oreille",
-            "locationCode": 2600,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Pierce County Unincorp. Areas": {
-            "county": "Pierce",
-            "locationCode": 2700,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Pierce County Unincorp. Areas Non-RTA": {
-            "county": "Pierce",
-            "locationCode": 4100,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Pierce County Unincorp. Areas Non-RTA HBZ": {
-            "county": "Pierce",
-            "locationCode": 2789,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Pierce County Unincorp. PTBA": {
-            "county": "Pierce",
-            "locationCode": 2727,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Pierce County Unincorp. PTBA HBZ": {
-            "county": "Pierce",
-            "locationCode": 2787,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pierce County Unincorp. PTBA\nNon-RTA": {
-            "county": "Pierce",
-            "locationCode": 4127,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pomeroy": {
-            "county": "Garfield",
-            "locationCode": 1201,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Port Angeles": {
-            "county": "Clallam",
-            "locationCode": 502,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Port Orchard": {
-            "county": "Kitsap",
-            "locationCode": 1802,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Port Townsend": {
-            "county": "Jefferson",
-            "locationCode": 1601,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Poulsbo": {
-            "county": "Kitsap",
-            "locationCode": 1803,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Prescott": {
-            "county": "Walla Walla",
-            "locationCode": 3602,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Prosser": {
-            "county": "Benton",
-            "locationCode": 303,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Pullman": {
-            "county": "Whitman",
-            "locationCode": 3812,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Puyallup": {
-            "county": "Pierce",
-            "locationCode": 2711,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Quincy": {
-            "county": "Grant",
-            "locationCode": 1310,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Rainier": {
-            "county": "Thurston",
-            "locationCode": 3404,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Raymond": {
-            "county": "Pacific",
-            "locationCode": 2503,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Reardan": {
-            "county": "Lincoln",
-            "locationCode": 2206,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Redmond": {
-            "county": "King",
-            "locationCode": 1724,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Redmond Non-RTA": {
-            "county": "King",
-            "locationCode": 4024,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Renton": {
-            "county": "King",
-            "locationCode": 1725,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Renton Non-RTA": {
-            "county": "King",
-            "locationCode": 4025,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Republic": {
-            "county": "Ferry",
-            "locationCode": 1001,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Richland ": {
-            "county": "Benton",
-            "locationCode": 304,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Ridgefield": {
-            "county": "Clark",
-            "locationCode": 604,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Ritzville ": {
-            "county": "Adams",
-            "locationCode": 104,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Riverside": {
-            "county": "Okanogan",
-            "locationCode": 2410,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Rock Island": {
-            "county": "Douglas",
-            "locationCode": 904,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Rockford": {
-            "county": "Spokane",
-            "locationCode": 3208,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Rosalia": {
-            "county": "Whitman",
-            "locationCode": 3813,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Roslyn": {
-            "county": "Kittitas",
-            "locationCode": 1904,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Roy": {
-            "county": "Pierce",
-            "locationCode": 2712,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Royal City": {
-            "county": "Grant",
-            "locationCode": 1311,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Ruston": {
-            "county": "Pierce",
-            "locationCode": 2713,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Sammamish": {
-            "county": "King",
-            "locationCode": 1739,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Sammamish Non-RTA": {
-            "county": "King",
-            "locationCode": 4039,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "San Juan County Unincorp. Areas": {
-            "county": "San Juan",
-            "locationCode": 2800,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "SeaTac": {
-            "county": "King",
-            "locationCode": 1733,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Seattle ": {
-            "county": "King",
-            "locationCode": 1726,
-            "localTaxRate": 0.0375,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1025
-        },
-        "Sedro-Woolley": {
-            "county": "Skagit",
-            "locationCode": 2908,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Selah": {
-            "county": "Yakima",
-            "locationCode": 3907,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Sequim": {
-            "county": "Clallam",
-            "locationCode": 503,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Shelton ": {
-            "county": "Mason",
-            "locationCode": 2301,
-            "localTaxRate": 0.023,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.088
-        },
-        "Shoreline": {
-            "county": "King",
-            "locationCode": 1737,
-            "localTaxRate": 0.038,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.103
-        },
-        "Skagit County Unincorp. Areas": {
-            "county": "Skagit",
-            "locationCode": 2900,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Skagit County Unincorp. PTBA": {
-            "county": "Skagit",
-            "locationCode": 2929,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Skamania County Unincorp. Areas": {
-            "county": "Skamania",
-            "locationCode": 3000,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Skykomish": {
-            "county": "King",
-            "locationCode": 1727,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Snohomish ": {
-            "county": "Snohomish",
-            "locationCode": 3115,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Snohomish County Unincorp. Areas": {
-            "county": "Snohomish",
-            "locationCode": 3100,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Snohomish County Unincorp. Areas Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4200,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Snohomish County Unincorp. PTBA": {
-            "county": "Snohomish",
-            "locationCode": 3131,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Snohomish County Unincorp. PTBA Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4231,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Snoqualmie": {
-            "county": "King",
-            "locationCode": 1728,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Soap Lake": {
-            "county": "Grant",
-            "locationCode": 1312,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "South Bend": {
-            "county": "Pacific",
-            "locationCode": 2504,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "South Cle Elum": {
-            "county": "Kittitas",
-            "locationCode": 1905,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "South Prairie": {
-            "county": "Pierce",
-            "locationCode": 2714,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Spangle": {
-            "county": "Spokane",
-            "locationCode": 3209,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Spokane": {
-            "county": "Spokane",
-            "locationCode": 3210,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Spokane County Unincorp. Areas": {
-            "county": "Spokane",
-            "locationCode": 3200,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Spokane County Unincorp. PTBA": {
-            "county": "Spokane",
-            "locationCode": 3232,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Spokane Valley": {
-            "county": "Spokane",
-            "locationCode": 3213,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Sprague": {
-            "county": "Lincoln",
-            "locationCode": 2207,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Springdale": {
-            "county": "Stevens",
-            "locationCode": 3306,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Squaxin Tribe - Unincorp. Mason County": {
-            "county": "Mason",
-            "locationCode": 2303,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Squaxin Tribe - Unincorp. Thurston County": {
-            "county": "Thurston",
-            "locationCode": 3413,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "St. John": {
-            "county": "Whitman",
-            "locationCode": 3814,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Stanwood ": {
-            "county": "Snohomish",
-            "locationCode": 3116,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Starbuck": {
-            "county": "Columbia",
-            "locationCode": 702,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Steilacoom": {
-            "county": "Pierce",
-            "locationCode": 2715,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Stevens County Unincorp. Areas": {
-            "county": "Stevens",
-            "locationCode": 3300,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Stevenson": {
-            "county": "Skamania",
-            "locationCode": 3002,
-            "localTaxRate": 0.012,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.077
-        },
-        "Sultan": {
-            "county": "Snohomish",
-            "locationCode": 3117,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Sumas": {
-            "county": "Whatcom",
-            "locationCode": 3707,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Sumner": {
-            "county": "Pierce",
-            "locationCode": 2716,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Sunnyside": {
-            "county": "Yakima",
-            "locationCode": 3908,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Suquamish Tribe - Unincorp. Jefferson County": {
-            "county": "Jefferson",
-            "locationCode": 1603,
-            "localTaxRate": 0.026,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.091
-        },
-        "Suquamish Tribe - Unincorp. Kitsap County": {
-            "county": "Kitsap",
-            "locationCode": 1805,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Swinomish Tribe - La Conner": {
-            "county": "Skagit",
-            "locationCode": 2911,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Swinomish Tribe - Unincorp. Skagit County": {
-            "county": "Skagit",
-            "locationCode": 2909,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Swinomish Tribe - Unincorp. Skagit County PTBA": {
-            "county": "Skagit",
-            "locationCode": 2931,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Tacoma ": {
-            "county": "Pierce",
-            "locationCode": 2717,
-            "localTaxRate": 0.038,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.103
-        },
-        "Tekoa": {
-            "county": "Whitman",
-            "locationCode": 3815,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Tenino": {
-            "county": "Thurston",
-            "locationCode": 3405,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Thurston County Unincorp. Areas": {
-            "county": "Thurston",
-            "locationCode": 3400,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Thurston County Unincorp. PTBA": {
-            "county": "Thurston",
-            "locationCode": 3434,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Tieton": {
-            "county": "Yakima",
-            "locationCode": 3909,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Toledo": {
-            "county": "Lewis",
-            "locationCode": 2107,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Tonasket": {
-            "county": "Okanogan",
-            "locationCode": 2411,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Toppenish": {
-            "county": "Yakima",
-            "locationCode": 3910,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Tukwila": {
-            "county": "King",
-            "locationCode": 1729,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Tulalip Tribes - Marysville": {
-            "county": "Snohomish",
-            "locationCode": 3121,
-            "localTaxRate": 0.028,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.093
-        },
-        "Tulalip Tribes - Unincorp. PTBA Non-RTA": {
-            "county": "Snohomish",
-            "locationCode": 4233,
-            "localTaxRate": 0.025,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.09
-        },
-        "Tumwater": {
-            "county": "Thurston",
-            "locationCode": 3406,
-            "localTaxRate": 0.029,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.094
-        },
-        "Twisp ": {
-            "county": "Okanogan",
-            "locationCode": 2412,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Union Gap": {
-            "county": "Yakima",
-            "locationCode": 3911,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Uniontown": {
-            "county": "Whitman",
-            "locationCode": 3816,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "University Place": {
-            "county": "Pierce",
-            "locationCode": 2719,
-            "localTaxRate": 0.035,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.1
-        },
-        "Vader": {
-            "county": "Lewis",
-            "locationCode": 2108,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Vancouver": {
-            "county": "Clark",
-            "locationCode": 605,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Wahkiakum County Unincorp. Areas": {
-            "county": "Wahkiakum",
-            "locationCode": 3500,
-            "localTaxRate": 0.011,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.076
-        },
-        "Waitsburg ": {
-            "county": "Walla Walla",
-            "locationCode": 3603,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Walla Walla ": {
-            "county": "Walla Walla",
-            "locationCode": 3604,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Walla Walla County Unincorp. Areas": {
-            "county": "Walla Walla",
-            "locationCode": 3600,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Walla Walla County Unincorp. PTBA": {
-            "county": "Walla Walla",
-            "locationCode": 3636,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Wapato": {
-            "county": "Yakima",
-            "locationCode": 3912,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Warden": {
-            "county": "Grant",
-            "locationCode": 1313,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Washougal": {
-            "county": "Clark",
-            "locationCode": 606,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Washtucna": {
-            "county": "Adams",
-            "locationCode": 105,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Waterville": {
-            "county": "Douglas",
-            "locationCode": 905,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Waverly": {
-            "county": "Spokane",
-            "locationCode": 3211,
-            "localTaxRate": 0.016,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.081
-        },
-        "Wenatchee": {
-            "county": "Chelan",
-            "locationCode": 405,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "West Richland": {
-            "county": "Benton",
-            "locationCode": 305,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "Westport": {
-            "county": "Grays Harbor",
-            "locationCode": 1408,
-            "localTaxRate": 0.024,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.089
-        },
-        "Whatcom County Unincorp. Areas": {
-            "county": "Whatcom",
-            "locationCode": 3700,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Whatcom County Unincorp. PTBA": {
-            "county": "Whatcom",
-            "locationCode": 3737,
-            "localTaxRate": 0.021,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.086
-        },
-        "White Salmon": {
-            "county": "Klickitat",
-            "locationCode": 2003,
-            "localTaxRate": 0.01,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.075
-        },
-        "Whitman County Unincorp. Areas": {
-            "county": "Whitman",
-            "locationCode": 3800,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Wilbur": {
-            "county": "Lincoln",
-            "locationCode": 2208,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Wilkeson": {
-            "county": "Pierce",
-            "locationCode": 2718,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Wilson Creek": {
-            "county": "Grant",
-            "locationCode": 1315,
-            "localTaxRate": 0.017,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.082
-        },
-        "Winlock": {
-            "county": "Lewis",
-            "locationCode": 2109,
-            "localTaxRate": 0.013,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.078
-        },
-        "Winthrop": {
-            "county": "Okanogan",
-            "locationCode": 2413,
-            "localTaxRate": 0.02,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.085
-        },
-        "Woodinville": {
-            "county": "King",
-            "locationCode": 1735,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Woodinville Non-RTA": {
-            "county": "King",
-            "locationCode": 4035,
-            "localTaxRate": 0.022,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.087
-        },
-        "Woodland": {
-            "county": "Cowlitz",
-            "locationCode": 805,
-            "localTaxRate": 0.014,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.079
-        },
-        "Woodway": {
-            "county": "Snohomish",
-            "locationCode": 3118,
-            "localTaxRate": 0.039,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.104
-        },
-        "Yacolt": {
-            "county": "Clark",
-            "locationCode": 607,
-            "localTaxRate": 0.019,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.084
-        },
-        "Yakima": {
-            "county": "Yakima",
-            "locationCode": 3913,
-            "localTaxRate": 0.018,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.083
-        },
-        "Yakima County Unincorp. Areas": {
-            "county": "Yakima",
-            "locationCode": 3900,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        },
-        "Yarrow Point": {
-            "county": "King",
-            "locationCode": 1730,
-            "localTaxRate": 0.036,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.101
-        },
-        "Yelm": {
-            "county": "Thurston",
-            "locationCode": 3407,
-            "localTaxRate": 0.027,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.092
-        },
-        "Zillah": {
-            "county": "Yakima",
-            "locationCode": 3914,
-            "localTaxRate": 0.015,
-            "stateTaxRate": 0.065,
-            "totalTaxRate": 0.08
-        }
-    },
-    {
         "expires": "2022-01-01T07:00:00.000Z",
         "Aberdeen ": {
             "county": "Grays Harbor",
@@ -27082,6 +16808,3609 @@ module.exports = [
             "totalTaxRate": 0.091,
             "effectiveDate": "20221001",
             "expirationDate": "20221231"
+        }
+    },
+    {
+        "expires": "2023-04-01T07:00:00.000Z",
+        "ADAMS COUNTY": {
+            "locationCode": 100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "HATTON": {
+            "locationCode": 101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LIND": {
+            "locationCode": 102,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OTHELLO": {
+            "locationCode": 103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RITZVILLE": {
+            "locationCode": 104,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WASHTUCNA": {
+            "locationCode": 105,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ASOTIN COUNTY": {
+            "locationCode": 200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ASOTIN0201": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.015,
+            "localTaxRate": 0,
+            "rta": 0.08,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "CLARKSTON": {
+            "locationCode": 202,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BENTON COUNTY": {
+            "locationCode": 300,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BENTON0301": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.022,
+            "localTaxRate": 0,
+            "rta": 0.087,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "KENNEWICK": {
+            "locationCode": 302,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PROSSER": {
+            "locationCode": 303,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RICHLAND": {
+            "locationCode": 304,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WEST RICHLAND": {
+            "locationCode": 305,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BENTON-PTBA": {
+            "locationCode": 333,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHELAN COUNTY": {
+            "locationCode": 400,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CASHMERE": {
+            "locationCode": 401,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHELAN0402": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.018,
+            "localTaxRate": 0,
+            "rta": 0.083,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "ENTIAT": {
+            "locationCode": 403,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LEAVENWORTH": {
+            "locationCode": 404,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WENATCHEE": {
+            "locationCode": 405,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CLALLAM COUNTY": {
+            "locationCode": 500,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FORKS": {
+            "locationCode": 501,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PORT ANGELES": {
+            "locationCode": 502,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SEQUIM": {
+            "locationCode": 503,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CLARK COUNTY": {
+            "locationCode": 600,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BATTLE GROUND": {
+            "locationCode": 601,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CAMAS": {
+            "locationCode": 602,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LA CENTER": {
+            "locationCode": 603,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RIDGEFIELD": {
+            "locationCode": 604,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "VANCOUVER": {
+            "locationCode": 605,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WASHOUGAL": {
+            "locationCode": 606,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "YACOLT": {
+            "locationCode": 607,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COWLITZ TRIBE - CLARK COUNTY": {
+            "locationCode": 609,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COWLITZ TRIBE - LA CENTER": {
+            "locationCode": 611,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CLARK-PTBA": {
+            "locationCode": 666,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COLUMBIA COUNTY": {
+            "locationCode": 700,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DAYTON": {
+            "locationCode": 701,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "STARBUCK": {
+            "locationCode": 702,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COWLITZ COUNTY": {
+            "locationCode": 800,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CASTLE ROCK": {
+            "locationCode": 801,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KALAMA": {
+            "locationCode": 802,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KELSO": {
+            "locationCode": 803,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LONGVIEW": {
+            "locationCode": 804,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WOODLAND": {
+            "locationCode": 805,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DOUGLAS COUNTY": {
+            "locationCode": 900,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BRIDGEPORT": {
+            "locationCode": 901,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "EAST WENATCHEE": {
+            "locationCode": 902,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MANSFIELD": {
+            "locationCode": 903,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ROCK ISLAND": {
+            "locationCode": 904,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WATERVILLE": {
+            "locationCode": 905,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DOUGLAS-PTBA": {
+            "locationCode": 909,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FERRY COUNTY": {
+            "locationCode": 1000,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "REPUBLIC": {
+            "locationCode": 1001,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FRANKLIN COUNTY": {
+            "locationCode": 1100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CONNELL": {
+            "locationCode": 1101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KAHLOTUS": {
+            "locationCode": 1102,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MESA": {
+            "locationCode": 1103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PASCO": {
+            "locationCode": 1104,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FRANKLIN-PTBA": {
+            "locationCode": 1111,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GARFIELD COUNTY": {
+            "locationCode": 1200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "POMEROY": {
+            "locationCode": 1201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GRANT COUNTY": {
+            "locationCode": 1300,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COULEE1301": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.017,
+            "localTaxRate": 0,
+            "rta": 0.082,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "ELECTRIC1302": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.017,
+            "localTaxRate": 0,
+            "rta": 0.082,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "EPHRATA": {
+            "locationCode": 1303,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GEORGE": {
+            "locationCode": 1304,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GRAND COULEE": {
+            "locationCode": 1305,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "HARTLINE": {
+            "locationCode": 1306,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KRUPP": {
+            "locationCode": 1307,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MATTAWA": {
+            "locationCode": 1308,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MOSES LAKE": {
+            "locationCode": 1309,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "QUINCY": {
+            "locationCode": 1310,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ROYAL1311": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.017,
+            "localTaxRate": 0,
+            "rta": 0.082,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "SOAP LAKE": {
+            "locationCode": 1312,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WARDEN": {
+            "locationCode": 1313,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WILSON CREEK": {
+            "locationCode": 1315,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GRAYS HARBOR COUNTY": {
+            "locationCode": 1400,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ABERDEEN": {
+            "locationCode": 1401,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.0258,
+            "rta": 0,
+            "totalTaxRate": 0.0908,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COSMOPOLIS": {
+            "locationCode": 1402,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ELMA": {
+            "locationCode": 1403,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "HOQUIAM": {
+            "locationCode": 1404,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MCCLEARY": {
+            "locationCode": 1405,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MONTESANO": {
+            "locationCode": 1406,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OAKVILLE": {
+            "locationCode": 1407,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WESTPORT": {
+            "locationCode": 1408,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OCEAN SHORES": {
+            "locationCode": 1409,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHEHALIS TRIBES - GRAYS HARBOR COUNTY": {
+            "locationCode": 1411,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHEHALIS TRIBES - OAKVILLE": {
+            "locationCode": 1413,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ISLAND COUNTY": {
+            "locationCode": 1500,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COUPEVILLE": {
+            "locationCode": 1501,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LANGLEY": {
+            "locationCode": 1502,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OAK HARBOR": {
+            "locationCode": 1503,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "JEFFERSON COUNTY": {
+            "locationCode": 1600,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PORT TOWNSEND": {
+            "locationCode": 1601,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SUQUAMISH TRIBE - JEFFERSON COUNTY": {
+            "locationCode": 1603,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KING COUNTY RTA": {
+            "locationCode": 1700,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ALGONA": {
+            "locationCode": 1701,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "AUBURN/KING RTA": {
+            "locationCode": 1702,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.037,
+            "rta": 0,
+            "totalTaxRate": 0.102,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BEAUX ARTS VILLAGE": {
+            "locationCode": 1703,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BELLEVUE RTA": {
+            "locationCode": 1704,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BLACK DIAMOND": {
+            "locationCode": 1705,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BOTHELL/KING": {
+            "locationCode": 1706,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CARNATION": {
+            "locationCode": 1707,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CLYDE HILL": {
+            "locationCode": 1708,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DES MOINES": {
+            "locationCode": 1709,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DUVALL": {
+            "locationCode": 1710,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ENUMCLAW": {
+            "locationCode": 1711,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COVINGTON": {
+            "locationCode": 1712,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "HUNTS POINT": {
+            "locationCode": 1713,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ISSAQUAH RTA": {
+            "locationCode": 1714,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KENT RTA": {
+            "locationCode": 1715,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KIRKLAND": {
+            "locationCode": 1716,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.037,
+            "rta": 0,
+            "totalTaxRate": 0.102,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LAKE FOREST PARK": {
+            "locationCode": 1717,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MEDINA": {
+            "locationCode": 1718,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MERCER ISLAND": {
+            "locationCode": 1719,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MAPLE VALLEY": {
+            "locationCode": 1720,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NORMANDY PARK": {
+            "locationCode": 1721,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NORTH BEND": {
+            "locationCode": 1722,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PACIFIC/KING": {
+            "locationCode": 1723,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "REDMOND RTA": {
+            "locationCode": 1724,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RENTON RTA": {
+            "locationCode": 1725,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SEATTLE": {
+            "locationCode": 1726,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.0375,
+            "rta": 0,
+            "totalTaxRate": 0.1025,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SKYKOMISH": {
+            "locationCode": 1727,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SNOQUALMIE": {
+            "locationCode": 1728,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TUKWILA": {
+            "locationCode": 1729,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "YARROW POINT": {
+            "locationCode": 1730,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MILTON/KING": {
+            "locationCode": 1731,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FEDERAL WAY": {
+            "locationCode": 1732,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SEATAC": {
+            "locationCode": 1733,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BURIEN": {
+            "locationCode": 1734,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WOODINVILLE RTA": {
+            "locationCode": 1735,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NEWCASTLE": {
+            "locationCode": 1736,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SHORELINE": {
+            "locationCode": 1737,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KENMORE": {
+            "locationCode": 1738,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SAMMAMISH RTA": {
+            "locationCode": 1739,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP TRIBE - FEDERAL WAY": {
+            "locationCode": 1741,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KITSAP COUNTY": {
+            "locationCode": 1800,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BREMERTON": {
+            "locationCode": 1801,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PORT ORCHARD": {
+            "locationCode": 1802,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "POULSBO": {
+            "locationCode": 1803,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BAINBRIDGE ISLAND": {
+            "locationCode": 1804,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SUQUAMISH TRIBE - KITSAP COUNTY": {
+            "locationCode": 1805,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SUQUAMISH TRIBE - BREMERTON": {
+            "locationCode": 1807,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KITTITAS COUNTY": {
+            "locationCode": 1900,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CLE ELUM": {
+            "locationCode": 1901,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ELLENSBURG": {
+            "locationCode": 1902,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KITTITAS1903": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.016,
+            "localTaxRate": 0,
+            "rta": 0.081,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "ROSLYN": {
+            "locationCode": 1904,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SOUTH CLE ELUM": {
+            "locationCode": 1905,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KLICKITAT COUNTY": {
+            "locationCode": 2000,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.01,
+            "rta": 0,
+            "totalTaxRate": 0.075,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BINGEN": {
+            "locationCode": 2001,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.01,
+            "rta": 0,
+            "totalTaxRate": 0.075,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GOLDENDALE": {
+            "locationCode": 2002,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.01,
+            "rta": 0,
+            "totalTaxRate": 0.075,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WHITE SALMON": {
+            "locationCode": 2003,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.01,
+            "rta": 0,
+            "totalTaxRate": 0.075,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LEWIS COUNTY": {
+            "locationCode": 2100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CENTRALIA": {
+            "locationCode": 2101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHEHALIS": {
+            "locationCode": 2102,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MORTON": {
+            "locationCode": 2103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MOSSYROCK": {
+            "locationCode": 2104,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NAPAVINE": {
+            "locationCode": 2105,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PE ELL": {
+            "locationCode": 2106,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TOLEDO": {
+            "locationCode": 2107,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "VADER": {
+            "locationCode": 2108,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WINLOCK": {
+            "locationCode": 2109,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHEHALIS TRIBES - LEWIS COUNTY": {
+            "locationCode": 2111,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LINCOLN COUNTY": {
+            "locationCode": 2200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ALMIRA": {
+            "locationCode": 2201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CRESTON": {
+            "locationCode": 2202,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DAVENPORT": {
+            "locationCode": 2203,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "HARRINGTON": {
+            "locationCode": 2204,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ODESSA": {
+            "locationCode": 2205,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "REARDAN": {
+            "locationCode": 2206,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SPRAGUE": {
+            "locationCode": 2207,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WILBUR": {
+            "locationCode": 2208,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MASON COUNTY": {
+            "locationCode": 2300,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SHELTON": {
+            "locationCode": 2301,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SQUAXIN ISLAND TRIBE - MASON COUNTY": {
+            "locationCode": 2303,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OKANOGAN COUNTY": {
+            "locationCode": 2400,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BREWSTER": {
+            "locationCode": 2401,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CONCONULLY": {
+            "locationCode": 2402,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COULEE DAM": {
+            "locationCode": 2403,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ELMER2404": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.015,
+            "localTaxRate": 0,
+            "rta": 0.08,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "NESPELEM": {
+            "locationCode": 2405,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OKANOGAN2406": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.02,
+            "localTaxRate": 0,
+            "rta": 0.085,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "OMAK": {
+            "locationCode": 2407,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OROVILLE": {
+            "locationCode": 2408,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PATEROS": {
+            "locationCode": 2409,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RIVERSIDE": {
+            "locationCode": 2410,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TONASKET": {
+            "locationCode": 2411,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TWISP": {
+            "locationCode": 2412,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WINTHROP": {
+            "locationCode": 2413,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OKANOGAN-PTBA": {
+            "locationCode": 2424,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PACIFIC COUNTY": {
+            "locationCode": 2500,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ILWACO": {
+            "locationCode": 2501,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LONG BEACH": {
+            "locationCode": 2502,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RAYMOND": {
+            "locationCode": 2503,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SOUTH BEND": {
+            "locationCode": 2504,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PEND OREILLE COUNTY": {
+            "locationCode": 2600,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CUSICK": {
+            "locationCode": 2601,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "IONE": {
+            "locationCode": 2602,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "METALINE": {
+            "locationCode": 2603,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "METALINE FALLS": {
+            "locationCode": 2604,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NEWPORT": {
+            "locationCode": 2605,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KALISPEL TRIBE - PEND OREILLE COUNTY": {
+            "locationCode": 2607,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PIERCE COUNTY RTA": {
+            "locationCode": 2700,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BONNEY LAKE RTA": {
+            "locationCode": 2701,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BUCKLEY": {
+            "locationCode": 2702,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CARBONADO": {
+            "locationCode": 2703,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DUPONT": {
+            "locationCode": 2704,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "EATONVILLE": {
+            "locationCode": 2705,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FIFE": {
+            "locationCode": 2706,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FIRCREST": {
+            "locationCode": 2707,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GIG HARBOR": {
+            "locationCode": 2708,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MILTON/PIERCE": {
+            "locationCode": 2709,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ORTING": {
+            "locationCode": 2710,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP": {
+            "locationCode": 2711,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ROY": {
+            "locationCode": 2712,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RUSTON": {
+            "locationCode": 2713,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SOUTH PRAIRIE": {
+            "locationCode": 2714,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "STEILACOOM": {
+            "locationCode": 2715,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SUMNER": {
+            "locationCode": 2716,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TACOMA": {
+            "locationCode": 2717,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WILKESON": {
+            "locationCode": 2718,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "UNIVERSITY PLACE": {
+            "locationCode": 2719,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "EDGEWOOD": {
+            "locationCode": 2720,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LAKEWOOD": {
+            "locationCode": 2721,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PACIFIC/PIERCE": {
+            "locationCode": 2723,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "AUBURN/PIERCE": {
+            "locationCode": 2724,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NISQUALLY TRIBE - PIERCE COUNTY RTA": {
+            "locationCode": 2725,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PIERCE-PTBA RTA": {
+            "locationCode": 2727,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NISQUALLY TRIBE - LAKEWOOD": {
+            "locationCode": 2731,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP TRIBE - PUYALLUP": {
+            "locationCode": 2733,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP TRIBE - FIFE": {
+            "locationCode": 2735,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP TRIBE - MILTON": {
+            "locationCode": 2737,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP TRIBE - EDGEWOOD": {
+            "locationCode": 2739,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP TRIBE - TACOMA": {
+            "locationCode": 2741,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP TRIBE - PIERCE COUNTY PTBA RTA": {
+            "locationCode": 2745,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.035,
+            "rta": 0,
+            "totalTaxRate": 0.1,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PIERCE PTBA - HBZ": {
+            "locationCode": 2787,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GIG HARBOR HBZ": {
+            "locationCode": 2788,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PIERCE NON-RTA HBZ": {
+            "locationCode": 2789,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SAN JUAN COUNTY": {
+            "locationCode": 2800,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FRIDAY HARBOR": {
+            "locationCode": 2801,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LUMMI NATION - SAN JUAN COUNTY": {
+            "locationCode": 2803,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SKAGIT COUNTY": {
+            "locationCode": 2900,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ANACORTES": {
+            "locationCode": 2901,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BURLINGTON": {
+            "locationCode": 2902,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CONCRETE": {
+            "locationCode": 2903,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "HAMILTON": {
+            "locationCode": 2904,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LA CONNER": {
+            "locationCode": 2905,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LYMAN": {
+            "locationCode": 2906,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MOUNT VERNON": {
+            "locationCode": 2907,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SEDRO WOOLLEY": {
+            "locationCode": 2908,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SWINOMISH TRIBE - SKAGIT COUNTY": {
+            "locationCode": 2909,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SWINOMISH TRIBE - LA CONNER": {
+            "locationCode": 2911,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SAUK-SUIATTLE TRIBE - SKAGIT COUNTY": {
+            "locationCode": 2915,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SKAGIT-PTBA": {
+            "locationCode": 2929,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SWINOMISH TRIBE - SKAGIT - PTBA": {
+            "locationCode": 2931,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SAUK-SUIATTLE TRIBE - SKAGIT-PTBA": {
+            "locationCode": 2933,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SKAMANIA COUNTY": {
+            "locationCode": 3000,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NORTH BONNEVILLE": {
+            "locationCode": 3001,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "STEVENSON": {
+            "locationCode": 3002,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SNOHOMISH COUNTY RTA": {
+            "locationCode": 3100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ARLINGTON": {
+            "locationCode": 3101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BRIER": {
+            "locationCode": 3102,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DARRINGTON": {
+            "locationCode": 3103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "EDMONDS": {
+            "locationCode": 3104,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "EVERETT RTA": {
+            "locationCode": 3105,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.034,
+            "rta": 0,
+            "totalTaxRate": 0.099,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GOLD BAR": {
+            "locationCode": 3106,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GRANITE FALLS": {
+            "locationCode": 3107,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "INDEX": {
+            "locationCode": 3108,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LAKE STEVENS": {
+            "locationCode": 3109,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LYNNWOOD": {
+            "locationCode": 3110,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.041,
+            "rta": 0,
+            "totalTaxRate": 0.106,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MARYSVILLE": {
+            "locationCode": 3111,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MONROE": {
+            "locationCode": 3112,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MOUNTLAKE TERRACE": {
+            "locationCode": 3113,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MUKILTEO": {
+            "locationCode": 3114,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.041,
+            "rta": 0,
+            "totalTaxRate": 0.106,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SNOHOMISH3115": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.028,
+            "localTaxRate": 0,
+            "rta": 0.093,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "STANWOOD": {
+            "locationCode": 3116,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SULTAN": {
+            "locationCode": 3117,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WOODWAY": {
+            "locationCode": 3118,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MILL CREEK": {
+            "locationCode": 3119,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.041,
+            "rta": 0,
+            "totalTaxRate": 0.106,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BOTHELL/SNOHOMISH": {
+            "locationCode": 3120,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TULALIP TRIBES - MARYSVILLE": {
+            "locationCode": 3121,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "STILLAGUAMISH TRIBE - ARLINGTON": {
+            "locationCode": 3123,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "STILLAGUAMISH TRIBE - MARYSVILLE": {
+            "locationCode": 3125,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SNOHOMISH-PTBA RTA": {
+            "locationCode": 3131,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SPOKANE COUNTY": {
+            "locationCode": 3200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "AIRWAY HEIGHTS": {
+            "locationCode": 3201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHENEY": {
+            "locationCode": 3202,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "DEER PARK": {
+            "locationCode": 3203,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FAIRFIELD": {
+            "locationCode": 3204,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LATAH": {
+            "locationCode": 3205,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MEDICAL LAKE": {
+            "locationCode": 3206,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MILLWOOD": {
+            "locationCode": 3207,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ROCKFORD": {
+            "locationCode": 3208,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SPANGLE": {
+            "locationCode": 3209,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SPOKANE3210": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.025,
+            "localTaxRate": 0,
+            "rta": 0.09,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "WAVERLY": {
+            "locationCode": 3211,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LIBERTY LAKE": {
+            "locationCode": 3212,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SPOKANE VALLEY": {
+            "locationCode": 3213,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KALISPEL TRIBE - AIRWAY HEIGHTS": {
+            "locationCode": 3215,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SPOKANE-PTBA": {
+            "locationCode": 3232,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "STEVENS COUNTY": {
+            "locationCode": 3300,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHEWELAH": {
+            "locationCode": 3301,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COLVILLE": {
+            "locationCode": 3302,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KETTLE FALLS": {
+            "locationCode": 3303,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MARCUS": {
+            "locationCode": 3304,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NORTHPORT": {
+            "locationCode": 3305,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SPRINGDALE": {
+            "locationCode": 3306,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "THURSTON COUNTY": {
+            "locationCode": 3400,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BUCODA": {
+            "locationCode": 3401,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LACEY": {
+            "locationCode": 3402,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OLYMPIA": {
+            "locationCode": 3403,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RAINIER": {
+            "locationCode": 3404,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TENINO": {
+            "locationCode": 3405,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TUMWATER": {
+            "locationCode": 3406,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "YELM": {
+            "locationCode": 3407,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHEHALIS TRIBES - THURSTON COUNTY": {
+            "locationCode": 3409,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CHEHALIS TRIBES - TUMWATER": {
+            "locationCode": 3411,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SQUAXIN ISLAND TRIBE - THURSTON COUNTY": {
+            "locationCode": 3413,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NISQUALLY TRIBE - THURSTON COUNTY": {
+            "locationCode": 3415,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NISQUALLY TRIBE - THURSTON COUNTY PTBA": {
+            "locationCode": 3417,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NISQUALLY TRIBE - LACEY": {
+            "locationCode": 3419,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "THURSTON-PTBA": {
+            "locationCode": 3434,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WAHKIAKUM COUNTY": {
+            "locationCode": 3500,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "CATHLAMET": {
+            "locationCode": 3501,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WALLA WALLA COUNTY": {
+            "locationCode": 3600,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COLLEGE PLACE": {
+            "locationCode": 3601,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PRESCOTT": {
+            "locationCode": 3602,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WAITSBURG": {
+            "locationCode": 3603,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WALLA WALLA3604": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.024,
+            "localTaxRate": 0,
+            "rta": 0.089,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "WALLA WALLA-PTBA": {
+            "locationCode": 3636,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WHATCOM COUNTY": {
+            "locationCode": 3700,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BELLINGHAM": {
+            "locationCode": 3701,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BLAINE": {
+            "locationCode": 3702,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "EVERSON": {
+            "locationCode": 3703,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FERNDALE": {
+            "locationCode": 3704,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LYNDEN": {
+            "locationCode": 3705,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NOOKSACK": {
+            "locationCode": 3706,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SUMAS": {
+            "locationCode": 3707,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LUMMI NATION - FERNDALE": {
+            "locationCode": 3709,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LUMMI NATION - WHATCOM COUNTY": {
+            "locationCode": 3711,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LUMMI NATION - BELLINGHAM": {
+            "locationCode": 3713,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WHATCOM-PTBA": {
+            "locationCode": 3737,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LUMMI NATION - WHATCOM-PTBA": {
+            "locationCode": 3739,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WHITMAN COUNTY": {
+            "locationCode": 3800,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ALBION": {
+            "locationCode": 3801,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COLFAX": {
+            "locationCode": 3802,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "COLTON": {
+            "locationCode": 3803,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ENDICOTT": {
+            "locationCode": 3804,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "FARMINGTON": {
+            "locationCode": 3805,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GARFIELD": {
+            "locationCode": 3806,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LA CROSSE": {
+            "locationCode": 3807,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "LAMONT": {
+            "locationCode": 3808,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MALDEN": {
+            "locationCode": 3809,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "OAKESDALE": {
+            "locationCode": 3810,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PALOUSE": {
+            "locationCode": 3811,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PULLMAN": {
+            "locationCode": 3812,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ROSALIA": {
+            "locationCode": 3813,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ST. JOHN": {
+            "locationCode": 3814,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TEKOA": {
+            "locationCode": 3815,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "UNIONTOWN": {
+            "locationCode": 3816,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "YAKIMA COUNTY": {
+            "locationCode": 3900,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GRANDVIEW": {
+            "locationCode": 3901,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "GRANGER": {
+            "locationCode": 3902,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "HARRAH": {
+            "locationCode": 3903,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MABTON": {
+            "locationCode": 3904,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "MOXEE3905": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.015,
+            "localTaxRate": 0,
+            "rta": 0.08,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "NACHES": {
+            "locationCode": 3906,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SELAH": {
+            "locationCode": 3907,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SUNNYSIDE": {
+            "locationCode": 3908,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TIETON": {
+            "locationCode": 3909,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TOPPENISH": {
+            "locationCode": 3910,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "UNION GAP": {
+            "locationCode": 3911,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WAPATO": {
+            "locationCode": 3912,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "YAKIMA3913": {
+            "locationCode": 0.065,
+            "stateTaxRate": 0.018,
+            "localTaxRate": 0,
+            "rta": 0.083,
+            "totalTaxRate": 20230101,
+            "effectiveDate": "20230331",
+            "expirationDate": ""
+        },
+        "ZILLAH": {
+            "locationCode": 3914,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KING COUNTY NON-RTA": {
+            "locationCode": 4000,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "AUBURN/KING NON-RTA": {
+            "locationCode": 4002,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BELLEVUE NON-RTA": {
+            "locationCode": 4004,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "ISSAQUAH NON-RTA": {
+            "locationCode": 4014,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "KENT NON-RTA": {
+            "locationCode": 4015,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "REDMOND NON-RTA": {
+            "locationCode": 4024,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "RENTON NON-RTA": {
+            "locationCode": 4025,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "WOODINVILLE NON-RTA": {
+            "locationCode": 4035,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NEWCASTLE NON-RTA": {
+            "locationCode": 4036,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SAMMAMISH NON-RTA": {
+            "locationCode": 4039,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PIERCE COUNTY NON-RTA": {
+            "locationCode": 4100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "BONNEY LAKE NON-RTA": {
+            "locationCode": 4101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "NISQUALLY TRIBE - PIERCE COUNTY NON-RTA": {
+            "locationCode": 4103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PUYALLUP TRIBE - PIERCE COUNTY NON RTA": {
+            "locationCode": 4105,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "PIERCE-PTBA NON-RTA": {
+            "locationCode": 4127,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SNOHOMISH COUNTY NON-RTA": {
+            "locationCode": 4200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "STILLAGUAMISH TRIBE - SNOHOMISH COUNTY NON-RTA": {
+            "locationCode": 4201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "EVERETT NON-RTA": {
+            "locationCode": 4205,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SNOHOMISH-PTBA NON-RTA": {
+            "locationCode": 4231,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "TULALIP TRIBES - SNOHOMISH-PTBA NON-RTA": {
+            "locationCode": 4233,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "SAUK-SUIATTLE TRIBE - SNOHOMISH-PTBA NON-RTA": {
+            "locationCode": 4235,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
+        },
+        "STILLAGUAMISH TRIBE - SNOHOMISH-PTBA NON-RTA": {
+            "locationCode": 4237,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20230101",
+            "expirationDate": "20230331"
         }
     }
 ];
