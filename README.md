@@ -6,7 +6,7 @@ This is a very simple library to calculate sales tax rates for Washington State,
 
 Useful if your only nexus is in Washington state. I take no responsibility for your use of this library (see license). API is unofficially modeled after TaxJar (no affiliation, this is what I was replacing). Nice product which also prepares your filing for you (for a fee), and handles more complex tax scenarios.
 
-**Tax Rates valid for Jan 01 2021 to Apr 01 2023.**
+**Tax Rates valid for July 01 2022 to July 01 2023.**
 
 ## How it works
 
@@ -164,4 +164,4 @@ You can run some basic tests from the command line via `npm test`. This is also 
 
 
 ## Maintained by Meeting Room 365
-This library is maintained (unofficially) by the team that builds [Meeting Room 365](https://www.meetingroom365.com) – The Fastest Way to add a Meeting Room Display to Office 365, Exchange, and G Suite. Check us out!
+This library is maintained (unofficially) by the team that builds [Meeting Room 365](https://www.meetingroom365.com) – The Fastest Way to add a Meeting Room Display to Office 365, Exchange, and Google Workspace. Check us out!
