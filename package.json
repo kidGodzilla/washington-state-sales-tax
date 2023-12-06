@@ -1,6 +1,6 @@
 {
   "name": "washington-state-sales-tax",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "This is a very simple library to calculate sales tax rates for Washington State, in the United States. It doesn't do anything else.",
   "main": "index.js",
   "scripts": {
