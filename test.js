@@ -3,7 +3,7 @@
  */
 let { taxForOrder, taxRates, allRates } = require('./index.js');
 
-// taxRates = allRates[allRates.length - 1]; // Used to test the latest (future) rate table
+taxRates = allRates[allRates.length - 1]; // Used to test the latest (future) rate table
 
 const mapquestKey = ''; // Add your mapquest API key to test with Mapquest
 
