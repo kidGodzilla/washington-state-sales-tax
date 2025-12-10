@@ -18,7194 +18,6 @@
 
 module.exports = [
     {
-        "expires": "2024-01-01T07:00:00.000Z",
-        "ADAMS COUNTY": {
-            "locationCode": 100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "HATTON": {
-            "locationCode": 101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LIND": {
-            "locationCode": 102,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OTHELLO": {
-            "locationCode": 103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RITZVILLE": {
-            "locationCode": 104,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WASHTUCNA": {
-            "locationCode": 105,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ASOTIN COUNTY": {
-            "locationCode": 200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ASOTIN": {
-            "locationCode": 201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CLARKSTON": {
-            "locationCode": 202,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BENTON COUNTY": {
-            "locationCode": 300,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BENTON": {
-            "locationCode": 301,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KENNEWICK": {
-            "locationCode": 302,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PROSSER": {
-            "locationCode": 303,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RICHLAND": {
-            "locationCode": 304,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WEST RICHLAND": {
-            "locationCode": 305,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BENTON-PTBA": {
-            "locationCode": 333,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHELAN COUNTY": {
-            "locationCode": 400,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CASHMERE": {
-            "locationCode": 401,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHELAN": {
-            "locationCode": 402,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ENTIAT": {
-            "locationCode": 403,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LEAVENWORTH": {
-            "locationCode": 404,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WENATCHEE": {
-            "locationCode": 405,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CLALLAM COUNTY": {
-            "locationCode": 500,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FORKS": {
-            "locationCode": 501,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PORT ANGELES": {
-            "locationCode": 502,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SEQUIM": {
-            "locationCode": 503,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CLARK COUNTY": {
-            "locationCode": 600,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BATTLE GROUND": {
-            "locationCode": 601,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CAMAS": {
-            "locationCode": 602,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LA CENTER": {
-            "locationCode": 603,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RIDGEFIELD": {
-            "locationCode": 604,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "VANCOUVER": {
-            "locationCode": 605,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WASHOUGAL": {
-            "locationCode": 606,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "YACOLT": {
-            "locationCode": 607,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COWLITZ TRIBE - CLARK COUNTY": {
-            "locationCode": 609,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COWLITZ TRIBE - LA CENTER": {
-            "locationCode": 611,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CLARK-PTBA": {
-            "locationCode": 666,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COLUMBIA COUNTY": {
-            "locationCode": 700,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DAYTON": {
-            "locationCode": 701,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STARBUCK": {
-            "locationCode": 702,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COWLITZ COUNTY": {
-            "locationCode": 800,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CASTLE ROCK": {
-            "locationCode": 801,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KALAMA": {
-            "locationCode": 802,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KELSO": {
-            "locationCode": 803,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LONGVIEW": {
-            "locationCode": 804,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WOODLAND": {
-            "locationCode": 805,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DOUGLAS COUNTY": {
-            "locationCode": 900,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BRIDGEPORT": {
-            "locationCode": 901,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "EAST WENATCHEE": {
-            "locationCode": 902,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MANSFIELD": {
-            "locationCode": 903,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ROCK ISLAND": {
-            "locationCode": 904,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WATERVILLE": {
-            "locationCode": 905,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DOUGLAS-PTBA": {
-            "locationCode": 909,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FERRY COUNTY": {
-            "locationCode": 1000,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "REPUBLIC": {
-            "locationCode": 1001,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FRANKLIN COUNTY": {
-            "locationCode": 1100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CONNELL": {
-            "locationCode": 1101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KAHLOTUS": {
-            "locationCode": 1102,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MESA": {
-            "locationCode": 1103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PASCO": {
-            "locationCode": 1104,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FRANKLIN-PTBA": {
-            "locationCode": 1111,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GARFIELD COUNTY": {
-            "locationCode": 1200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "POMEROY": {
-            "locationCode": 1201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GRANT COUNTY": {
-            "locationCode": 1300,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COULEE": {
-            "locationCode": 1301,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ELECTRIC": {
-            "locationCode": 1302,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "EPHRATA": {
-            "locationCode": 1303,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GEORGE": {
-            "locationCode": 1304,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GRAND COULEE": {
-            "locationCode": 1305,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "HARTLINE": {
-            "locationCode": 1306,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KRUPP": {
-            "locationCode": 1307,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MATTAWA": {
-            "locationCode": 1308,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MOSES LAKE": {
-            "locationCode": 1309,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "QUINCY": {
-            "locationCode": 1310,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ROYAL": {
-            "locationCode": 1311,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SOAP LAKE": {
-            "locationCode": 1312,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WARDEN": {
-            "locationCode": 1313,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WILSON CREEK": {
-            "locationCode": 1315,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GRAYS HARBOR COUNTY": {
-            "locationCode": 1400,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ABERDEEN": {
-            "locationCode": 1401,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.0258,
-            "rta": 0,
-            "totalTaxRate": 0.0908,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COSMOPOLIS": {
-            "locationCode": 1402,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ELMA": {
-            "locationCode": 1403,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "HOQUIAM": {
-            "locationCode": 1404,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MCCLEARY": {
-            "locationCode": 1405,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MONTESANO": {
-            "locationCode": 1406,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OAKVILLE": {
-            "locationCode": 1407,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WESTPORT": {
-            "locationCode": 1408,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OCEAN SHORES": {
-            "locationCode": 1409,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHEHALIS TRIBES - GRAYS HARBOR COUNTY": {
-            "locationCode": 1411,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHEHALIS TRIBES - OAKVILLE": {
-            "locationCode": 1413,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ISLAND COUNTY": {
-            "locationCode": 1500,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COUPEVILLE": {
-            "locationCode": 1501,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LANGLEY": {
-            "locationCode": 1502,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OAK HARBOR": {
-            "locationCode": 1503,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.025,
-            "rta": 0,
-            "totalTaxRate": 0.09,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "JEFFERSON COUNTY": {
-            "locationCode": 1600,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PORT TOWNSEND": {
-            "locationCode": 1601,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SUQUAMISH TRIBE - JEFFERSON COUNTY": {
-            "locationCode": 1603,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KING COUNTY RTA": {
-            "locationCode": 1700,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ALGONA": {
-            "locationCode": 1701,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "AUBURN/KING RTA": {
-            "locationCode": 1702,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BEAUX ARTS VILLAGE": {
-            "locationCode": 1703,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BELLEVUE RTA": {
-            "locationCode": 1704,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BLACK DIAMOND": {
-            "locationCode": 1705,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BOTHELL/KING": {
-            "locationCode": 1706,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CARNATION": {
-            "locationCode": 1707,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CLYDE HILL": {
-            "locationCode": 1708,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DES MOINES": {
-            "locationCode": 1709,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DUVALL": {
-            "locationCode": 1710,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ENUMCLAW": {
-            "locationCode": 1711,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COVINGTON": {
-            "locationCode": 1712,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "HUNTS POINT": {
-            "locationCode": 1713,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ISSAQUAH RTA": {
-            "locationCode": 1714,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KENT RTA": {
-            "locationCode": 1715,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KIRKLAND": {
-            "locationCode": 1716,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LAKE FOREST PARK": {
-            "locationCode": 1717,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MEDINA": {
-            "locationCode": 1718,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MERCER ISLAND": {
-            "locationCode": 1719,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MAPLE VALLEY": {
-            "locationCode": 1720,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NORMANDY PARK": {
-            "locationCode": 1721,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NORTH BEND": {
-            "locationCode": 1722,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.025,
-            "rta": 0,
-            "totalTaxRate": 0.09,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PACIFIC/KING": {
-            "locationCode": 1723,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "REDMOND RTA": {
-            "locationCode": 1724,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RENTON RTA": {
-            "locationCode": 1725,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SEATTLE": {
-            "locationCode": 1726,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.0375,
-            "rta": 0,
-            "totalTaxRate": 0.1025,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SKYKOMISH": {
-            "locationCode": 1727,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SNOQUALMIE": {
-            "locationCode": 1728,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TUKWILA": {
-            "locationCode": 1729,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "YARROW POINT": {
-            "locationCode": 1730,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MILTON/KING": {
-            "locationCode": 1731,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FEDERAL WAY": {
-            "locationCode": 1732,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SEATAC": {
-            "locationCode": 1733,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BURIEN": {
-            "locationCode": 1734,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WOODINVILLE RTA": {
-            "locationCode": 1735,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NEWCASTLE": {
-            "locationCode": 1736,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SHORELINE": {
-            "locationCode": 1737,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.038,
-            "rta": 0,
-            "totalTaxRate": 0.103,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KENMORE": {
-            "locationCode": 1738,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SAMMAMISH RTA": {
-            "locationCode": 1739,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP TRIBE - FEDERAL WAY": {
-            "locationCode": 1741,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KITSAP COUNTY": {
-            "locationCode": 1800,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BREMERTON": {
-            "locationCode": 1801,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PORT ORCHARD": {
-            "locationCode": 1802,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "POULSBO": {
-            "locationCode": 1803,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BAINBRIDGE ISLAND": {
-            "locationCode": 1804,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SUQUAMISH TRIBE - KITSAP COUNTY": {
-            "locationCode": 1805,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SUQUAMISH TRIBE - BREMERTON": {
-            "locationCode": 1807,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KITTITAS COUNTY": {
-            "locationCode": 1900,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CLE ELUM": {
-            "locationCode": 1901,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ELLENSBURG": {
-            "locationCode": 1902,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KITTITAS": {
-            "locationCode": 1903,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ROSLYN": {
-            "locationCode": 1904,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SOUTH CLE ELUM": {
-            "locationCode": 1905,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KLICKITAT COUNTY": {
-            "locationCode": 2000,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.01,
-            "rta": 0,
-            "totalTaxRate": 0.075,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BINGEN": {
-            "locationCode": 2001,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.01,
-            "rta": 0,
-            "totalTaxRate": 0.075,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GOLDENDALE": {
-            "locationCode": 2002,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.01,
-            "rta": 0,
-            "totalTaxRate": 0.075,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WHITE SALMON": {
-            "locationCode": 2003,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LEWIS COUNTY": {
-            "locationCode": 2100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CENTRALIA": {
-            "locationCode": 2101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHEHALIS": {
-            "locationCode": 2102,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MORTON": {
-            "locationCode": 2103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MOSSYROCK": {
-            "locationCode": 2104,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NAPAVINE": {
-            "locationCode": 2105,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PE ELL": {
-            "locationCode": 2106,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TOLEDO": {
-            "locationCode": 2107,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "VADER": {
-            "locationCode": 2108,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WINLOCK": {
-            "locationCode": 2109,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHEHALIS TRIBES - LEWIS COUNTY": {
-            "locationCode": 2111,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LINCOLN COUNTY": {
-            "locationCode": 2200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ALMIRA": {
-            "locationCode": 2201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CRESTON": {
-            "locationCode": 2202,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DAVENPORT": {
-            "locationCode": 2203,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "HARRINGTON": {
-            "locationCode": 2204,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ODESSA": {
-            "locationCode": 2205,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "REARDAN": {
-            "locationCode": 2206,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SPRAGUE": {
-            "locationCode": 2207,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WILBUR": {
-            "locationCode": 2208,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MASON COUNTY": {
-            "locationCode": 2300,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SHELTON": {
-            "locationCode": 2301,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SQUAXIN ISLAND TRIBE - MASON COUNTY": {
-            "locationCode": 2303,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OKANOGAN COUNTY": {
-            "locationCode": 2400,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BREWSTER": {
-            "locationCode": 2401,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CONCONULLY": {
-            "locationCode": 2402,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COULEE DAM": {
-            "locationCode": 2403,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ELMER": {
-            "locationCode": 2404,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NESPELEM": {
-            "locationCode": 2405,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OKANOGAN": {
-            "locationCode": 2406,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OMAK": {
-            "locationCode": 2407,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OROVILLE": {
-            "locationCode": 2408,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PATEROS": {
-            "locationCode": 2409,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RIVERSIDE": {
-            "locationCode": 2410,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TONASKET": {
-            "locationCode": 2411,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TWISP": {
-            "locationCode": 2412,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WINTHROP": {
-            "locationCode": 2413,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OKANOGAN-PTBA": {
-            "locationCode": 2424,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PACIFIC COUNTY": {
-            "locationCode": 2500,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ILWACO": {
-            "locationCode": 2501,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LONG BEACH": {
-            "locationCode": 2502,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RAYMOND": {
-            "locationCode": 2503,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SOUTH BEND": {
-            "locationCode": 2504,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PEND OREILLE COUNTY": {
-            "locationCode": 2600,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CUSICK": {
-            "locationCode": 2601,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "IONE": {
-            "locationCode": 2602,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "METALINE": {
-            "locationCode": 2603,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "METALINE FALLS": {
-            "locationCode": 2604,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NEWPORT": {
-            "locationCode": 2605,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KALISPEL TRIBE - PEND OREILLE COUNTY": {
-            "locationCode": 2607,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PIERCE COUNTY RTA": {
-            "locationCode": 2700,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BONNEY LAKE RTA": {
-            "locationCode": 2701,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BUCKLEY": {
-            "locationCode": 2702,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CARBONADO": {
-            "locationCode": 2703,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DUPONT": {
-            "locationCode": 2704,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "EATONVILLE": {
-            "locationCode": 2705,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FIFE": {
-            "locationCode": 2706,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FIRCREST": {
-            "locationCode": 2707,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GIG HARBOR": {
-            "locationCode": 2708,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MILTON/PIERCE": {
-            "locationCode": 2709,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ORTING": {
-            "locationCode": 2710,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP": {
-            "locationCode": 2711,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ROY": {
-            "locationCode": 2712,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RUSTON": {
-            "locationCode": 2713,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SOUTH PRAIRIE": {
-            "locationCode": 2714,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STEILACOOM": {
-            "locationCode": 2715,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SUMNER": {
-            "locationCode": 2716,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TACOMA": {
-            "locationCode": 2717,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.038,
-            "rta": 0,
-            "totalTaxRate": 0.103,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WILKESON": {
-            "locationCode": 2718,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "UNIVERSITY PLACE": {
-            "locationCode": 2719,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "EDGEWOOD": {
-            "locationCode": 2720,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LAKEWOOD": {
-            "locationCode": 2721,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PACIFIC/PIERCE": {
-            "locationCode": 2723,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "AUBURN/PIERCE": {
-            "locationCode": 2724,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NISQUALLY TRIBE - PIERCE COUNTY RTA": {
-            "locationCode": 2725,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PIERCE-PTBA RTA": {
-            "locationCode": 2727,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NISQUALLY TRIBE - LAKEWOOD": {
-            "locationCode": 2731,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP TRIBE - PUYALLUP": {
-            "locationCode": 2733,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP TRIBE - FIFE": {
-            "locationCode": 2735,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP TRIBE - MILTON": {
-            "locationCode": 2737,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP TRIBE - EDGEWOOD": {
-            "locationCode": 2739,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP TRIBE - TACOMA": {
-            "locationCode": 2741,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.038,
-            "rta": 0,
-            "totalTaxRate": 0.103,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP TRIBE - PIERCE COUNTY PTBA RTA": {
-            "locationCode": 2745,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PIERCE PTBA - HBZ": {
-            "locationCode": 2787,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GIG HARBOR HBZ": {
-            "locationCode": 2788,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PIERCE NON-RTA HBZ": {
-            "locationCode": 2789,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SAN JUAN COUNTY": {
-            "locationCode": 2800,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FRIDAY HARBOR": {
-            "locationCode": 2801,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LUMMI NATION - SAN JUAN COUNTY": {
-            "locationCode": 2803,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SKAGIT COUNTY": {
-            "locationCode": 2900,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ANACORTES": {
-            "locationCode": 2901,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BURLINGTON": {
-            "locationCode": 2902,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CONCRETE": {
-            "locationCode": 2903,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "HAMILTON": {
-            "locationCode": 2904,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LA CONNER": {
-            "locationCode": 2905,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LYMAN": {
-            "locationCode": 2906,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MOUNT VERNON": {
-            "locationCode": 2907,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SEDRO WOOLLEY": {
-            "locationCode": 2908,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SWINOMISH TRIBE - SKAGIT COUNTY": {
-            "locationCode": 2909,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SWINOMISH TRIBE - LA CONNER": {
-            "locationCode": 2911,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SAUK-SUIATTLE TRIBE - SKAGIT COUNTY": {
-            "locationCode": 2915,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SKAGIT-PTBA": {
-            "locationCode": 2929,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SWINOMISH TRIBE - SKAGIT - PTBA": {
-            "locationCode": 2931,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SAUK-SUIATTLE TRIBE - SKAGIT-PTBA": {
-            "locationCode": 2933,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SKAMANIA COUNTY": {
-            "locationCode": 3000,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NORTH BONNEVILLE": {
-            "locationCode": 3001,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STEVENSON": {
-            "locationCode": 3002,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SNOHOMISH COUNTY RTA": {
-            "locationCode": 3100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ARLINGTON": {
-            "locationCode": 3101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BRIER": {
-            "locationCode": 3102,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DARRINGTON": {
-            "locationCode": 3103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "EDMONDS": {
-            "locationCode": 3104,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "EVERETT RTA": {
-            "locationCode": 3105,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.034,
-            "rta": 0,
-            "totalTaxRate": 0.099,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GOLD BAR": {
-            "locationCode": 3106,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GRANITE FALLS": {
-            "locationCode": 3107,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "INDEX": {
-            "locationCode": 3108,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LAKE STEVENS": {
-            "locationCode": 3109,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LYNNWOOD": {
-            "locationCode": 3110,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.041,
-            "rta": 0,
-            "totalTaxRate": 0.106,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MARYSVILLE": {
-            "locationCode": 3111,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.029,
-            "rta": 0,
-            "totalTaxRate": 0.094,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MONROE": {
-            "locationCode": 3112,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.029,
-            "rta": 0,
-            "totalTaxRate": 0.094,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MOUNTLAKE TERRACE": {
-            "locationCode": 3113,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MUKILTEO": {
-            "locationCode": 3114,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.041,
-            "rta": 0,
-            "totalTaxRate": 0.106,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SNOHOMISH": {
-            "locationCode": 3115,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STANWOOD": {
-            "locationCode": 3116,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SULTAN": {
-            "locationCode": 3117,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WOODWAY": {
-            "locationCode": 3118,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MILL CREEK": {
-            "locationCode": 3119,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.041,
-            "rta": 0,
-            "totalTaxRate": 0.106,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BOTHELL/SNOHOMISH": {
-            "locationCode": 3120,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TULALIP TRIBES - MARYSVILLE": {
-            "locationCode": 3121,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.029,
-            "rta": 0,
-            "totalTaxRate": 0.094,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STILLAGUAMISH TRIBE - ARLINGTON": {
-            "locationCode": 3123,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STILLAGUAMISH TRIBE - MARYSVILLE": {
-            "locationCode": 3125,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.029,
-            "rta": 0,
-            "totalTaxRate": 0.094,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SNOHOMISH-PTBA RTA": {
-            "locationCode": 3131,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SPOKANE COUNTY": {
-            "locationCode": 3200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "AIRWAY HEIGHTS": {
-            "locationCode": 3201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHENEY": {
-            "locationCode": 3202,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "DEER PARK": {
-            "locationCode": 3203,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FAIRFIELD": {
-            "locationCode": 3204,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LATAH": {
-            "locationCode": 3205,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MEDICAL LAKE": {
-            "locationCode": 3206,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MILLWOOD": {
-            "locationCode": 3207,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ROCKFORD": {
-            "locationCode": 3208,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SPANGLE": {
-            "locationCode": 3209,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SPOKANE": {
-            "locationCode": 3210,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.025,
-            "rta": 0,
-            "totalTaxRate": 0.09,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WAVERLY": {
-            "locationCode": 3211,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LIBERTY LAKE": {
-            "locationCode": 3212,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SPOKANE VALLEY": {
-            "locationCode": 3213,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KALISPEL TRIBE - AIRWAY HEIGHTS": {
-            "locationCode": 3215,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SPOKANE-PTBA": {
-            "locationCode": 3232,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STEVENS COUNTY": {
-            "locationCode": 3300,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHEWELAH": {
-            "locationCode": 3301,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COLVILLE": {
-            "locationCode": 3302,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KETTLE FALLS": {
-            "locationCode": 3303,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MARCUS": {
-            "locationCode": 3304,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NORTHPORT": {
-            "locationCode": 3305,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SPRINGDALE": {
-            "locationCode": 3306,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "THURSTON COUNTY": {
-            "locationCode": 3400,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BUCODA": {
-            "locationCode": 3401,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LACEY": {
-            "locationCode": 3402,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OLYMPIA": {
-            "locationCode": 3403,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RAINIER": {
-            "locationCode": 3404,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TENINO": {
-            "locationCode": 3405,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TUMWATER": {
-            "locationCode": 3406,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "YELM": {
-            "locationCode": 3407,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHEHALIS TRIBES - THURSTON COUNTY": {
-            "locationCode": 3409,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CHEHALIS TRIBES - TUMWATER": {
-            "locationCode": 3411,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SQUAXIN ISLAND TRIBE - THURSTON COUNTY": {
-            "locationCode": 3413,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NISQUALLY TRIBE - THURSTON COUNTY": {
-            "locationCode": 3415,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NISQUALLY TRIBE - THURSTON COUNTY PTBA": {
-            "locationCode": 3417,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NISQUALLY TRIBE - LACEY": {
-            "locationCode": 3419,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "THURSTON-PTBA": {
-            "locationCode": 3434,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WAHKIAKUM COUNTY": {
-            "locationCode": 3500,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "CATHLAMET": {
-            "locationCode": 3501,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WALLA WALLA COUNTY": {
-            "locationCode": 3600,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COLLEGE PLACE": {
-            "locationCode": 3601,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PRESCOTT": {
-            "locationCode": 3602,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WAITSBURG": {
-            "locationCode": 3603,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WALLA WALLA": {
-            "locationCode": 3604,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WALLA WALLA-PTBA": {
-            "locationCode": 3636,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WHATCOM COUNTY": {
-            "locationCode": 3700,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BELLINGHAM": {
-            "locationCode": 3701,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BLAINE": {
-            "locationCode": 3702,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "EVERSON": {
-            "locationCode": 3703,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FERNDALE": {
-            "locationCode": 3704,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LYNDEN": {
-            "locationCode": 3705,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NOOKSACK": {
-            "locationCode": 3706,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SUMAS": {
-            "locationCode": 3707,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LUMMI NATION - FERNDALE": {
-            "locationCode": 3709,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LUMMI NATION - WHATCOM COUNTY": {
-            "locationCode": 3711,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LUMMI NATION - BELLINGHAM": {
-            "locationCode": 3713,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WHATCOM-PTBA": {
-            "locationCode": 3737,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LUMMI NATION - WHATCOM-PTBA": {
-            "locationCode": 3739,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WHITMAN COUNTY": {
-            "locationCode": 3800,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ALBION": {
-            "locationCode": 3801,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COLFAX": {
-            "locationCode": 3802,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "COLTON": {
-            "locationCode": 3803,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ENDICOTT": {
-            "locationCode": 3804,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "FARMINGTON": {
-            "locationCode": 3805,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GARFIELD": {
-            "locationCode": 3806,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LA CROSSE": {
-            "locationCode": 3807,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "LAMONT": {
-            "locationCode": 3808,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MALDEN": {
-            "locationCode": 3809,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "OAKESDALE": {
-            "locationCode": 3810,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PALOUSE": {
-            "locationCode": 3811,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PULLMAN": {
-            "locationCode": 3812,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ROSALIA": {
-            "locationCode": 3813,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ST. JOHN": {
-            "locationCode": 3814,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TEKOA": {
-            "locationCode": 3815,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "UNIONTOWN": {
-            "locationCode": 3816,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "YAKIMA COUNTY": {
-            "locationCode": 3900,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GRANDVIEW": {
-            "locationCode": 3901,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "GRANGER": {
-            "locationCode": 3902,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "HARRAH": {
-            "locationCode": 3903,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MABTON": {
-            "locationCode": 3904,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "MOXEE": {
-            "locationCode": 3905,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NACHES": {
-            "locationCode": 3906,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SELAH": {
-            "locationCode": 3907,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SUNNYSIDE": {
-            "locationCode": 3908,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TIETON": {
-            "locationCode": 3909,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TOPPENISH": {
-            "locationCode": 3910,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "UNION GAP": {
-            "locationCode": 3911,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WAPATO": {
-            "locationCode": 3912,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "YAKIMA": {
-            "locationCode": 3913,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ZILLAH": {
-            "locationCode": 3914,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KING COUNTY NON-RTA": {
-            "locationCode": 4000,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "AUBURN/KING NON-RTA": {
-            "locationCode": 4002,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BELLEVUE NON-RTA": {
-            "locationCode": 4004,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "ISSAQUAH NON-RTA": {
-            "locationCode": 4014,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "KENT NON-RTA": {
-            "locationCode": 4015,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "REDMOND NON-RTA": {
-            "locationCode": 4024,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "RENTON NON-RTA": {
-            "locationCode": 4025,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "WOODINVILLE NON-RTA": {
-            "locationCode": 4035,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NEWCASTLE NON-RTA": {
-            "locationCode": 4036,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SAMMAMISH NON-RTA": {
-            "locationCode": 4039,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PIERCE COUNTY NON-RTA": {
-            "locationCode": 4100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "BONNEY LAKE NON-RTA": {
-            "locationCode": 4101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "NISQUALLY TRIBE - PIERCE COUNTY NON-RTA": {
-            "locationCode": 4103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PUYALLUP TRIBE - PIERCE COUNTY NON RTA": {
-            "locationCode": 4105,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "PIERCE-PTBA NON-RTA": {
-            "locationCode": 4127,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SNOHOMISH COUNTY NON-RTA": {
-            "locationCode": 4200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STILLAGUAMISH TRIBE - SNOHOMISH COUNTY NON-RTA": {
-            "locationCode": 4201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "EVERETT NON-RTA": {
-            "locationCode": 4205,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SNOHOMISH-PTBA NON-RTA": {
-            "locationCode": 4231,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "TULALIP TRIBES - SNOHOMISH-PTBA NON-RTA": {
-            "locationCode": 4233,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "SAUK-SUIATTLE TRIBE - SNOHOMISH-PTBA NON-RTA": {
-            "locationCode": 4235,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        },
-        "STILLAGUAMISH TRIBE - SNOHOMISH-PTBA NON-RTA": {
-            "locationCode": 4237,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20231001",
-            "expirationDate": "20231231"
-        }
-    },
-    {
-        "expires": "2024-04-01T07:00:00.000Z",
-        "ADAMS COUNTY": {
-            "locationCode": 100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "HATTON": {
-            "locationCode": 101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LIND": {
-            "locationCode": 102,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OTHELLO": {
-            "locationCode": 103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RITZVILLE": {
-            "locationCode": 104,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WASHTUCNA": {
-            "locationCode": 105,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ASOTIN COUNTY": {
-            "locationCode": 200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ASOTIN": {
-            "locationCode": 201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CLARKSTON": {
-            "locationCode": 202,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BENTON COUNTY": {
-            "locationCode": 300,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BENTON": {
-            "locationCode": 301,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KENNEWICK": {
-            "locationCode": 302,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PROSSER": {
-            "locationCode": 303,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RICHLAND": {
-            "locationCode": 304,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WEST RICHLAND": {
-            "locationCode": 305,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BENTON-PTBA": {
-            "locationCode": 333,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHELAN COUNTY": {
-            "locationCode": 400,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CASHMERE": {
-            "locationCode": 401,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHELAN": {
-            "locationCode": 402,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ENTIAT": {
-            "locationCode": 403,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LEAVENWORTH": {
-            "locationCode": 404,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WENATCHEE": {
-            "locationCode": 405,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CLALLAM COUNTY": {
-            "locationCode": 500,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FORKS": {
-            "locationCode": 501,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PORT ANGELES": {
-            "locationCode": 502,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SEQUIM": {
-            "locationCode": 503,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CLARK COUNTY": {
-            "locationCode": 600,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BATTLE GROUND": {
-            "locationCode": 601,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CAMAS": {
-            "locationCode": 602,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LA CENTER": {
-            "locationCode": 603,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RIDGEFIELD": {
-            "locationCode": 604,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "VANCOUVER": {
-            "locationCode": 605,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WASHOUGAL": {
-            "locationCode": 606,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "YACOLT": {
-            "locationCode": 607,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COWLITZ TRIBE - CLARK COUNTY": {
-            "locationCode": 609,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COWLITZ TRIBE - LA CENTER": {
-            "locationCode": 611,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CLARK-PTBA": {
-            "locationCode": 666,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COLUMBIA COUNTY": {
-            "locationCode": 700,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DAYTON": {
-            "locationCode": 701,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STARBUCK": {
-            "locationCode": 702,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COWLITZ COUNTY": {
-            "locationCode": 800,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CASTLE ROCK": {
-            "locationCode": 801,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KALAMA": {
-            "locationCode": 802,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KELSO": {
-            "locationCode": 803,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LONGVIEW": {
-            "locationCode": 804,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WOODLAND": {
-            "locationCode": 805,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DOUGLAS COUNTY": {
-            "locationCode": 900,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BRIDGEPORT": {
-            "locationCode": 901,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "EAST WENATCHEE": {
-            "locationCode": 902,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MANSFIELD": {
-            "locationCode": 903,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ROCK ISLAND": {
-            "locationCode": 904,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WATERVILLE": {
-            "locationCode": 905,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DOUGLAS-PTBA": {
-            "locationCode": 909,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FERRY COUNTY": {
-            "locationCode": 1000,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "REPUBLIC": {
-            "locationCode": 1001,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FRANKLIN COUNTY": {
-            "locationCode": 1100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CONNELL": {
-            "locationCode": 1101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KAHLOTUS": {
-            "locationCode": 1102,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MESA": {
-            "locationCode": 1103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PASCO": {
-            "locationCode": 1104,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FRANKLIN-PTBA": {
-            "locationCode": 1111,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GARFIELD COUNTY": {
-            "locationCode": 1200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "POMEROY": {
-            "locationCode": 1201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GRANT COUNTY": {
-            "locationCode": 1300,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COULEE": {
-            "locationCode": 1301,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ELECTRIC": {
-            "locationCode": 1302,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "EPHRATA": {
-            "locationCode": 1303,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GEORGE": {
-            "locationCode": 1304,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GRAND COULEE": {
-            "locationCode": 1305,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "HARTLINE": {
-            "locationCode": 1306,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KRUPP": {
-            "locationCode": 1307,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MATTAWA": {
-            "locationCode": 1308,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MOSES LAKE": {
-            "locationCode": 1309,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "QUINCY": {
-            "locationCode": 1310,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ROYAL": {
-            "locationCode": 1311,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SOAP LAKE": {
-            "locationCode": 1312,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WARDEN": {
-            "locationCode": 1313,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WILSON CREEK": {
-            "locationCode": 1315,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GRAYS HARBOR COUNTY": {
-            "locationCode": 1400,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ABERDEEN": {
-            "locationCode": 1401,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.0258,
-            "rta": 0,
-            "totalTaxRate": 0.0908,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COSMOPOLIS": {
-            "locationCode": 1402,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ELMA": {
-            "locationCode": 1403,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "HOQUIAM": {
-            "locationCode": 1404,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MCCLEARY": {
-            "locationCode": 1405,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MONTESANO": {
-            "locationCode": 1406,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OAKVILLE": {
-            "locationCode": 1407,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WESTPORT": {
-            "locationCode": 1408,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OCEAN SHORES": {
-            "locationCode": 1409,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHEHALIS TRIBES - GRAYS HARBOR COUNTY": {
-            "locationCode": 1411,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHEHALIS TRIBES - OAKVILLE": {
-            "locationCode": 1413,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ISLAND COUNTY": {
-            "locationCode": 1500,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COUPEVILLE": {
-            "locationCode": 1501,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LANGLEY": {
-            "locationCode": 1502,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OAK HARBOR": {
-            "locationCode": 1503,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.025,
-            "rta": 0,
-            "totalTaxRate": 0.09,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "JEFFERSON COUNTY": {
-            "locationCode": 1600,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PORT TOWNSEND": {
-            "locationCode": 1601,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SUQUAMISH TRIBE - JEFFERSON COUNTY": {
-            "locationCode": 1603,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KING COUNTY RTA": {
-            "locationCode": 1700,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ALGONA": {
-            "locationCode": 1701,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "AUBURN/KING RTA": {
-            "locationCode": 1702,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BEAUX ARTS VILLAGE": {
-            "locationCode": 1703,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BELLEVUE RTA": {
-            "locationCode": 1704,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BLACK DIAMOND": {
-            "locationCode": 1705,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BOTHELL/KING": {
-            "locationCode": 1706,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CARNATION": {
-            "locationCode": 1707,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CLYDE HILL": {
-            "locationCode": 1708,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DES MOINES": {
-            "locationCode": 1709,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DUVALL": {
-            "locationCode": 1710,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ENUMCLAW": {
-            "locationCode": 1711,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COVINGTON": {
-            "locationCode": 1712,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "HUNTS POINT": {
-            "locationCode": 1713,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ISSAQUAH RTA": {
-            "locationCode": 1714,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KENT RTA": {
-            "locationCode": 1715,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KIRKLAND": {
-            "locationCode": 1716,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LAKE FOREST PARK": {
-            "locationCode": 1717,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MEDINA": {
-            "locationCode": 1718,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MERCER ISLAND": {
-            "locationCode": 1719,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MAPLE VALLEY": {
-            "locationCode": 1720,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NORMANDY PARK": {
-            "locationCode": 1721,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NORTH BEND": {
-            "locationCode": 1722,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.025,
-            "rta": 0,
-            "totalTaxRate": 0.09,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PACIFIC/KING": {
-            "locationCode": 1723,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "REDMOND RTA": {
-            "locationCode": 1724,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RENTON RTA": {
-            "locationCode": 1725,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SEATTLE": {
-            "locationCode": 1726,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.0375,
-            "rta": 0,
-            "totalTaxRate": 0.1025,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SKYKOMISH": {
-            "locationCode": 1727,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SNOQUALMIE": {
-            "locationCode": 1728,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TUKWILA": {
-            "locationCode": 1729,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "YARROW POINT": {
-            "locationCode": 1730,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MILTON/KING": {
-            "locationCode": 1731,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FEDERAL WAY": {
-            "locationCode": 1732,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SEATAC": {
-            "locationCode": 1733,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BURIEN": {
-            "locationCode": 1734,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WOODINVILLE RTA": {
-            "locationCode": 1735,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NEWCASTLE": {
-            "locationCode": 1736,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SHORELINE": {
-            "locationCode": 1737,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.038,
-            "rta": 0,
-            "totalTaxRate": 0.103,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KENMORE": {
-            "locationCode": 1738,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SAMMAMISH RTA": {
-            "locationCode": 1739,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP TRIBE - FEDERAL WAY": {
-            "locationCode": 1741,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KITSAP COUNTY": {
-            "locationCode": 1800,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BREMERTON": {
-            "locationCode": 1801,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PORT ORCHARD": {
-            "locationCode": 1802,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "POULSBO": {
-            "locationCode": 1803,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BAINBRIDGE ISLAND": {
-            "locationCode": 1804,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SUQUAMISH TRIBE - KITSAP COUNTY": {
-            "locationCode": 1805,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SUQUAMISH TRIBE - BREMERTON": {
-            "locationCode": 1807,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KITTITAS COUNTY": {
-            "locationCode": 1900,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CLE ELUM": {
-            "locationCode": 1901,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ELLENSBURG": {
-            "locationCode": 1902,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KITTITAS": {
-            "locationCode": 1903,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ROSLYN": {
-            "locationCode": 1904,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SOUTH CLE ELUM": {
-            "locationCode": 1905,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KLICKITAT COUNTY": {
-            "locationCode": 2000,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.01,
-            "rta": 0,
-            "totalTaxRate": 0.075,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BINGEN": {
-            "locationCode": 2001,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.01,
-            "rta": 0,
-            "totalTaxRate": 0.075,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GOLDENDALE": {
-            "locationCode": 2002,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.01,
-            "rta": 0,
-            "totalTaxRate": 0.075,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WHITE SALMON": {
-            "locationCode": 2003,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LEWIS COUNTY": {
-            "locationCode": 2100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CENTRALIA": {
-            "locationCode": 2101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHEHALIS": {
-            "locationCode": 2102,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MORTON": {
-            "locationCode": 2103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MOSSYROCK": {
-            "locationCode": 2104,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NAPAVINE": {
-            "locationCode": 2105,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PE ELL": {
-            "locationCode": 2106,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TOLEDO": {
-            "locationCode": 2107,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "VADER": {
-            "locationCode": 2108,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WINLOCK": {
-            "locationCode": 2109,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHEHALIS TRIBES - LEWIS COUNTY": {
-            "locationCode": 2111,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LINCOLN COUNTY": {
-            "locationCode": 2200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ALMIRA": {
-            "locationCode": 2201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CRESTON": {
-            "locationCode": 2202,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DAVENPORT": {
-            "locationCode": 2203,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "HARRINGTON": {
-            "locationCode": 2204,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ODESSA": {
-            "locationCode": 2205,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "REARDAN": {
-            "locationCode": 2206,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SPRAGUE": {
-            "locationCode": 2207,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WILBUR": {
-            "locationCode": 2208,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MASON COUNTY": {
-            "locationCode": 2300,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SHELTON": {
-            "locationCode": 2301,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SQUAXIN ISLAND TRIBE - MASON COUNTY": {
-            "locationCode": 2303,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OKANOGAN COUNTY": {
-            "locationCode": 2400,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BREWSTER": {
-            "locationCode": 2401,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CONCONULLY": {
-            "locationCode": 2402,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COULEE DAM": {
-            "locationCode": 2403,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ELMER": {
-            "locationCode": 2404,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NESPELEM": {
-            "locationCode": 2405,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OKANOGAN": {
-            "locationCode": 2406,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OMAK": {
-            "locationCode": 2407,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OROVILLE": {
-            "locationCode": 2408,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PATEROS": {
-            "locationCode": 2409,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RIVERSIDE": {
-            "locationCode": 2410,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TONASKET": {
-            "locationCode": 2411,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TWISP": {
-            "locationCode": 2412,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WINTHROP": {
-            "locationCode": 2413,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OKANOGAN-PTBA": {
-            "locationCode": 2424,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PACIFIC COUNTY": {
-            "locationCode": 2500,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ILWACO": {
-            "locationCode": 2501,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LONG BEACH": {
-            "locationCode": 2502,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RAYMOND": {
-            "locationCode": 2503,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SOUTH BEND": {
-            "locationCode": 2504,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PEND OREILLE COUNTY": {
-            "locationCode": 2600,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CUSICK": {
-            "locationCode": 2601,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "IONE": {
-            "locationCode": 2602,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "METALINE": {
-            "locationCode": 2603,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "METALINE FALLS": {
-            "locationCode": 2604,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NEWPORT": {
-            "locationCode": 2605,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KALISPEL TRIBE - PEND OREILLE COUNTY": {
-            "locationCode": 2607,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PIERCE COUNTY RTA": {
-            "locationCode": 2700,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BONNEY LAKE RTA": {
-            "locationCode": 2701,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BUCKLEY": {
-            "locationCode": 2702,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CARBONADO": {
-            "locationCode": 2703,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DUPONT": {
-            "locationCode": 2704,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "EATONVILLE": {
-            "locationCode": 2705,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FIFE": {
-            "locationCode": 2706,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FIRCREST": {
-            "locationCode": 2707,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GIG HARBOR": {
-            "locationCode": 2708,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MILTON/PIERCE": {
-            "locationCode": 2709,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ORTING": {
-            "locationCode": 2710,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP": {
-            "locationCode": 2711,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ROY": {
-            "locationCode": 2712,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RUSTON": {
-            "locationCode": 2713,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SOUTH PRAIRIE": {
-            "locationCode": 2714,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STEILACOOM": {
-            "locationCode": 2715,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SUMNER": {
-            "locationCode": 2716,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TACOMA": {
-            "locationCode": 2717,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.038,
-            "rta": 0,
-            "totalTaxRate": 0.103,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WILKESON": {
-            "locationCode": 2718,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "UNIVERSITY PLACE": {
-            "locationCode": 2719,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "EDGEWOOD": {
-            "locationCode": 2720,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LAKEWOOD": {
-            "locationCode": 2721,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PACIFIC/PIERCE": {
-            "locationCode": 2723,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "AUBURN/PIERCE": {
-            "locationCode": 2724,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.037,
-            "rta": 0,
-            "totalTaxRate": 0.102,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NISQUALLY TRIBE - PIERCE COUNTY RTA": {
-            "locationCode": 2725,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PIERCE-PTBA RTA": {
-            "locationCode": 2727,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NISQUALLY TRIBE - LAKEWOOD": {
-            "locationCode": 2731,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP TRIBE - PUYALLUP": {
-            "locationCode": 2733,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP TRIBE - FIFE": {
-            "locationCode": 2735,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP TRIBE - MILTON": {
-            "locationCode": 2737,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP TRIBE - EDGEWOOD": {
-            "locationCode": 2739,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP TRIBE - TACOMA": {
-            "locationCode": 2741,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.038,
-            "rta": 0,
-            "totalTaxRate": 0.103,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP TRIBE - PIERCE COUNTY PTBA RTA": {
-            "locationCode": 2745,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.036,
-            "rta": 0,
-            "totalTaxRate": 0.101,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PIERCE PTBA - HBZ": {
-            "locationCode": 2787,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GIG HARBOR HBZ": {
-            "locationCode": 2788,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PIERCE NON-RTA HBZ": {
-            "locationCode": 2789,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SAN JUAN COUNTY": {
-            "locationCode": 2800,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FRIDAY HARBOR": {
-            "locationCode": 2801,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LUMMI NATION - SAN JUAN COUNTY": {
-            "locationCode": 2803,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.019,
-            "rta": 0,
-            "totalTaxRate": 0.084,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SKAGIT COUNTY": {
-            "locationCode": 2900,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ANACORTES": {
-            "locationCode": 2901,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BURLINGTON": {
-            "locationCode": 2902,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CONCRETE": {
-            "locationCode": 2903,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "HAMILTON": {
-            "locationCode": 2904,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LA CONNER": {
-            "locationCode": 2905,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LYMAN": {
-            "locationCode": 2906,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MOUNT VERNON": {
-            "locationCode": 2907,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SEDRO WOOLLEY": {
-            "locationCode": 2908,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SWINOMISH TRIBE - SKAGIT COUNTY": {
-            "locationCode": 2909,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SWINOMISH TRIBE - LA CONNER": {
-            "locationCode": 2911,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SAUK-SUIATTLE TRIBE - SKAGIT COUNTY": {
-            "locationCode": 2915,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SKAGIT-PTBA": {
-            "locationCode": 2929,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SWINOMISH TRIBE - SKAGIT - PTBA": {
-            "locationCode": 2931,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SKAMANIA COUNTY": {
-            "locationCode": 3000,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NORTH BONNEVILLE": {
-            "locationCode": 3001,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STEVENSON": {
-            "locationCode": 3002,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.012,
-            "rta": 0,
-            "totalTaxRate": 0.077,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SNOHOMISH COUNTY RTA": {
-            "locationCode": 3100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ARLINGTON": {
-            "locationCode": 3101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BRIER": {
-            "locationCode": 3102,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DARRINGTON": {
-            "locationCode": 3103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "EDMONDS": {
-            "locationCode": 3104,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "EVERETT RTA": {
-            "locationCode": 3105,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.034,
-            "rta": 0,
-            "totalTaxRate": 0.099,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GOLD BAR": {
-            "locationCode": 3106,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GRANITE FALLS": {
-            "locationCode": 3107,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "INDEX": {
-            "locationCode": 3108,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LAKE STEVENS": {
-            "locationCode": 3109,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LYNNWOOD": {
-            "locationCode": 3110,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.041,
-            "rta": 0,
-            "totalTaxRate": 0.106,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MARYSVILLE": {
-            "locationCode": 3111,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.029,
-            "rta": 0,
-            "totalTaxRate": 0.094,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MONROE": {
-            "locationCode": 3112,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.029,
-            "rta": 0,
-            "totalTaxRate": 0.094,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MOUNTLAKE TERRACE": {
-            "locationCode": 3113,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MUKILTEO": {
-            "locationCode": 3114,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.041,
-            "rta": 0,
-            "totalTaxRate": 0.106,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SNOHOMISH": {
-            "locationCode": 3115,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STANWOOD": {
-            "locationCode": 3116,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SULTAN": {
-            "locationCode": 3117,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WOODWAY": {
-            "locationCode": 3118,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MILL CREEK": {
-            "locationCode": 3119,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.041,
-            "rta": 0,
-            "totalTaxRate": 0.106,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BOTHELL/SNOHOMISH": {
-            "locationCode": 3120,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TULALIP TRIBES - MARYSVILLE": {
-            "locationCode": 3121,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.029,
-            "rta": 0,
-            "totalTaxRate": 0.094,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STILLAGUAMISH TRIBE - ARLINGTON": {
-            "locationCode": 3123,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STILLAGUAMISH TRIBE - MARYSVILLE": {
-            "locationCode": 3125,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.029,
-            "rta": 0,
-            "totalTaxRate": 0.094,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SNOHOMISH-PTBA RTA": {
-            "locationCode": 3131,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.04,
-            "rta": 0,
-            "totalTaxRate": 0.105,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SPOKANE COUNTY": {
-            "locationCode": 3200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "AIRWAY HEIGHTS": {
-            "locationCode": 3201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHENEY": {
-            "locationCode": 3202,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "DEER PARK": {
-            "locationCode": 3203,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FAIRFIELD": {
-            "locationCode": 3204,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LATAH": {
-            "locationCode": 3205,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MEDICAL LAKE": {
-            "locationCode": 3206,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MILLWOOD": {
-            "locationCode": 3207,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ROCKFORD": {
-            "locationCode": 3208,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SPANGLE": {
-            "locationCode": 3209,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SPOKANE": {
-            "locationCode": 3210,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.025,
-            "rta": 0,
-            "totalTaxRate": 0.09,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WAVERLY": {
-            "locationCode": 3211,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LIBERTY LAKE": {
-            "locationCode": 3212,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SPOKANE VALLEY": {
-            "locationCode": 3213,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KALISPEL TRIBE - AIRWAY HEIGHTS": {
-            "locationCode": 3215,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.027,
-            "rta": 0,
-            "totalTaxRate": 0.092,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SPOKANE-PTBA": {
-            "locationCode": 3232,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STEVENS COUNTY": {
-            "locationCode": 3300,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHEWELAH": {
-            "locationCode": 3301,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COLVILLE": {
-            "locationCode": 3302,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KETTLE FALLS": {
-            "locationCode": 3303,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MARCUS": {
-            "locationCode": 3304,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NORTHPORT": {
-            "locationCode": 3305,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SPRINGDALE": {
-            "locationCode": 3306,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.011,
-            "rta": 0,
-            "totalTaxRate": 0.076,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "THURSTON COUNTY": {
-            "locationCode": 3400,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BUCODA": {
-            "locationCode": 3401,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LACEY": {
-            "locationCode": 3402,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OLYMPIA": {
-            "locationCode": 3403,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RAINIER": {
-            "locationCode": 3404,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TENINO": {
-            "locationCode": 3405,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TUMWATER": {
-            "locationCode": 3406,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "YELM": {
-            "locationCode": 3407,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHEHALIS TRIBES - THURSTON COUNTY": {
-            "locationCode": 3409,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CHEHALIS TRIBES - TUMWATER": {
-            "locationCode": 3411,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SQUAXIN ISLAND TRIBE - THURSTON COUNTY": {
-            "locationCode": 3413,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NISQUALLY TRIBE - THURSTON COUNTY": {
-            "locationCode": 3415,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NISQUALLY TRIBE - THURSTON COUNTY PTBA": {
-            "locationCode": 3417,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NISQUALLY TRIBE - LACEY": {
-            "locationCode": 3419,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.03,
-            "rta": 0,
-            "totalTaxRate": 0.095,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "THURSTON-PTBA": {
-            "locationCode": 3434,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.028,
-            "rta": 0,
-            "totalTaxRate": 0.093,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WAHKIAKUM COUNTY": {
-            "locationCode": 3500,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "CATHLAMET": {
-            "locationCode": 3501,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.013,
-            "rta": 0,
-            "totalTaxRate": 0.078,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WALLA WALLA COUNTY": {
-            "locationCode": 3600,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COLLEGE PLACE": {
-            "locationCode": 3601,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PRESCOTT": {
-            "locationCode": 3602,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WAITSBURG": {
-            "locationCode": 3603,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WALLA WALLA": {
-            "locationCode": 3604,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.024,
-            "rta": 0,
-            "totalTaxRate": 0.089,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WALLA WALLA-PTBA": {
-            "locationCode": 3636,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WHATCOM COUNTY": {
-            "locationCode": 3700,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BELLINGHAM": {
-            "locationCode": 3701,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BLAINE": {
-            "locationCode": 3702,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "EVERSON": {
-            "locationCode": 3703,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FERNDALE": {
-            "locationCode": 3704,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LYNDEN": {
-            "locationCode": 3705,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NOOKSACK": {
-            "locationCode": 3706,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SUMAS": {
-            "locationCode": 3707,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LUMMI NATION - FERNDALE": {
-            "locationCode": 3709,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LUMMI NATION - WHATCOM COUNTY": {
-            "locationCode": 3711,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LUMMI NATION - BELLINGHAM": {
-            "locationCode": 3713,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WHATCOM-PTBA": {
-            "locationCode": 3737,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LUMMI NATION - WHATCOM-PTBA": {
-            "locationCode": 3739,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.021,
-            "rta": 0,
-            "totalTaxRate": 0.086,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WHITMAN COUNTY": {
-            "locationCode": 3800,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ALBION": {
-            "locationCode": 3801,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COLFAX": {
-            "locationCode": 3802,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "COLTON": {
-            "locationCode": 3803,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ENDICOTT": {
-            "locationCode": 3804,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "FARMINGTON": {
-            "locationCode": 3805,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GARFIELD": {
-            "locationCode": 3806,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LA CROSSE": {
-            "locationCode": 3807,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "LAMONT": {
-            "locationCode": 3808,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MALDEN": {
-            "locationCode": 3809,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "OAKESDALE": {
-            "locationCode": 3810,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PALOUSE": {
-            "locationCode": 3811,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PULLMAN": {
-            "locationCode": 3812,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ROSALIA": {
-            "locationCode": 3813,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ST. JOHN": {
-            "locationCode": 3814,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TEKOA": {
-            "locationCode": 3815,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "UNIONTOWN": {
-            "locationCode": 3816,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "YAKIMA COUNTY": {
-            "locationCode": 3900,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GRANDVIEW": {
-            "locationCode": 3901,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "GRANGER": {
-            "locationCode": 3902,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "HARRAH": {
-            "locationCode": 3903,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MABTON": {
-            "locationCode": 3904,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "MOXEE": {
-            "locationCode": 3905,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NACHES": {
-            "locationCode": 3906,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SELAH": {
-            "locationCode": 3907,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SUNNYSIDE": {
-            "locationCode": 3908,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TIETON": {
-            "locationCode": 3909,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TOPPENISH": {
-            "locationCode": 3910,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "UNION GAP": {
-            "locationCode": 3911,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.017,
-            "rta": 0,
-            "totalTaxRate": 0.082,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WAPATO": {
-            "locationCode": 3912,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "YAKIMA": {
-            "locationCode": 3913,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.018,
-            "rta": 0,
-            "totalTaxRate": 0.083,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ZILLAH": {
-            "locationCode": 3914,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.015,
-            "rta": 0,
-            "totalTaxRate": 0.08,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KING COUNTY NON-RTA": {
-            "locationCode": 4000,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "AUBURN/KING NON-RTA": {
-            "locationCode": 4002,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BELLEVUE NON-RTA": {
-            "locationCode": 4004,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "ISSAQUAH NON-RTA": {
-            "locationCode": 4014,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "KENT NON-RTA": {
-            "locationCode": 4015,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "REDMOND NON-RTA": {
-            "locationCode": 4024,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.023,
-            "rta": 0,
-            "totalTaxRate": 0.088,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "RENTON NON-RTA": {
-            "locationCode": 4025,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "WOODINVILLE NON-RTA": {
-            "locationCode": 4035,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NEWCASTLE NON-RTA": {
-            "locationCode": 4036,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SAMMAMISH NON-RTA": {
-            "locationCode": 4039,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PIERCE COUNTY NON-RTA": {
-            "locationCode": 4100,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "BONNEY LAKE NON-RTA": {
-            "locationCode": 4101,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "NISQUALLY TRIBE - PIERCE COUNTY NON-RTA": {
-            "locationCode": 4103,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PUYALLUP TRIBE - PIERCE COUNTY NON RTA": {
-            "locationCode": 4105,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.016,
-            "rta": 0,
-            "totalTaxRate": 0.081,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "PIERCE-PTBA NON-RTA": {
-            "locationCode": 4127,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.022,
-            "rta": 0,
-            "totalTaxRate": 0.087,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SNOHOMISH COUNTY NON-RTA": {
-            "locationCode": 4200,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STILLAGUAMISH TRIBE - SNOHOMISH COUNTY NON-RTA": {
-            "locationCode": 4201,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.014,
-            "rta": 0,
-            "totalTaxRate": 0.079,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "EVERETT NON-RTA": {
-            "locationCode": 4205,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.02,
-            "rta": 0,
-            "totalTaxRate": 0.085,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "SNOHOMISH-PTBA NON-RTA": {
-            "locationCode": 4231,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "TULALIP TRIBES - SNOHOMISH-PTBA NON-RTA": {
-            "locationCode": 4233,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        },
-        "STILLAGUAMISH TRIBE - SNOHOMISH-PTBA NON-RTA": {
-            "locationCode": 4237,
-            "stateTaxRate": 0.065,
-            "localTaxRate": 0.026,
-            "rta": 0,
-            "totalTaxRate": 0.091,
-            "effectiveDate": "20240101",
-            "expirationDate": "20240331"
-        }
-    },
-    {
         "expires": "2024-07-01T07:00:00.000Z",
         "ADAMS COUNTY": {
             "locationCode": 100,
@@ -32514,6 +25326,3672 @@ module.exports = [
             "totalTaxRate": 0.091,
             "effectiveDate": "20251001",
             "expirationDate": "20251231"
+        }
+    },
+    {
+        "expires": "2026-04-01T07:00:00.000Z",
+        "ADAMS COUNTY": {
+            "locationCode": 100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "HATTON": {
+            "locationCode": 101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LIND": {
+            "locationCode": 102,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OTHELLO": {
+            "locationCode": 103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RITZVILLE": {
+            "locationCode": 104,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WASHTUCNA": {
+            "locationCode": 105,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ASOTIN COUNTY": {
+            "locationCode": 200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ASOTIN": {
+            "locationCode": 201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CLARKSTON": {
+            "locationCode": 202,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BENTON COUNTY": {
+            "locationCode": 300,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BENTON": {
+            "locationCode": 301,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KENNEWICK": {
+            "locationCode": 302,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PROSSER": {
+            "locationCode": 303,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RICHLAND": {
+            "locationCode": 304,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WEST RICHLAND": {
+            "locationCode": 305,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BENTON-PTBA": {
+            "locationCode": 333,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHELAN COUNTY": {
+            "locationCode": 400,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CASHMERE": {
+            "locationCode": 401,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHELAN": {
+            "locationCode": 402,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ENTIAT": {
+            "locationCode": 403,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LEAVENWORTH": {
+            "locationCode": 404,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WENATCHEE": {
+            "locationCode": 405,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - CHELAN COUNTY": {
+            "locationCode": 407,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CLALLAM COUNTY": {
+            "locationCode": 500,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FORKS": {
+            "locationCode": 501,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PORT ANGELES": {
+            "locationCode": 502,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SEQUIM": {
+            "locationCode": 503,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CLARK COUNTY": {
+            "locationCode": 600,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BATTLE GROUND": {
+            "locationCode": 601,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CAMAS": {
+            "locationCode": 602,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LA CENTER": {
+            "locationCode": 603,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RIDGEFIELD": {
+            "locationCode": 604,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "VANCOUVER": {
+            "locationCode": 605,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WASHOUGAL": {
+            "locationCode": 606,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "YACOLT": {
+            "locationCode": 607,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COWLITZ TRIBE - CLARK COUNTY": {
+            "locationCode": 609,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COWLITZ TRIBE - LA CENTER": {
+            "locationCode": 611,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CLARK-PTBA": {
+            "locationCode": 666,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLUMBIA COUNTY": {
+            "locationCode": 700,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DAYTON": {
+            "locationCode": 701,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STARBUCK": {
+            "locationCode": 702,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COWLITZ COUNTY": {
+            "locationCode": 800,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CASTLE ROCK": {
+            "locationCode": 801,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KALAMA": {
+            "locationCode": 802,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KELSO": {
+            "locationCode": 803,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LONGVIEW": {
+            "locationCode": 804,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WOODLAND": {
+            "locationCode": 805,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DOUGLAS COUNTY": {
+            "locationCode": 900,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BRIDGEPORT": {
+            "locationCode": 901,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "EAST WENATCHEE": {
+            "locationCode": 902,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MANSFIELD": {
+            "locationCode": 903,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ROCK ISLAND": {
+            "locationCode": 904,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WATERVILLE": {
+            "locationCode": 905,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DOUGLAS-PTBA": {
+            "locationCode": 909,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FERRY COUNTY": {
+            "locationCode": 1000,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "REPUBLIC": {
+            "locationCode": 1001,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - FERRY COUNTY": {
+            "locationCode": 1003,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FRANKLIN COUNTY": {
+            "locationCode": 1100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CONNELL": {
+            "locationCode": 1101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KAHLOTUS": {
+            "locationCode": 1102,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MESA": {
+            "locationCode": 1103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PASCO": {
+            "locationCode": 1104,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FRANKLIN-PTBA": {
+            "locationCode": 1111,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GARFIELD COUNTY": {
+            "locationCode": 1200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "POMEROY": {
+            "locationCode": 1201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GRANT COUNTY": {
+            "locationCode": 1300,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COULEE": {
+            "locationCode": 1301,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ELECTRIC": {
+            "locationCode": 1302,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "EPHRATA": {
+            "locationCode": 1303,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GEORGE": {
+            "locationCode": 1304,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GRAND COULEE": {
+            "locationCode": 1305,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "HARTLINE": {
+            "locationCode": 1306,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KRUPP": {
+            "locationCode": 1307,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MATTAWA": {
+            "locationCode": 1308,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MOSES LAKE": {
+            "locationCode": 1309,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "QUINCY": {
+            "locationCode": 1310,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ROYAL": {
+            "locationCode": 1311,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SOAP LAKE": {
+            "locationCode": 1312,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WARDEN": {
+            "locationCode": 1313,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WILSON CREEK": {
+            "locationCode": 1315,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - MOSES LAKE": {
+            "locationCode": 1329,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GRAYS HARBOR COUNTY": {
+            "locationCode": 1400,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ABERDEEN": {
+            "locationCode": 1401,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.0258,
+            "rta": 0,
+            "totalTaxRate": 0.0908,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COSMOPOLIS": {
+            "locationCode": 1402,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ELMA": {
+            "locationCode": 1403,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "HOQUIAM": {
+            "locationCode": 1404,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MCCLEARY": {
+            "locationCode": 1405,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MONTESANO": {
+            "locationCode": 1406,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OAKVILLE": {
+            "locationCode": 1407,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WESTPORT": {
+            "locationCode": 1408,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OCEAN SHORES": {
+            "locationCode": 1409,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHEHALIS TRIBES - GRAYS HARBOR COUNTY": {
+            "locationCode": 1411,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHEHALIS TRIBES - OAKVILLE": {
+            "locationCode": 1413,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ISLAND COUNTY": {
+            "locationCode": 1500,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COUPEVILLE": {
+            "locationCode": 1501,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LANGLEY": {
+            "locationCode": 1502,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OAK HARBOR": {
+            "locationCode": 1503,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "JEFFERSON COUNTY": {
+            "locationCode": 1600,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PORT TOWNSEND": {
+            "locationCode": 1601,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SUQUAMISH TRIBE - JEFFERSON COUNTY": {
+            "locationCode": 1603,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KING COUNTY RTA": {
+            "locationCode": 1700,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ALGONA": {
+            "locationCode": 1701,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "AUBURN/KING RTA": {
+            "locationCode": 1702,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BEAUX ARTS VILLAGE": {
+            "locationCode": 1703,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BELLEVUE RTA": {
+            "locationCode": 1704,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BLACK DIAMOND": {
+            "locationCode": 1705,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BOTHELL/KING": {
+            "locationCode": 1706,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CARNATION": {
+            "locationCode": 1707,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CLYDE HILL": {
+            "locationCode": 1708,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DES MOINES": {
+            "locationCode": 1709,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DUVALL": {
+            "locationCode": 1710,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ENUMCLAW": {
+            "locationCode": 1711,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COVINGTON": {
+            "locationCode": 1712,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "HUNTS POINT": {
+            "locationCode": 1713,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ISSAQUAH RTA": {
+            "locationCode": 1714,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KENT RTA": {
+            "locationCode": 1715,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KIRKLAND": {
+            "locationCode": 1716,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LAKE FOREST PARK": {
+            "locationCode": 1717,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MEDINA": {
+            "locationCode": 1718,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MERCER ISLAND": {
+            "locationCode": 1719,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MAPLE VALLEY": {
+            "locationCode": 1720,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NORMANDY PARK": {
+            "locationCode": 1721,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NORTH BEND": {
+            "locationCode": 1722,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PACIFIC/KING": {
+            "locationCode": 1723,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "REDMOND RTA": {
+            "locationCode": 1724,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RENTON RTA": {
+            "locationCode": 1725,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SEATTLE": {
+            "locationCode": 1726,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.0405,
+            "rta": 0,
+            "totalTaxRate": 0.1055,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SKYKOMISH": {
+            "locationCode": 1727,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SNOQUALMIE": {
+            "locationCode": 1728,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TUKWILA": {
+            "locationCode": 1729,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "YARROW POINT": {
+            "locationCode": 1730,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MILTON/KING": {
+            "locationCode": 1731,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FEDERAL WAY": {
+            "locationCode": 1732,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SEATAC": {
+            "locationCode": 1733,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.039,
+            "rta": 0,
+            "totalTaxRate": 0.104,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BURIEN": {
+            "locationCode": 1734,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WOODINVILLE RTA": {
+            "locationCode": 1735,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NEWCASTLE": {
+            "locationCode": 1736,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SHORELINE": {
+            "locationCode": 1737,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KENMORE": {
+            "locationCode": 1738,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SAMMAMISH RTA": {
+            "locationCode": 1739,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP TRIBE - FEDERAL WAY": {
+            "locationCode": 1741,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KITSAP COUNTY": {
+            "locationCode": 1800,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BREMERTON": {
+            "locationCode": 1801,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PORT ORCHARD": {
+            "locationCode": 1802,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "POULSBO": {
+            "locationCode": 1803,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BAINBRIDGE ISLAND": {
+            "locationCode": 1804,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SUQUAMISH TRIBE - KITSAP COUNTY": {
+            "locationCode": 1805,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SUQUAMISH TRIBE - BREMERTON": {
+            "locationCode": 1807,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KITTITAS COUNTY": {
+            "locationCode": 1900,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CLE ELUM": {
+            "locationCode": 1901,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ELLENSBURG": {
+            "locationCode": 1902,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KITTITAS": {
+            "locationCode": 1903,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ROSLYN": {
+            "locationCode": 1904,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SOUTH CLE ELUM": {
+            "locationCode": 1905,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KLICKITAT COUNTY": {
+            "locationCode": 2000,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BINGEN": {
+            "locationCode": 2001,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GOLDENDALE": {
+            "locationCode": 2002,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.011,
+            "rta": 0,
+            "totalTaxRate": 0.076,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WHITE SALMON": {
+            "locationCode": 2003,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LEWIS COUNTY": {
+            "locationCode": 2100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CENTRALIA": {
+            "locationCode": 2101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHEHALIS": {
+            "locationCode": 2102,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MORTON": {
+            "locationCode": 2103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MOSSYROCK": {
+            "locationCode": 2104,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NAPAVINE": {
+            "locationCode": 2105,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PE ELL": {
+            "locationCode": 2106,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TOLEDO": {
+            "locationCode": 2107,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "VADER": {
+            "locationCode": 2108,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WINLOCK": {
+            "locationCode": 2109,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHEHALIS TRIBES - LEWIS COUNTY": {
+            "locationCode": 2111,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LINCOLN COUNTY": {
+            "locationCode": 2200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ALMIRA": {
+            "locationCode": 2201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CRESTON": {
+            "locationCode": 2202,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DAVENPORT": {
+            "locationCode": 2203,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "HARRINGTON": {
+            "locationCode": 2204,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ODESSA": {
+            "locationCode": 2205,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "REARDAN": {
+            "locationCode": 2206,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SPRAGUE": {
+            "locationCode": 2207,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WILBUR": {
+            "locationCode": 2208,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MASON COUNTY": {
+            "locationCode": 2300,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SHELTON": {
+            "locationCode": 2301,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SQUAXIN ISLAND TRIBE - MASON COUNTY": {
+            "locationCode": 2303,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OKANOGAN COUNTY": {
+            "locationCode": 2400,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BREWSTER": {
+            "locationCode": 2401,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CONCONULLY": {
+            "locationCode": 2402,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COULEE DAM": {
+            "locationCode": 2403,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ELMER": {
+            "locationCode": 2404,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NESPELEM": {
+            "locationCode": 2405,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OKANOGAN": {
+            "locationCode": 2406,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OMAK": {
+            "locationCode": 2407,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OROVILLE": {
+            "locationCode": 2408,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PATEROS": {
+            "locationCode": 2409,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RIVERSIDE": {
+            "locationCode": 2410,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TONASKET": {
+            "locationCode": 2411,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TWISP": {
+            "locationCode": 2412,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WINTHROP": {
+            "locationCode": 2413,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OKANOGAN-PTBA": {
+            "locationCode": 2424,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - OKANOGAN COUNTY": {
+            "locationCode": 2425,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - OKANOGAN-PTBA": {
+            "locationCode": 2427,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - COULEE DAM": {
+            "locationCode": 2429,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - NESPELEM": {
+            "locationCode": 2431,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - OKANOGAN": {
+            "locationCode": 2433,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE TRIBES - OMAK": {
+            "locationCode": 2435,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PACIFIC COUNTY": {
+            "locationCode": 2500,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ILWACO": {
+            "locationCode": 2501,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LONG BEACH": {
+            "locationCode": 2502,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RAYMOND": {
+            "locationCode": 2503,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SOUTH BEND": {
+            "locationCode": 2504,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PEND OREILLE COUNTY": {
+            "locationCode": 2600,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CUSICK": {
+            "locationCode": 2601,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "IONE": {
+            "locationCode": 2602,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "METALINE": {
+            "locationCode": 2603,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "METALINE FALLS": {
+            "locationCode": 2604,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NEWPORT": {
+            "locationCode": 2605,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KALISPEL TRIBE - PEND OREILLE COUNTY": {
+            "locationCode": 2607,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PIERCE COUNTY RTA": {
+            "locationCode": 2700,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BONNEY LAKE RTA": {
+            "locationCode": 2701,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BUCKLEY": {
+            "locationCode": 2702,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CARBONADO": {
+            "locationCode": 2703,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DUPONT": {
+            "locationCode": 2704,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.031,
+            "rta": 0,
+            "totalTaxRate": 0.096,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "EATONVILLE": {
+            "locationCode": 2705,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FIFE": {
+            "locationCode": 2706,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FIRCREST": {
+            "locationCode": 2707,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GIG HARBOR": {
+            "locationCode": 2708,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MILTON/PIERCE": {
+            "locationCode": 2709,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ORTING": {
+            "locationCode": 2710,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP": {
+            "locationCode": 2711,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.037,
+            "rta": 0,
+            "totalTaxRate": 0.102,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ROY": {
+            "locationCode": 2712,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RUSTON": {
+            "locationCode": 2713,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SOUTH PRAIRIE": {
+            "locationCode": 2714,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STEILACOOM": {
+            "locationCode": 2715,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SUMNER": {
+            "locationCode": 2716,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.031,
+            "rta": 0,
+            "totalTaxRate": 0.096,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TACOMA": {
+            "locationCode": 2717,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WILKESON": {
+            "locationCode": 2718,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "UNIVERSITY PLACE": {
+            "locationCode": 2719,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "EDGEWOOD": {
+            "locationCode": 2720,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LAKEWOOD": {
+            "locationCode": 2721,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PACIFIC/PIERCE": {
+            "locationCode": 2723,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.037,
+            "rta": 0,
+            "totalTaxRate": 0.102,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "AUBURN/PIERCE": {
+            "locationCode": 2724,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.037,
+            "rta": 0,
+            "totalTaxRate": 0.102,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NISQUALLY TRIBE - PIERCE COUNTY RTA": {
+            "locationCode": 2725,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PIERCE-PTBA RTA": {
+            "locationCode": 2727,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NISQUALLY TRIBE - LAKEWOOD": {
+            "locationCode": 2731,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP TRIBE - PUYALLUP": {
+            "locationCode": 2733,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.037,
+            "rta": 0,
+            "totalTaxRate": 0.102,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP TRIBE - FIFE": {
+            "locationCode": 2735,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP TRIBE - MILTON": {
+            "locationCode": 2737,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP TRIBE - EDGEWOOD": {
+            "locationCode": 2739,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP TRIBE - TACOMA": {
+            "locationCode": 2741,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.038,
+            "rta": 0,
+            "totalTaxRate": 0.103,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP TRIBE - PIERCE COUNTY PTBA RTA": {
+            "locationCode": 2745,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.036,
+            "rta": 0,
+            "totalTaxRate": 0.101,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PIERCE PTBA - HBZ": {
+            "locationCode": 2787,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GIG HARBOR HBZ": {
+            "locationCode": 2788,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PIERCE NON-RTA HBZ": {
+            "locationCode": 2789,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SAN JUAN COUNTY": {
+            "locationCode": 2800,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.0185,
+            "rta": 0,
+            "totalTaxRate": 0.0835,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FRIDAY HARBOR": {
+            "locationCode": 2801,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.0215,
+            "rta": 0,
+            "totalTaxRate": 0.0865,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LUMMI NATION - SAN JUAN COUNTY": {
+            "locationCode": 2803,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.0185,
+            "rta": 0,
+            "totalTaxRate": 0.0835,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SKAGIT COUNTY": {
+            "locationCode": 2900,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ANACORTES": {
+            "locationCode": 2901,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BURLINGTON": {
+            "locationCode": 2902,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CONCRETE": {
+            "locationCode": 2903,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "HAMILTON": {
+            "locationCode": 2904,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LA CONNER": {
+            "locationCode": 2905,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LYMAN": {
+            "locationCode": 2906,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MOUNT VERNON": {
+            "locationCode": 2907,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SEDRO WOOLLEY": {
+            "locationCode": 2908,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SWINOMISH TRIBE - SKAGIT COUNTY": {
+            "locationCode": 2909,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SWINOMISH TRIBE - LA CONNER": {
+            "locationCode": 2911,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SKAGIT-PTBA": {
+            "locationCode": 2929,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SWINOMISH TRIBE - SKAGIT - PTBA": {
+            "locationCode": 2931,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.021,
+            "rta": 0,
+            "totalTaxRate": 0.086,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SKAMANIA COUNTY": {
+            "locationCode": 3000,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NORTH BONNEVILLE": {
+            "locationCode": 3001,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.012,
+            "rta": 0,
+            "totalTaxRate": 0.077,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STEVENSON": {
+            "locationCode": 3002,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SNOHOMISH COUNTY RTA": {
+            "locationCode": 3100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ARLINGTON": {
+            "locationCode": 3101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BRIER": {
+            "locationCode": 3102,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DARRINGTON": {
+            "locationCode": 3103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "EDMONDS": {
+            "locationCode": 3104,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.041,
+            "rta": 0,
+            "totalTaxRate": 0.106,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "EVERETT RTA": {
+            "locationCode": 3105,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.034,
+            "rta": 0,
+            "totalTaxRate": 0.099,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GOLD BAR": {
+            "locationCode": 3106,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GRANITE FALLS": {
+            "locationCode": 3107,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "INDEX": {
+            "locationCode": 3108,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LAKE STEVENS": {
+            "locationCode": 3109,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LYNNWOOD": {
+            "locationCode": 3110,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.041,
+            "rta": 0,
+            "totalTaxRate": 0.106,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MARYSVILLE": {
+            "locationCode": 3111,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MONROE": {
+            "locationCode": 3112,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MOUNTLAKE TERRACE": {
+            "locationCode": 3113,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MUKILTEO": {
+            "locationCode": 3114,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.041,
+            "rta": 0,
+            "totalTaxRate": 0.106,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SNOHOMISH": {
+            "locationCode": 3115,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STANWOOD": {
+            "locationCode": 3116,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SULTAN": {
+            "locationCode": 3117,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WOODWAY": {
+            "locationCode": 3118,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MILL CREEK": {
+            "locationCode": 3119,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.041,
+            "rta": 0,
+            "totalTaxRate": 0.106,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BOTHELL/SNOHOMISH": {
+            "locationCode": 3120,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TULALIP TRIBES - MARYSVILLE": {
+            "locationCode": 3121,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STILLAGUAMISH TRIBE - ARLINGTON": {
+            "locationCode": 3123,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.028,
+            "rta": 0,
+            "totalTaxRate": 0.093,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STILLAGUAMISH TRIBE - MARYSVILLE": {
+            "locationCode": 3125,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.029,
+            "rta": 0,
+            "totalTaxRate": 0.094,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SNOHOMISH-PTBA RTA": {
+            "locationCode": 3131,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.04,
+            "rta": 0,
+            "totalTaxRate": 0.105,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SPOKANE COUNTY": {
+            "locationCode": 3200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "AIRWAY HEIGHTS": {
+            "locationCode": 3201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHENEY": {
+            "locationCode": 3202,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "DEER PARK": {
+            "locationCode": 3203,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FAIRFIELD": {
+            "locationCode": 3204,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LATAH": {
+            "locationCode": 3205,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MEDICAL LAKE": {
+            "locationCode": 3206,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MILLWOOD": {
+            "locationCode": 3207,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ROCKFORD": {
+            "locationCode": 3208,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SPANGLE": {
+            "locationCode": 3209,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SPOKANE": {
+            "locationCode": 3210,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WAVERLY": {
+            "locationCode": 3211,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LIBERTY LAKE": {
+            "locationCode": 3212,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SPOKANE VALLEY": {
+            "locationCode": 3213,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KALISPEL TRIBE - AIRWAY HEIGHTS": {
+            "locationCode": 3215,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SPOKANE-PTBA": {
+            "locationCode": 3232,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STEVENS COUNTY": {
+            "locationCode": 3300,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHEWELAH": {
+            "locationCode": 3301,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLVILLE": {
+            "locationCode": 3302,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KETTLE FALLS": {
+            "locationCode": 3303,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MARCUS": {
+            "locationCode": 3304,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NORTHPORT": {
+            "locationCode": 3305,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SPRINGDALE": {
+            "locationCode": 3306,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "THURSTON COUNTY": {
+            "locationCode": 3400,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BUCODA": {
+            "locationCode": 3401,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LACEY": {
+            "locationCode": 3402,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.032,
+            "rta": 0,
+            "totalTaxRate": 0.097,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OLYMPIA": {
+            "locationCode": 3403,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.033,
+            "rta": 0,
+            "totalTaxRate": 0.098,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RAINIER": {
+            "locationCode": 3404,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TENINO": {
+            "locationCode": 3405,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TUMWATER": {
+            "locationCode": 3406,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.032,
+            "rta": 0,
+            "totalTaxRate": 0.097,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "YELM": {
+            "locationCode": 3407,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHEHALIS TRIBES - THURSTON COUNTY": {
+            "locationCode": 3409,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CHEHALIS TRIBES - TUMWATER": {
+            "locationCode": 3411,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.032,
+            "rta": 0,
+            "totalTaxRate": 0.097,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SQUAXIN ISLAND TRIBE - THURSTON COUNTY": {
+            "locationCode": 3413,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NISQUALLY TRIBE - THURSTON COUNTY": {
+            "locationCode": 3415,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NISQUALLY TRIBE - THURSTON COUNTY PTBA": {
+            "locationCode": 3417,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NISQUALLY TRIBE - LACEY": {
+            "locationCode": 3419,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.032,
+            "rta": 0,
+            "totalTaxRate": 0.097,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SQUAXIN ISLAND TRIBE - TUMWATER": {
+            "locationCode": 3421,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.032,
+            "rta": 0,
+            "totalTaxRate": 0.097,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "THURSTON-PTBA": {
+            "locationCode": 3434,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.03,
+            "rta": 0,
+            "totalTaxRate": 0.095,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WAHKIAKUM COUNTY": {
+            "locationCode": 3500,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "CATHLAMET": {
+            "locationCode": 3501,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.013,
+            "rta": 0,
+            "totalTaxRate": 0.078,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WALLA WALLA COUNTY": {
+            "locationCode": 3600,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLLEGE PLACE": {
+            "locationCode": 3601,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PRESCOTT": {
+            "locationCode": 3602,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.018,
+            "rta": 0,
+            "totalTaxRate": 0.083,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WAITSBURG": {
+            "locationCode": 3603,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WALLA WALLA": {
+            "locationCode": 3604,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WALLA WALLA-PTBA": {
+            "locationCode": 3636,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WHATCOM COUNTY": {
+            "locationCode": 3700,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BELLINGHAM": {
+            "locationCode": 3701,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BLAINE": {
+            "locationCode": 3702,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "EVERSON": {
+            "locationCode": 3703,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FERNDALE": {
+            "locationCode": 3704,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LYNDEN": {
+            "locationCode": 3705,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.027,
+            "rta": 0,
+            "totalTaxRate": 0.092,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NOOKSACK": {
+            "locationCode": 3706,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SUMAS": {
+            "locationCode": 3707,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LUMMI NATION - FERNDALE": {
+            "locationCode": 3709,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LUMMI NATION - WHATCOM COUNTY": {
+            "locationCode": 3711,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LUMMI NATION - BELLINGHAM": {
+            "locationCode": 3713,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WHATCOM-PTBA": {
+            "locationCode": 3737,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LUMMI NATION - WHATCOM-PTBA": {
+            "locationCode": 3739,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.023,
+            "rta": 0,
+            "totalTaxRate": 0.088,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WHITMAN COUNTY": {
+            "locationCode": 3800,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ALBION": {
+            "locationCode": 3801,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLFAX": {
+            "locationCode": 3802,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "COLTON": {
+            "locationCode": 3803,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ENDICOTT": {
+            "locationCode": 3804,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "FARMINGTON": {
+            "locationCode": 3805,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GARFIELD": {
+            "locationCode": 3806,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LA CROSSE": {
+            "locationCode": 3807,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "LAMONT": {
+            "locationCode": 3808,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MALDEN": {
+            "locationCode": 3809,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "OAKESDALE": {
+            "locationCode": 3810,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PALOUSE": {
+            "locationCode": 3811,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PULLMAN": {
+            "locationCode": 3812,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.015,
+            "rta": 0,
+            "totalTaxRate": 0.08,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ROSALIA": {
+            "locationCode": 3813,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ST. JOHN": {
+            "locationCode": 3814,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TEKOA": {
+            "locationCode": 3815,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "UNIONTOWN": {
+            "locationCode": 3816,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "YAKIMA COUNTY": {
+            "locationCode": 3900,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GRANDVIEW": {
+            "locationCode": 3901,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "GRANGER": {
+            "locationCode": 3902,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "HARRAH": {
+            "locationCode": 3903,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MABTON": {
+            "locationCode": 3904,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "MOXEE": {
+            "locationCode": 3905,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NACHES": {
+            "locationCode": 3906,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SELAH": {
+            "locationCode": 3907,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SUNNYSIDE": {
+            "locationCode": 3908,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TIETON": {
+            "locationCode": 3909,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TOPPENISH": {
+            "locationCode": 3910,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "UNION GAP": {
+            "locationCode": 3911,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.019,
+            "rta": 0,
+            "totalTaxRate": 0.084,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WAPATO": {
+            "locationCode": 3912,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "YAKIMA": {
+            "locationCode": 3913,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ZILLAH": {
+            "locationCode": 3914,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.017,
+            "rta": 0,
+            "totalTaxRate": 0.082,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KING COUNTY NON-RTA": {
+            "locationCode": 4000,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "AUBURN/KING NON-RTA": {
+            "locationCode": 4002,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BELLEVUE NON-RTA": {
+            "locationCode": 4004,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "ISSAQUAH NON-RTA": {
+            "locationCode": 4014,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "KENT NON-RTA": {
+            "locationCode": 4015,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "REDMOND NON-RTA": {
+            "locationCode": 4024,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.025,
+            "rta": 0,
+            "totalTaxRate": 0.09,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "RENTON NON-RTA": {
+            "locationCode": 4025,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "WOODINVILLE NON-RTA": {
+            "locationCode": 4035,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NEWCASTLE NON-RTA": {
+            "locationCode": 4036,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SAMMAMISH NON-RTA": {
+            "locationCode": 4039,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.024,
+            "rta": 0,
+            "totalTaxRate": 0.089,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PIERCE COUNTY NON-RTA": {
+            "locationCode": 4100,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "BONNEY LAKE NON-RTA": {
+            "locationCode": 4101,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "NISQUALLY TRIBE - PIERCE COUNTY NON-RTA": {
+            "locationCode": 4103,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PUYALLUP TRIBE - PIERCE COUNTY NON RTA": {
+            "locationCode": 4105,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.016,
+            "rta": 0,
+            "totalTaxRate": 0.081,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "PIERCE-PTBA NON-RTA": {
+            "locationCode": 4127,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.022,
+            "rta": 0,
+            "totalTaxRate": 0.087,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SNOHOMISH COUNTY NON-RTA": {
+            "locationCode": 4200,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STILLAGUAMISH TRIBE - SNOHOMISH COUNTY NON-RTA": {
+            "locationCode": 4201,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.014,
+            "rta": 0,
+            "totalTaxRate": 0.079,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "EVERETT NON-RTA": {
+            "locationCode": 4205,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.02,
+            "rta": 0,
+            "totalTaxRate": 0.085,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "SNOHOMISH-PTBA NON-RTA": {
+            "locationCode": 4231,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "TULALIP TRIBES - SNOHOMISH-PTBA NON-RTA": {
+            "locationCode": 4233,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
+        },
+        "STILLAGUAMISH TRIBE - SNOHOMISH-PTBA NON-RTA": {
+            "locationCode": 4237,
+            "stateTaxRate": 0.065,
+            "localTaxRate": 0.026,
+            "rta": 0,
+            "totalTaxRate": 0.091,
+            "effectiveDate": "20260101",
+            "expirationDate": "20260331"
         }
     }
 ];
