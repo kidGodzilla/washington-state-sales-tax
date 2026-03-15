@@ -6,7 +6,7 @@ This is a very simple library to calculate sales tax rates for Washington State,
 
 Useful if your only nexus is in Washington state. I take no responsibility for your use of this library (see license). API is unofficially modeled after TaxJar (no affiliation, this is what I was replacing). Nice product which also prepares your filing for you (for a fee), and handles more complex tax scenarios.
 
-**Tax Rates valid for Jan 01 2024 to Apr 01 2026.**
+**Tax Rates valid for Jan 01 2025 to Jul 01 2026.**
 
 ## How it works
 
@@ -15,9 +15,9 @@ If a named tax rate is provided by Washington State via https://dor.wa.gov/get-f
 
 
 ### County lookup via Mapquest Open APIs
-If a rate for a city is not explicitly provided, it is charged the county unincorporated rate. 
+If a rate for a city is not explicitly provided, it is charged the county unincorporated rate.
 
-To determine this, we need to first determine which county a city is in. 
+To determine this, we need to first determine which county a city is in.
 
 For this, we are using the Mapquest Open API.  https://developer.mapquest.com/documentation/open/
 
